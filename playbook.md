@@ -66,12 +66,7 @@ undefined internal link to this URL: "#heading=h.9l5cnqlshx7q".link text: earlie
 
 ##
 
-> ![book.png](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png) 
-> 
-> Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” 
-> The SVP leader assigned someone on her team to perform research and work with the Localization team, since that data was not available at the time.
-> Kate was able to establish an on-going relationship with Strategy by presenting ROI data by language and by product to them on a regular basis, which evolved into
-> a mutually beneficial partnership that facilitated more in-depth analysis on existing and potential target markets.
+
 
 
 ## License Information and Restrictions
@@ -89,7 +84,11 @@ You **are allowed** to use the content of this material provided that you follow
 
 As per the license terms, you must always give appropriate credit, provide a link to the[ license](https://creativecommons.org/licenses/by-nc-sa/4.0/), and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-
+> ![book.png](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png) 
+> Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” 
+> The SVP leader assigned someone on her team to perform research and work with the Localization team, since that data was not available at the time.
+> Kate was able to establish an on-going relationship with Strategy by presenting ROI data by language and by product to them on a regular basis, which evolved into
+> a mutually beneficial partnership that facilitated more in-depth analysis on existing and potential target markets.
 
 
 ## Table of Contents
