@@ -107,8 +107,8 @@ As per the license terms, you must always give appropriate credit, provide a lin
 > a mutually beneficial partnership that facilitated more in-depth analysis on existing and potential target markets.
 
 
-![image](https://user-images.githubusercontent.com/31448216/137024613-698c30df-a022-4e8f-af73-2e640bc46dfa.png) 
-Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” The SVP 
+![image](https://user-images.githubusercontent.com/31448216/137025569-b8508075-dac0-41f3-9691-d758499342c3.png) 
+*Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” The SVP 
 leader assigned someone on her team to perform research and work with the Localization team, since that data was not available at the time. 
 Kate was able to establish an on-going relationship with Strategy by presenting ROI data by language and by product to them on a regular basis, which evolved into
 a mutually beneficial partnership that facilitated more in-depth analysis on existing and potential target markets. 
