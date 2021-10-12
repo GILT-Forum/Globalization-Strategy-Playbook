@@ -60,7 +60,7 @@ undefined internal link to this URL: "#heading=h.9l5cnqlshx7q".link text: earlie
 
 <p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
-![book.png](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/book.png) Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” The SVP leader assigned someone on her team to perform research and work with the Localization team, since that data was not available at the time.
+![book.png](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png) Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” The SVP leader assigned someone on her team to perform research and work with the Localization team, since that data was not available at the time.
     Kate was able to establish an on-going relationship with Strategy by presenting ROI data by language and by product to them on a regular basis, which evolved into a mutually beneficial partnership that facilitated more in-depth analysis on existing and potential target markets.
 
 
