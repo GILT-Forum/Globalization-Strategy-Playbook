@@ -155,10 +155,10 @@ Using our Machine Translation infrastructure analogy above, you can decide to re
 
 And that is why the strategy statement has to be both specific and generic. It sets your organization’s priority without specifying the exact way of execution. Your execution plan and measurement would be your guide on where you are on the road and how likely it is for you to hit your goal.
 
-| ![book.png](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/book.png)  |                                        |Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” The SVP leader assigned someone on her team to perform research and work with the Localization team, since that data was not available at the time.
+| ![book.png](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/book.png)  |  Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” The SVP leader assigned someone on her team to perform research and work with the Localization team, since that data was not available at the time.
 <p>
 
-    Kate was able to establish an on-going relationship with Strategy by presenting ROI data by language and by product to them on a regular basis, which evolved into a mutually beneficial partnership that facilitated more in-depth analysis on existing and potential target markets.
+    Kate was able to establish an on-going relationship with Strategy by presenting ROI data by language and by product to them on a regular basis, which evolved into a mutually beneficial partnership that facilitated more in-depth analysis on existing and potential target markets.           |
 |----------------------------------------|----------------------------------------|
 |                                        |                                        |
 
