@@ -65,6 +65,7 @@ undefined internal link to this URL: "#heading=h.9l5cnqlshx7q".link text: earlie
 > research and work with the Localization team, since that data was not available at the time.
 > Kate was able to establish an on-going relationship with Strategy by presenting ROI data by language and by product to them on a regular basis, which evolved into
 > a mutually beneficial partnership that facilitated more in-depth analysis on existing and potential target markets.
+>
 
 
 # Globalization Strategy Playbook: A Guide for Localization and Globalization Professionals
