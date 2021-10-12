@@ -229,7 +229,7 @@ Whether you are taking over Globalization for an existing department, developing
 
 <table>
   <tr>
-   <td>!https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/book.png)
+   <td>![Example](./media/book.png)
    </td>
    <td>
     Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” The SVP leader assigned someone on her team to perform research and work with the Localization team, since that data was not available at the time.
