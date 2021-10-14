@@ -3,6 +3,7 @@
 ### *A Guide for Localization and Globalization Professionals*
 
 
+
    **Authors: Strategic Thinking Group:**
    
          Melissa Biggs (Locale Solutions)
@@ -615,20 +616,15 @@ Engaging with a multiplicity of stakeholders is a delicate and challenging exerc
 ## Chapter 4: Language Strategy 
 
  “If you talk to a man in a language he understands, that goes to his head. If you talk to him **in his language**, _that goes to his heart._”
-
 _—Nelson Mandela_
-
 
 ### Defining the Language Strategy
 
-A language strategy is unique_ _to each company or business, based on multiple factors across business objectives, customer, markets, brand, product, and content. Language strategy is a long-term, living framework.
+A language strategy is unique to each company or business, based on multiple factors across business objectives, customer, markets, brand, product, and content. Language strategy is a long-term, living framework.
 
 Language strategy encompasses a recommended set of _languages,_ for a specific business purpose or group, based on an analysis of desired reach and outcome. It is often tied to KPIs (Key Performance Indicators) such as sales, revenue, visits, or support incidents, as well as other factors such as geopolitical realities. It is confined by budget, resources, tool capabilities, and other practicalities.
 
 Language Strategy _is not:_
-
-
-
 * A business plan, although it often complements one.
 * Strictly defined by countries or even regions – one needs to understand the specific language needs of the given target country. For example, there may be legal requirements, such as in Canada, where both English and Canadian French are supported. Or in some cases, such as in India depending on the target audience, English may be acceptable or even preferred.
 * An inflexible mandate – rarely do companies get top-down support for a mandated language strategy, which means the onus is on the business owner to secure budget, and on the Globalization team to consult on the right set of languages to capitalize on the desired business outcomes.
@@ -647,20 +643,15 @@ Finally, articulate that international audiences exist within countries and regi
 
 ### Partners and Audience for Language Strategy
 
-
-        Eva faces a challenge that she has experienced many times in companies large and small: an inconsistent customer journey in interactions with the company from research and consideration, to purchase, then to support. 
-
-
-        In Tier 1 markets like Germany and France, the experience is relatively seamless with consistent language support throughout the customer’s transactions. However, for lower tiered markets, such as Vietnam, the customer journey is disjointed at best. 
-
-
-        While a customer can search on Google and find the company's products, when they get to the website, the experience is in English. When they call to purchase, they are greeted in their native language. However, if they seek support after buying, they find that while support is available in local language, the process to retrieve documentation or drivers from the site is again in English. 
-
-
-        Enabling local language support across a number of different sites, platforms and business units is no simple task, and gaining agreement across them on the need for consistency is a journey all its own. 
+> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Eva faces a challenge that she has experienced many times in companies large and small: an inconsistent customer journey in interactions with the company from research and consideration, to purchase, then to support. 
+>
+>In Tier 1 markets like Germany and France, the experience is relatively seamless with consistent language support throughout the customer’s transactions. However, for lower tiered markets, such as Vietnam, the customer journey is disjointed at best. 
+>
+>While a customer can search on Google and find the company's products, when they get to the website, the experience is in English. When they call to purchase, they are greeted in their native language. However, if they seek support after buying, they find that while support is available in local language, the process to retrieve documentation or drivers from the site is again in English. 
+>
+>Enabling local language support across a number of different sites, platforms and business units is no simple task, and gaining agreement across them on the need for consistency is a journey all its own. 
 
 Successfully defining, accommodating and managing the needs of your language partners and your company’s audience are key to your business and strategy success. Participants and those who benefit from a language strategy are the two cornerstones of your strategy.
-
 
 #### Key Stakeholders
 
@@ -675,21 +666,13 @@ Any or all of these functions may represent those key stakeholders, Customers an
 
 #### Drivers of Language Strategy
 
-As mentioned in Chapter 2, “Strategy Overview,” depending on the company structure and operations, a number of the key stakeholders may also function as drivers of the language strategy. 
+As mentioned in Chapter 2, [“Strategy Overview,”](#chapter-2-strategy-overview) depending on the company structure and operations, a number of the key stakeholders may also function as drivers of the language strategy. 
 
 These drivers could include the following:
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
+![Language Strategy Drivers Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%204_Lang%20Strategy%20Drivers.png)
 
 Drivers of language strategy may vary, depending on many factors, including type of company (B2B, B2C, Consumer, Non-Profit, etc.), the company’s business vertical. Drivers of language strategy may participate, or be included in governance initiatives. (See section 5.6) Regardless of title or department, language strategy is typically driven by one of three forces:
-
-
 
 * Desire to bring customers in (to buy, participate, donate, etc.).
 * Desire to “shift left”—moving customers from more costly or frictioned contact modes, like phone, to less costly modes like self-help on the web.
@@ -697,12 +680,9 @@ Drivers of language strategy may vary, depending on many factors, including type
 
 These driving forces are what you need to hitch your cart to, or ride their wave. By riding alongside these initiatives, and partnering with those individuals or initiatives that are driving them, you have a far greater chance of success in educating on, and selling the value of, a unified (or at least well thought out), language strategy.
 
-
 ### Building the Strategy
 
 When defining a language strategy, first and foremost one has to focus and prioritize the company’s business objectives. Consider the following:
-
-
 
 * **Business type**
 
@@ -723,14 +703,11 @@ When defining a language strategy, first and foremost one has to focus and prior
     * Consider niche or long-tail languages. What should be the approach to long-tail languages? For high-volume languages, the business case is often strong, but as we move into tier 2, tier 3, and smaller markets, the justification becomes harder. 
 
         However, for specific products or domains, the need is real (see for example, Translators Without Borders or other NGOs involved in rescue operations on a global scale, who might have a completely different way of prioritizing languages or building a language strategy).
-
     * We should consider the digital divide between languages. One facet of this is the terminologies. In many long tail languages, it is not easy to translate cutting edge technologies. Even though we created new terminologies in those long-tail languages, they might not be easy for customers to understand. 
     * Language tiering can help with your vendor engagement and delivery model. For top tier languages you might consider hiring dedicated linguists and language leads, or have a different, more stringent vendor selection and requirements process. You might need one vendor per language or subset of languages to achieve desired outcomes in the target market.
 * **And the exceptions**
 
     Although there might be an official language strategy, it should probably be more an ideal than a mandate. In large complex business organizations some business units or subsidiaries might have specific business needs, or limited target audiences. As a consequence, they might decide to support a language set that differs from the official POR (plan of record). Typically, they will do fewer languages, as more might be problematic (as it increases the risks of gaps in the customer journey). On the other hand, when products are closely related, and many customers have multiple products installed, it makes sense to align the language strategy for the products.
-
-
 
 ### Components and Alignment 
 
@@ -738,9 +715,7 @@ Thinking and designing broadly when producing a language strategy will yield a m
 
 Examples of components of your language strategy include:
 
-
-
-* Compliance with regional (e.g., EU) or country legal requirements (see [https://slator.com/what-you-need-to-know-about-eu-language-law/](https://slator.com/what-you-need-to-know-about-eu-language-law/) or application of the force majeure regulation for language coverage in France).
+* Compliance with regional (e.g., EU) or country legal requirements (see this [Slator article](https://slator.com/what-you-need-to-know-about-eu-language-law/) or application of the force majeure regulation for language coverage in France).
 * Specific country requirements might dictate elements of the language strategy (such as, if you do business in Canada, you might need to support both French and English).
 * The type of company and product mixes that may drive portions of the language strategy. 
 * Specific customer requirements which might dictate elements of the language strategy. For example, drivers pre-installed on HP or Dell systems have to be localized by their suppliers into 20 languages. And another example: business with government entities, university and school systems, might require full localization.
@@ -748,11 +723,8 @@ Examples of components of your language strategy include:
     * Reach 98% of internet users in their native language
     * Add support for language X when revenue from countries where language X is spoken reaches $xxx
     * Add support for language X if language X is also supported by the main competitor(s), etc.
-* A data model and data collection for measuring and aligning your language strategy (see language strategy model in the chapter “
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Data Analytics for Globalization Strategy"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Data Analytics for Globalization Strategy](#heading=h.phm6rqybs5ot)”). This type of model mixes various data points used to build a robust language strategy: country data, user data, competitive data, cost data, sales data, regulatory data, etc. 
+* A data model and data collection for measuring and aligning your language strategy (see language strategy model in the chapter ["Data Analytics for Global Strategy"](#chapter-6:-data-analytics-for-globalization-strategy)).
+This type of model mixes various data points used to build a robust language strategy: country data, user data, competitive data, cost data, sales data, regulatory data, etc. 
 
 At the end, the language strategy should support a solid ROI story, minimize legal and geo-political risks, and improve the overall customer experience on a global scale.
 
@@ -764,12 +736,9 @@ Governance around language strategy is simpler, and potentially more effective, 
 
 Once the components of the language strategy are in place, refinements may be necessary to customize around use cases and maintain them appropriately.
 
-
-
 * Build in flexibility for a variety of content delivery features—for example, video, chat, text-to-speech, graphical imagery, etc.
 * Practice “managed rollouts” for your language coverage.
 * Understand that your language strategy might need to adapt, even at a country level, to your target population. For example, if your audience is mostly urban professionals in India, using English only might be acceptable. However, if your audience is more rural, then you might need not only Hindi, but another five, ten or more local languages to reach your audience in a language they understand.
-
 
 ### Governance: Best Practices for Language Strategy Oversight
 
@@ -789,21 +758,17 @@ Such activities may include hiring sales force and marketing resources in the ne
 
 A mature organization may have a template that helps to holistically approach product rollout to a new market. More often than not, however, it falls on a Globalization leader to ensure that such questions are raised and addressed.
 
-
 ### Deeper Understanding of Language Strategy
 
 As you define and refine your language strategy, it is useful to have a basic understanding of the differences between various languages or language families, locales, scripts, and other cultural aspects that might impact the way you implement your strategy.
-
 
 #### Spoken or Written
 
 A first difference to consider is how spoken languages differ from written languages. We could of course ‘oppose’ the languages that exist mostly in a spoken-only form, with some of them classified as endangered, to those that exist in both spoken and written forms. 
 
-According to Ethnologue data ( [https://www.ethnologue.com/](https://www.ethnologue.com/)), out of the around 7,150 languages spoken in the world today, some 4,000, or about half, have developed a writing system. Of those, maybe 100 can be considered ‘vehicular languages,’ and just a dozen of them will enable you to reach 90% of the world population in a language they speak, often natively or officially: Chinese and English, plus Hindi, Arabic, Spanish, Bengali, Portuguese, Russian, Urdu, French, Japanese, and German. Still, many international companies ignore some of these languages, while supporting other languages that reach a comparatively smaller population (although probably richer, in GDP per capita).
+According to Ethnologue data ([https://www.ethnologue.com](https://www.ethnologue.com/)), out of the around 7,150 languages spoken in the world today, some 4,000, or about half, have developed a writing system. Of those, maybe 100 can be considered ‘vehicular languages,’ and just a dozen of them will enable you to reach 90% of the world population in a language they speak, often natively or officially: Chinese and English, plus Hindi, Arabic, Spanish, Bengali, Portuguese, Russian, Urdu, French, Japanese, and German. Still, many international companies ignore some of these languages, while supporting other languages that reach a comparatively smaller population (although probably richer, in GDP per capita).
 
 We’re mentioning spoken and written languages here for a few reasons:
-
-
 
 * Historically, in the area of software or content localization, we have worked mostly with written text. However, we expect Globalization to deal more and more with voice-enabled applications and conversational interfaces in the near future, which will require our industry to get much better at handling spoken text. 
 
@@ -816,8 +781,6 @@ Written languages can be classified in two main groups based on their writing sy
 
 Among the alphabetic scripts, we can include:
 
-
-
 * Arabic, Farsi (Persian), Hebrew, and Urdu, all being written right-to-left, all being also considered consonants-based (aka Abjads).
 * All languages based on the Latin script/alphabet, in its extended form, with diacritics, which today include most Western and Central European languages (some might also use the Cyrillic or Arabic script), as well as languages like Vietnamese or African languages for which written scripts were developed by European missionaries, like Zulu.
 * All languages based on the Cyrillic alphabet.
@@ -828,8 +791,6 @@ Among the alphabetic scripts, we can include:
 
 Among the syllabic languages, we can include:
 
-
-
 * The logo-syllabic languages like Chinese and Japanese (Kanji) – for these languages, characters represent both sound (syllable) and meaning, with words made up of one or more characters. Typically, there are multiple characters for each possible syllable, each with a different meaning.
 * Most languages from the Indian subcontinent, such as Bengali, Hindi (Devanagari), Malayalam, Punjabi, Tamil, Telugu, etc.;
     * Burmese, Khmer, Lao.
@@ -838,17 +799,13 @@ Among the syllabic languages, we can include:
 
 We will also mention here Bamum, a language spoken in parts of Cameroon, as an interesting case of a language that historically started using a syllabic script upon its creation in 1896, but later switched to an alphabetic script during the French colonial era. Today, efforts are made to revive the Bamum Syllabary despite the fact that many books, as well as the corresponding printing equipment, were destroyed a century ago.
 
-
 #### Linguistic and Cultural Considerations Impacting Localization
 
 With so many languages, scripts, and locales, each with specific cultural norms, there are many differences that you need to take into account, as they might have a significant impact on the success of a localization project, or simply the overall user experience. However, you can not typically address everything, and you should not let a flurry of details confuse you or lead you to some unwanted state of paralysis. We will list here a few that are quite generic, trusting that you will have no difficulties to expand on that list with topics that are relevant for your company or products.
 
-
-
 * **Text Expansion** – If you have ever compared different versions of the same content written in English, Spanish, Russian, or Chinese, you know that the amount of space needed for each version varies by language. Spanish and Russian, as well as most Western European or Eastern European languages typically “run” longer than English. 
 
     Thus it is wise to account for a text expansion of 30% or more, which can impact the layout in a PDF or PowerPoint presentation. However, for short sentences or segments, like the text on a UI button (one or two words), that text expansion can reach 300% or more. Of course, your desktop publishing (DTP) experts might figure out ways to adjust the font size or play with the kerning and tracking settings in your document. But the best approach is to ask your content creators to leave some white space. Basically, avoid cramming too much content on one page or one slide. 
-
 
     Chinese typically runs shorter, on the horizontal axis, than English, but it might require a bit more space vertically. You might also be more limited with font size adjustments, as most English characters might still be legible with a 7-point size, but some Chinese ones will be harder to decipher. Again, give yourself some space; this will make your content more pleasing to the reader anyway.
 
@@ -859,7 +816,6 @@ With so many languages, scripts, and locales, each with specific cultural norms,
 * **Forms used to collect personal information** – Here, the main problem is with cultural norms. Ideally, most forms would be dynamic, particularly registration forms where a user is asked to provide their contact information. This may include a street address, a phone number, and a ZIP code, or select a State from a drop-down menu. 
 
     Some of these concepts do not translate well from one country to the next. But please, do not force people to provide a ZIP code, or do not force them to enter a 10-digit phone number with a 3-digit area code. This will mark you as ‘American-centric.’ 
-
 
     Avoid running checks that might reject as invalid a letter c with cedilla (ç), a letter n with tilde (ñ), or a letter u with umlaut (ü), as all these letters are perfectly valid in other languages and found in first names and last names, or city names. And if you accept them for input, make sure your internal systems do not corrupt them at some point, turning a perfectly valid name or address into a meaningless string of characters.
 
@@ -873,12 +829,10 @@ With so many languages, scripts, and locales, each with specific cultural norms,
 
     Now, imagine if the sentence you send to translation is actually made of two segments, “Results” and “of”, concatenated at runtime as “Results + &lt;displayed_range> + of &lt;total_number_of_results>”. Not only would you be at risk of getting a translation for the word “of” that might not be correct in context, but your Japanese sentence would mimic the order of the English construct, which would be incorrect. 
 
-
     Ideally, you would send for translation a sentence like “Results {0} of {1}”, which makes it possible for the translators to properly place {0} and {1} in the translated version. However, for this to work, you are dependent on your developers using variables (placeholders) instead of ‘clever hacks’ that work for only a few languages. 
 
 
     Although many languages use grammatical constructs based on the Subject-Verb-Object (SVO) order used in English, Japanese uses Subject-Object-Verb (SOV), which is actually the most common type among natural languages with a word order preference.
-
 
 
 ### A Successful Language Strategy
@@ -891,18 +845,16 @@ You need to identify the issues, assess the impact, and discuss possible resolut
 
 Over time, you might notice that the most glaring issues, the ones that impact your largest foreign markets, or maybe the less complex to solve, stop appearing in your English products. This would be a good indication that you are doing something right and have managed to influence your stakeholders to adopt a more localization-friendly approach. Take a breather, you earned it, and celebrate!
 
-
-```
-Do you want to read more?
-Global Language Hotspots
-Differences between writing and speech
+>***Do you want to read more?*** 
+> [Global Language Hotspots](https://www.swarthmore.edu/SocSci/langhotspots/fastfacts.html)
+> [Differences between writing and speech](https://omniglot.com/writing/writingvspeech.htm)
 David Bellos (2012), Is That a Fish in Your Ear?, Faber and Faber Inc.
-Bamum Script
-The Unicode Standard, Bamum
-The Unicode Standard, Bamum supplements
-Plural Rules
-Subject–verb–object
-```
+[Bamum Script](https://en.wikipedia.org/wiki/Bamum_script)
+[The Unicode Standard, Bamum](https://www.unicode.org/charts/PDF/UA6A0.pdf)
+[The Unicode Standard, Bamum supplements](https://www.unicode.org/charts/PDF/U16800.pdf)
+[Plural Rules](http://cldr.unicode.org/index/cldr-spec/plural-rules)
+[Subject–verb–object](https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object)
+
 
 
 
