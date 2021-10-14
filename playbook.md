@@ -1,6 +1,6 @@
   
-# Globalization Strategy Playbook:                                 *A Guide for Localization and Globalization Professionals*
-
+# Globalization Strategy Playbook                                 
+### *A Guide for Localization and Globalization Professionals*
 
 
    **Authors: Strategic Thinking Group:**
