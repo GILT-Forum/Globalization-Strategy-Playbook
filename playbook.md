@@ -271,9 +271,9 @@ However, the first step in strategy development is assessment of your company ag
     If the answer is “yes,” then your team should be integrated into that group to some degree, depending on the level of maturity in the organization. Perhaps Globalization has made the Strategy group aware of the need to assess markets in alignment with languages rather than geographies (e.g. Germany rather than Central Europe, or Spanish-speaking countries rather than Europe). Or Globalization might contribute past performance data by language, since it is likely that only your department is collecting that data.
 
 
-![book image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png)
-> Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” The SVP leader assigned someone on her team to perform research and work with the Localization team, since that data was not available at the time. 
-Kate was able to establish an on-going relationship with Strategy by presenting ROI data by language and by product to them on a regular basis, which evolved into a mutually beneficial partnership that facilitated more in-depth analysis on existing and potential target markets. 
+><img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” The SVP leader assigned someone on her team to perform research and work with the Localization team, since that data was not available at the time. 
+>
+>Kate was able to establish an on-going relationship with Strategy by presenting ROI data by language and by product to them on a regular basis, which evolved into a mutually beneficial partnership that facilitated more in-depth analysis on existing and potential target markets. 
 
 2. If your company is not blessed with a Strategy Group, then who decides what markets to penetrate? Is it Sales? (It often is.) Some Localization departments report into what is euphemistically termed “Revenue,” which may provide an opportunity to contribute directly to the formulation of a global market strategy if one does not exist. 
 
