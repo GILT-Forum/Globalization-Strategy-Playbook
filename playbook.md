@@ -57,11 +57,11 @@ As per the license terms, you must always give appropriate credit, provide a lin
 
 <!-- vscode-markdown-toc -->
 
-* [Chapter 1: Purpose and Vision](#Chapter1:PurposeandVision)
-	* 4.1. [Strategic Thinking and Planning Steps](#StrategicThinkingandPlanningSteps)
-		* 4.1.1. [Step 1. Your Organization Vision](#Step1.YourOrganizationVision)
-		* 4.1.2. [Step 2. Your Organization Strategy](#Step2.YourOrganizationStrategy)
-		* 4.1.3. [Step 3. Execution of Your Plan](#Step3.ExecutionofYourPlan)
+[Chapter 1: Purpose and Vision](#Chapter1:PurposeandVision)
+	[Strategic Thinking and Planning Steps](#StrategicThinkingandPlanningSteps)
+		[Step 1. Your Organization Vision](#Step1.YourOrganizationVision)
+		[Step 2. Your Organization Strategy](#Step2.YourOrganizationStrategy)
+		[Step 3. Execution of Your Plan](#Step3.ExecutionofYourPlan)
 	* 4.2. [Acknowledgements](#Acknowledgements)
 * 5. [Chapter 2: Strategy Overview](#Chapter2:StrategyOverview)
 	* 5.1. [Assessing Your Company Against the Ideal Company](#AssessingYourCompanyAgainsttheIdealCompany)
