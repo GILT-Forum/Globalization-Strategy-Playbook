@@ -54,7 +54,6 @@ As per the license terms, you must always give appropriate credit, provide a lin
 
 ## Table of Contents
 
-
 <!-- vscode-markdown-toc -->
 
 - [Chapter 1: Purpose and Vision](#chapter-1-purpose-and-vision)
@@ -68,7 +67,7 @@ As per the license terms, you must always give appropriate credit, provide a lin
       - [Language Strategy](#language-strategy)
       - [Internationalization](#internationalization)
       - [Mergers and Acquisitions](#mergers-and-acquisitions)
-      - [R&D—CICD, UX](#RD-CICD-UX)
+      - [R&D—CICD, UX](#RDCICD-UX)
       - [Product Development Process](#product-development-process)
       - [Finance Information](#finance-information)
       - [Procurement](#procurement)
@@ -78,7 +77,7 @@ As per the license terms, you must always give appropriate credit, provide a lin
 - [Chapter 3: Stakeholders—Strategic Engagement and Communication](#chapter-3-stakeholders-strategic-engagement-and-communication)
     - [Defining Your Stakeholders](#defining-your-stakeholders)
     - [Understanding Types of Stakeholders](#understanding-types-of-stakeholders)
-      - [Primary Stakeholders #1](#primarystakeholders-1)
+      - [Primary Stakeholders #1](#primary-stakeholders-1)
       - [Primary Stakeholders #2](#primary-stakeholders-2)
       - [Primary Stakeholders #3](#primary-stakeholders-3)
       - [Secondary Stakeholders](#secondary-stakeholders)
@@ -129,7 +128,7 @@ As per the license terms, you must always give appropriate credit, provide a lin
     - [Measuring MT Quality and Effectiveness](#measuring-mt-quality-and-effectiveness)
     - [Main takeaways](#main-takeaways-1)
 - [Epilogue: Our Final Words](#epilogue-our-final-words)
-- [Appendix A: Technology Decision Drivers and Strategic Objectives](#appendix-a:-technology-decision-drivers-and-strategic-objectives)
+- [Appendix A: Technology Decision Drivers and Strategic Objectives](#appendix-a-technology-decision-drivers-and-strategic-objectives)
 - [Appendix B: Data Inventory](#appendix-b-data-inventory)
 
 <!-- vscode-markdown-toc-config
