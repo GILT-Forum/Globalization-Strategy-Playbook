@@ -75,7 +75,7 @@ As per the license terms, you must always give appropriate credit, provide a lin
       - [IT](#it)
     - [Your Company Strategy](#your-company-strategy)
     - [Building a Department Strategy](#building-a-department-strategy)
-- [Chapter 3: Stakeholders—Strategic Engagement and Communication](#chapter-3-stakeholders-strategic-engagement-and-communication)
+- [Chapter 3: Stakeholders—Strategic Engagement and Communication](#chapter-3-stakeholdersstrategic-engagement-and-communication)
     - [Defining Your Stakeholders](#defining-your-stakeholders)
     - [Understanding Types of Stakeholders](#understanding-types-of-stakeholders)
       - [Primary Stakeholders #1](#primary-stakeholders-1)
@@ -295,7 +295,7 @@ However, the first step in strategy development is assessment of your company ag
 
 3. It is often Product Management (sometimes considered Product Marketing) that initiates a foray into one or more international markets, based on their own analysis of the competitive landscape. In this case, you would work with the relevant stakeholders to establish a process as outlined in the [“Language Strategy”](#chapter-4-language-strategy) chapter. 
 
-    The important point is to determine how your company’s decisions for language support are made and figure out how to best support that process, or optimize it. You will likely need to invoke your influencing and stakeholder management skills to be effective. See also the chapter “Stakeholders—Strategic Engagement and Communication.” ["Stakeholders—Strategic Engagement and Communication"](#chapter-3-stakeholders-strategic-engagement-and-communication)
+    The important point is to determine how your company’s decisions for language support are made and figure out how to best support that process, or optimize it. You will likely need to invoke your influencing and stakeholder management skills to be effective. See also the chapter ["Stakeholders—Strategic Engagement and Communication."](#chapter-3-stakeholdersstrategic-engagement-and-communication)
 
 #### Internationalization
 
@@ -972,8 +972,8 @@ The process of strategy development detailed here can be viewed as an ideal step
 
 In addition to developing the strategy, consider other factors that impact its success. Those factors include having:
 
-* Executive-level support for the overall strategy. See “Stakeholders: Strategic Engagement and Communication.”
-* Strong relationships with teams including Procurement, Finance, IT, suppliers. See “Stakeholders: Strategic Engagement and Communication.”
+* Executive-level support for the overall strategy. See [“Stakeholders—Strategic Engagement and Communication.”](#chapter-3-stakeholdersstrategic-engagement-and-communication)
+* Strong relationships with teams including Procurement, Finance, IT, suppliers. See [“Stakeholders—Strategic Engagement and Communication.”](#chapter-3-stakeholdersstrategic-engagement-and-communication)
 * Talent to identify, implement, and manage the technology (particularly engineering talent who will solve problems in an appropriate way).
 * A solid business case for any technology investment.
 
@@ -1008,7 +1008,7 @@ Examples include:
 * Customer satisfaction: how applying raw machine translation ("MT") when no translation would otherwise be available satisfies customer needs.
 * Global revenue: how making a language available enables revenue growth in new markets. 
 
-You will also need a champion at the Executive level, as mentioned in the chapter [“Stakeholders—Strategic Engagement and Communication.”](#chapter-3-stakeholders-strategic-engagement-and-communication)
+You will also need a champion at the Executive level, as mentioned in the chapter [“Stakeholders—Strategic Engagement and Communication.”](#chapter-3-stakeholdersstrategic-engagement-and-communication)
 
 #### Map Business Objectives to Tools
 
@@ -1077,7 +1077,7 @@ Enlist a technology vendor to help you build your ROI. Many vendors have ROI cal
 
 Start by broadening your view. Will the Globalization team be the only user of the technology? If not, how will the technology impact other teams? 
 
-When building a business case for a terminology solution, don’t forget developers and writers whose help is required to define new terms. Will the technology help the User Experience team be more consistent with terminology across multiple products? Refer to the chapter ["Stakeholders—Strategic Engagement and Communication"](#chapter-3-stakeholders-strategic-engagement-and-communication) to make sure you are not missing anyone. 
+When building a business case for a terminology solution, don’t forget developers and writers whose help is required to define new terms. Will the technology help the User Experience team be more consistent with terminology across multiple products? Refer to the chapter ["Stakeholders—Strategic Engagement and Communication"](#chapter-3-stakeholdersstrategic-engagement-and-communication) to make sure you are not missing anyone. 
 
 Identifying such departments or individuals is crucial to your success. Even if the localization function is centralized in your company, work cross-functionally with other teams to collectively build the technology strategy, pool funds, and work out a joint approach. For example, while the product localization function is often centralized, the marketing teams are often independent and are given a freedom to set up their own processes and tools (see Diana's story above). Such a system may create duplication of effort and wasted resources for an enterprise. 
 
