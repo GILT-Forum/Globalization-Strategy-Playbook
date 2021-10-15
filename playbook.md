@@ -2,8 +2,14 @@
 # Globalization Strategy Playbook     
 ### *A Guide for Localization and Globalization Professionals*
 ---
+## Document Revision History
 
-   **Authors: Strategic Thinking Group:**
+| Version |  Revision Date     | Description|
+|---------|--------------------|----------------------------------------------------------------------------------|
+| v1.0    |  15 Cotober 2021  | Published Markdown document|
+ 
+ 
+ **Authors: Strategic Thinking Group:**
    
          Melissa Biggs (Locale Solutions)
          Wayne Bourland (Dell Technologies)
