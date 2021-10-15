@@ -55,7 +55,91 @@ As per the license terms, you must always give appropriate credit, provide a lin
 ## Table of Contents
 
 
-[TOC]
+<!-- vscode-markdown-toc -->
+	* 1. [*A Guide for Localization and Globalization Professionals*](#AGuideforLocalizationandGlobalizationProfessionals)
+* 1. [Book Reviews](#BookReviews)
+* 2. [License Information and Restrictions](#LicenseInformationandRestrictions)
+* 3. [Table of Contents](#TableofContents)
+* 4. [Chapter 1: Purpose and Vision](#Chapter1:PurposeandVision)
+	* 4.1. [Strategic Thinking and Planning Steps](#StrategicThinkingandPlanningSteps)
+		* 4.1.1. [Step 1. Your Organization Vision](#Step1.YourOrganizationVision)
+		* 4.1.2. [Step 2. Your Organization Strategy](#Step2.YourOrganizationStrategy)
+		* 4.1.3. [Step 3. Execution of Your Plan](#Step3.ExecutionofYourPlan)
+	* 4.2. [Acknowledgements](#Acknowledgements)
+* 5. [Chapter 2: Strategy Overview](#Chapter2:StrategyOverview)
+	* 5.1. [Assessing Your Company Against the Ideal Company](#AssessingYourCompanyAgainsttheIdealCompany)
+		* 5.1.1. [Language Strategy](#LanguageStrategy)
+		* 5.1.2. [Internationalization](#Internationalization)
+		* 5.1.3. [Mergers and Acquisitions](#MergersandAcquisitions)
+		* 5.1.4. [R&D—CICD, UX](#RDCICDUX)
+		* 5.1.5. [Product Development Process](#ProductDevelopmentProcess)
+		* 5.1.6. [Finance Information](#FinanceInformation)
+		* 5.1.7. [Procurement](#Procurement)
+		* 5.1.8. [IT](#IT)
+	* 5.2. [Your Company Strategy](#YourCompanyStrategy)
+	* 5.3. [Building a Department Strategy](#BuildingaDepartmentStrategy)
+* 6. [Chapter 3: Stakeholders—Strategic Engagement and Communication](#Chapter3:StakeholdersStrategicEngagementandCommunication)
+	* 6.1. [Defining Your Stakeholders](#DefiningYourStakeholders)
+	* 6.2. [Understanding Types of Stakeholders](#UnderstandingTypesofStakeholders)
+		* 6.2.1. [Primary Stakeholders #1](#PrimaryStakeholders1)
+		* 6.2.2. [Primary Stakeholders #2](#PrimaryStakeholders2)
+		* 6.2.3. [Primary Stakeholders #3](#PrimaryStakeholders3)
+		* 6.2.4. [Secondary Stakeholders](#SecondaryStakeholders)
+		* 6.2.5. [Primary But Too Often “Forgotten” Stakeholders](#PrimaryButTooOftenForgottenStakeholders)
+		* 6.2.6. [Other Indirect Stakeholders](#OtherIndirectStakeholders)
+	* 6.3. [Engaging with Your Stakeholders](#EngagingwithYourStakeholders)
+	* 6.4. [Stakeholders as Strategic Partners](#StakeholdersasStrategicPartners)
+	* 6.5. [Best Practices at Hand](#BestPracticesatHand)
+* 7. [Chapter 4: Language Strategy](#Chapter4:LanguageStrategy)
+	* 7.1. [Defining the Language Strategy](#DefiningtheLanguageStrategy)
+	* 7.2. [The Relevance of Language Strategy](#TheRelevanceofLanguageStrategy)
+	* 7.3. [Partners and Audience for Language Strategy](#PartnersandAudienceforLanguageStrategy)
+		* 7.3.1. [Key Stakeholders](#KeyStakeholders)
+		* 7.3.2. [Drivers of Language Strategy](#DriversofLanguageStrategy)
+	* 7.4. [Building the Strategy](#BuildingtheStrategy)
+	* 7.5. [Components and Alignment](#ComponentsandAlignment)
+	* 7.6. [Governance: Best Practices for Language Strategy Oversight](#Governance:BestPracticesforLanguageStrategyOversight)
+	* 7.7. [Deeper Understanding of Language Strategy](#DeeperUnderstandingofLanguageStrategy)
+		* 7.7.1. [Spoken or Written](#SpokenorWritten)
+		* 7.7.2. [Linguistic and Cultural Considerations Impacting Localization](#LinguisticandCulturalConsiderationsImpactingLocalization)
+	* 7.8. [A Successful Language Strategy](#ASuccessfulLanguageStrategy)
+* 8. [Chapter 5: Technology Strategy](#Chapter5:TechnologyStrategy)
+	* 8.1. [What is a Globalization Technology Strategy?](#WhatisaGlobalizationTechnologyStrategy)
+	* 8.2. [Create and Implement Your Technology Strategy](#CreateandImplementYourTechnologyStrategy)
+		* 8.2.1. [Demonstrate Value](#DemonstrateValue)
+		* 8.2.2. [Map Business Objectives to Tools](#MapBusinessObjectivestoTools)
+		* 8.2.3. [Technology Maturity Model](#TechnologyMaturityModel)
+		* 8.2.4. [Understand Where You Sit in the Technology Maturity Model](#UnderstandWhereYouSitintheTechnologyMaturityModel)
+		* 8.2.5. [Identify What Technology to Go After](#IdentifyWhatTechnologytoGoAfter)
+		* 8.2.6. [Build a Business Case and Get Buy-In](#BuildaBusinessCaseandGetBuy-In)
+		* 8.2.7. [Implement the Solution](#ImplementtheSolution)
+		* 8.2.8. [Build Reporting and Monitor Results](#BuildReportingandMonitorResults)
+	* 8.3. [Technology Evolution](#TechnologyEvolution)
+	* 8.4. [How to Incorporate Different Technologies into Your Strategy](#HowtoIncorporateDifferentTechnologiesintoYourStrategy)
+	* 8.5. [Main takeaways](#Maintakeaways)
+* 9. [Chapter 6: Data Analytics for Globalization Strategy](#Chapter6:DataAnalyticsforGlobalizationStrategy)
+	* 9.1. [Globalization Data Strategy](#GlobalizationDataStrategy)
+	* 9.2. [Key Considerations](#KeyConsiderations)
+	* 9.3. [Strategy Reports and Dashboard](#StrategyReportsandDashboard)
+	* 9.4. [Understanding the Data](#UnderstandingtheData)
+		* 9.4.1. [Incomplete Data](#IncompleteData)
+		* 9.4.2. [Data Gaps](#DataGaps)
+	* 9.5. [Globalization Data Engineering and Analyst roles](#GlobalizationDataEngineeringandAnalystroles)
+	* 9.6. [Partnership](#Partnership)
+	* 9.7. [Analytics Tools](#AnalyticsTools)
+	* 9.8. [How to Build a Business Case](#HowtoBuildaBusinessCase)
+		* 9.8.1. [Using data to build a business case](#Usingdatatobuildabusinesscase)
+	* 9.9. [Measuring MT Quality and Effectiveness](#MeasuringMTQualityandEffectiveness)
+	* 9.10. [Main takeaways](#Maintakeaways-1)
+* 10. [Epilogue: Our Final Words](#Epilogue:OurFinalWords)
+* 11. [Appendix A: Technology Decision Drivers and Strategic Objectives](#AppendixA:TechnologyDecisionDriversandStrategicObjectives)
+* 12. [Appendix B: Data Inventory](#AppendixB:DataInventory)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc --> 
 
 
 
@@ -2148,6 +2232,5 @@ Here is an inventory of all data and metrics that a Globalization leader might w
     * Team ROI/Headcount
     * Production data from TMS
 
-[TOC]
 
 
