@@ -1507,8 +1507,11 @@ To better prepare the data and maximize the impact of data analytics, we work wi
    * A/B and multivariate testing
 
   *Example report from Adobe Analytics* 
-  ![Example report from Adobe Analytics](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Adobe%20Analytics%20Example.png)                  
+  
+  ![Example report from Adobe Analytics](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Adobe%20Analytics%20Example.png)    
+                
   *Example report from Google Search Console*
+  
   
 ![Example report from Google Search Console](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Google%20Console%20Example.png)
 
@@ -2125,8 +2128,8 @@ Here is an inventory of all data and metrics that a Globalization leader might w
 * Business data
     * Revenue
     * Revenue goals by region
-    * `&#35;`of customers
-    * `&#35;`of users in region (probably using a different language)
+    * &#35; of customers
+    * &#35; of users in region (probably using a different language)
     * Deal size (with languages involved)
     * Cost of adding/maintaining a language to product, documentation, website, marketing, training, etc. (internal/external)
     * ASU (Active service units), Units sold per year, revenue per unit
