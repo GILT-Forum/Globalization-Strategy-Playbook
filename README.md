@@ -61,3 +61,5 @@ This playbook is the outcome of the initiative, participation and contribution o
 Special thanks for editorial review to: 
    * **Edith Bendermacher**, Head of Globalization Strategy, Localization Operations at NetApp
    * **Adam Youngfield**, Global Manager, Translation Operations at The Church of Jesus Christ of Latter-day Saints
+   * **Jenny Kang**, Director, Globalization at Veritas
+
