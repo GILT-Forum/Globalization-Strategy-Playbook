@@ -1145,9 +1145,7 @@ Some of the tools described may be part of or linked to a TMS, depending on the 
 ## Chapter 6: Data Analytics for Globalization Strategy
 
 “If you can’t measure it, you can’t improve it.”
-
-
-    _—Peter Drucker _
+_—Peter Drucker_
 
 Everybody knows they need data to make decisions. It is like saying, I need food to survive. Which data though? As we go over our preferred ways to select data that matters to our businesses, you will find some relevant suggestions and some not relevant at all. When you think about your own strategic data, the only universal rule is to know why the data you selected is meaningful, how it affects your actions and recommendations, and what makes you certain you can trust it. 
 
@@ -1156,8 +1154,6 @@ As a Globalization leader, your role is to create an inspiring vision and story,
 Needless to say that data is a foundational aspect of running any business. In recent years, data scientists and analysts are in more demand than ever. Of course, the same need applies to Globalization, as evidenced by the creation of dedicated globalization data engineering and analyst positions in global companies. Those roles are responsible for developing a globalization data infrastructure from which insights can be extracted.
 
 In this chapter, we will tackle how to think about globalization data strategically:
-
-
 
 * Why the KPIs you selected matter to your decisions and why you can trust the data
 * How your work fits into the company business and how to use data to prove your contributions
@@ -1188,28 +1184,23 @@ Finally, multiple data points need to come together to make informed decisions. 
 
 Make an educated guess and confirm your conclusions. Employ multiple data points, recognize trends, talk to end users and local teams to corroborate your assumptions, make strategic decisions and validate them with the company strategic leaders (corporate and local). Remember, you are not alone. Strategy is a team sport.
 
-
 ### Key Considerations
 
 There are several aspects to consider when building up your globalization data strategy; some of which are detailed further in this document:
-
-
 
 * **Data prioritization** – there are plenty of data points that could be tracked, but you ultimately need to prioritize which ones are the most critical for your organization. Ask yourself the following questions:
     * Why is data critical for globalization?
     * How to pick the right globalization data and associated granularity? How does it validate your strategy? 
     * What story does the data tell and how does it inform your decisions, item by item?
-* **Data collection **–** **once you identify key data, you need to collect this data at a regular cadence and at scale. For example:
+* **Data collection** – once you identify key data, you need to collect this data at a regular cadence and at scale. For example:
     * What is the process to collect the data and build reports and dashboards?
     * What are the tools needed to collect, transform and process data?
     * Where is the data and whom can you partner with to collect data automatically?
-* **Data presentation **– finally, you need to present your data to executives and other leaders. Consider the following points:
+* **Data presentation** – finally, you need to present your data to executives and other leaders. Consider the following points:
     * Which data is compelling to other Business Units when you make your points about business contributions of globalization efforts in your company? 
     * What is your globalization data strategy? Whom are you communicating it to and how? What is your elevator pitch about globalization value? How do you know you are successful in communicating it, especially at the C-level? What are the expected results? 
 
 Ultimately, as part of your Globalization Data Strategy, you will want to develop a virtuous circle with the following steps:
-
-
 
 1. Pick relevant data
 2. Collect data
@@ -1219,28 +1210,19 @@ Ultimately, as part of your Globalization Data Strategy, you will want to develo
 6. Measure impact
 7. ...and repeat
 
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
-
-
+![Data Circle Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Data%20Circle.jpg)
 
 ### Strategy Reports and Dashboard
 
 One way to win fans and build effective cross-functional strategic teams of advocates and supporters is through reports and dashboards. Their purpose is to be useful. Not pretty or congested, but simply useful.
 
-Useful reports focus on one purpose and have metrics that track progress towards a target that is believed to impact the business for the better (see Tactical Dashboard illustration below). 
+Useful reports focus on one purpose and have metrics that track progress towards a target that is believed to impact the business for the better (see [Tactical Dashboard](#tactical-dashboard-image) illustration below). 
 
-Useful dashboards have to lead with real insights that prompt real actions so that the real impact on the business is achieved and realized. The primary focus of a dashboard is to present trends and actionable recommendations. Dashboards are brief, one-page displays of the most important information needed to understand the business status at a glance (see Strategic Dashboard illustration below).
+Useful dashboards have to lead with real insights that prompt real actions so that the real impact on the business is achieved and realized. The primary focus of a dashboard is to present trends and actionable recommendations. Dashboards are brief, one-page displays of the most important information needed to understand the business status at a glance (see [Strategic Dashboard illustration](#strategic-dashboard-image) below).
 
 Ideally, a useful Strategic Globalization Dashboard shows key trends and insights, recommendations and business impact. It presents an end-to-end view of the success: acquisition of (international) customers, their behavior when using your product, and business value of that behavior (a.k.a revenue). 
 
 For example, if you are trying to capture bigger revenue from French-speaking markets, your strategic approach could be to improve the user experience for French-speaking audiences. You would create a Strategic Dashboard that provides a comprehensive view of the French market performance and the business impact of your program. It could have the following metrics that indicate improvements in the user experience for your target audience:
-
-
 
 * Month-over-month French-speaking user growth (acquisition)
 * Adoption rate for French users compared to adoption rate for English users over a six-month period (behavior)
@@ -1249,7 +1231,7 @@ For example, if you are trying to capture bigger revenue from French-speaking ma
 
 Recommendations and analysis cover actions that the company needs to take to get to the target outcome most quickly and efficiently, improving the whole business, not just one part of it. The insights could include suggestions for which programs to stop, continue, or focus on in the context of the overall business strategy. Observations could identify gaps and misalignments, and recommend new tactics for more favorable outcomes.
 
-Sometimes, absence of something could indicate a broken process. As in Diana’s story (see the chapter “Strategy Overview”), absence of customer tickets does not indicate that the product is perfect. The reason for the low number of opened tickets could be that the functionality to open tickets is only available in English​​—the language your customers do not speak. In this case, by fixing the problem by translating the user interface and thereby making it usable for French audiences, you would expect the number of tickets in French to increase. While an increase in the number of French tickets is a positive metric, the recommendation could be to staff up the French customer support team to handle the increased volume. 
+Sometimes, absence of something could indicate a broken process. As in Diana’s story (see the chapter [“Strategy Overview”](#chapter-2-strategy-overview), absence of customer tickets does not indicate that the product is perfect. The reason for the low number of opened tickets could be that the functionality to open tickets is only available in English​​—the language your customers do not speak. In this case, by fixing the problem by translating the user interface and thereby making it usable for French audiences, you would expect the number of tickets in French to increase. While an increase in the number of French tickets is a positive metric, the recommendation could be to staff up the French customer support team to handle the increased volume. 
 
 When we say “know your audience,” we mean to know what they care about. Your observations and recommendations, supported by data, need to reflect the appropriate level of the audience. 
 
@@ -1259,30 +1241,17 @@ Business owners respond to recommendations and actions that help them deliver be
 
 An example of a tactical dashboard that is aimed at one goal would be improvement of the adoption rate.
 
-
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.png "image_tooltip")
-
+![Tactical dashboard image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Tactical%20Dashboard.png)
 
 A strategic dashboard uses several metrics and illustrates a complete, end-to-end state of the business. It includes performance overview, analysis, recommendations, and business impact. 
 
 Example of a strategic dashboard:
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
-
-
+![Strategic Dashboard Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Strategic%20Dashboard.png)
 
 ### Understanding the Data
 
 Before we use the data, we need to understand and clarify our assumptions and call out data limitations. Here are some tips:
-
-
 
 * Categorize the data with proper catalogs.
 * Clean the data you collected. Exclude some of the outliers or irrelevant metrics, to ensure high data quality. Be sensitive to customer confidential data. Remove it from your reports to protect customer privacy. 
@@ -1290,18 +1259,9 @@ Before we use the data, we need to understand and clarify our assumptions and ca
 * Avoid only looking at a single source of data. It is always good to link different kinds of data together, to avoid bias. 
 * Build a historical baseline and look for trends while using the same process of data collection.
 
-
-
 This is an overview of the different types of data available:
 
-
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.png "image_tooltip")
-
-
+![Types of Data image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Types%20of%20Data.png)
 
 #### Incomplete Data
 
@@ -1313,14 +1273,11 @@ Alternatively, you can predict what your data would have looked like had you had
 
 Here are a few recommendations on how to handle data imperfections and incompleteness:
 
-
-
-*  Build data analytics incrementally 
+* Build data analytics incrementally 
 * Apply some reasonable assumptions
 * Collaborate and use a dot-connecting mindset
 * Be transparent to stakeholders to share the logic of data analytics
 * Strive to select the right data/KPI to tell you the truth
-
 
 #### Data Gaps
 
@@ -1491,7 +1448,6 @@ Toolchain/pipeline automation/faction
 </table>
 
 
-
 ### Globalization Data Engineering and Analyst roles
 
 In recent years, more global companies have added globalization data engineering and data analysis roles to their globalization teams. Those roles work in tandem to identify the key globalization data that needs to be tracked. They also collaborate on instrumenting the content (software user interface, documentation, web-pages, etc.) to understand the international customers’ behavior. 
@@ -1500,41 +1456,36 @@ Automation is another key aspect of the globalization data pipeline and a key re
 
 Here is a job description for Senior Analytics Engineer, Globalization Data Science and Engineering, posted by a global streaming company:
 
-We are looking for a highly motivated **Senior Analytics Engineer** to partner closely with the business teams to define, measure, and visualize metrics that empower effective and efficient localization. In this high impact role, you will have direct influence on globalization decisions through technical and business thought partnership.
-
-**What you will do:**
-
-
-
-* Lead the research for developing novel metrics to quantify local member experience
-* Build and maintain robust data aggregates and pipelines
-* Creatively analyze data to generate insights that support business decisions and identify new opportunities
-* Design and analyze A/B tests to bolster product innovations
-* Rapidly construct, and iterate on dashboards and other visualization tools
-* Communicate your contributions (in written, verbal and presentation form) to all levels of the company with varying levels of technical background
-
-**Your background and characteristics:**
-
-
-
-* Proven track to transform large amounts of complex data into insights by leading the end-to-end creation of intuitive data products
-* Expert in querying and manipulating data sets using SQL and Python and visualization tools like Tableau (or similar tools)
-* Familiar with statistical methods and A/B testing
-* Excited to form strong stakeholder relationships
-* Self-starter who thrives under a high level of autonomy
-* Comfort with ambiguity and translating abstract business questions into actionable insights and high impact data products
-* Enthusiastic about company culture
-
+>> We are looking for a highly motivated **Senior Analytics Engineer** to partner closely with the business teams to define, measure, and visualize metrics that empower effective and efficient localization. In this high impact role, you will have direct influence on globalization decisions through technical and business thought partnership.
+>>
+>>**What you will do:**`
+>>
+>>* Lead the research for developing novel metrics to quantify local member experience`
+>>* Build and maintain robust data aggregates and pipelines
+>>* Creatively analyze data to generate insights that support business decisions and identify new opportunities
+>>* Design and analyze A/B tests to bolster product innovations
+>>* Rapidly construct, and iterate on dashboards and other visualization tools
+>>* Communicate your contributions (in written, verbal and presentation form) to all levels of the company with varying levels of technical background
+>>
+>>**Your background and characteristics:**
+>>
+>>* Proven track to transform large amounts of complex data into insights by leading the end-to-end creation of intuitive data products
+>>* Expert in querying and manipulating data sets using SQL and Python and visualization tools like Tableau (or similar tools)
+>>* Familiar with statistical methods and A/B testing
+>>* Excited to form strong stakeholder relationships
+>>* Self-starter who thrives under a high level of autonomy
+>>* Comfort with ambiguity and translating abstract business questions into actionable insights and high impact data products
+>>* Enthusiastic about company culture
 
 ### Partnership
 
 To better prepare the data and maximize the impact of data analytics, we work with different stakeholders and build strong partnerships, especially in these areas:
 
-
-
 * **Data Collection**. Local teams provide data from the region (e.g., sales numbers) that the global team can use in the analysis. We share our analysis and insights with them because it adds a global perspective to their part of the business and gives them access to the data they might not have otherwise obtained. This is a win-win relation, which makes data exchange and partnership much easier within the company.
-* **Collaborate in data analytics and discussions to arrive at impactful conclusions. **When we share the dashboard or report, we include metadata—the info about the data source, how it was collected, its limitations. We include assumptions and conditions of data use, how we performed calculations and reached conclusions. By doing so, our data analytics consumers understand the context and background of data collection and analysis , which allows them to offer suggestions to improve our analysis. Such collaboration makes the analytics work more meaningful and insights and recommendations more trustworthy. 
-* **Data-driven decision making. **The only efficient way to present your analysis is by knowing how your audience makes decisions based on data; what they are looking for in your presentation. 
+
+* **Collaborate in data analytics and discussions to arrive at impactful conclusions.**  When we share the dashboard or report, we include metadata—the info about the data source, how it was collected, its limitations. We include assumptions and conditions of data use, how we performed calculations and reached conclusions. By doing so, our data analytics consumers understand the context and background of data collection and analysis , which allows them to offer suggestions to improve our analysis. Such collaboration makes the analytics work more meaningful and insights and recommendations more trustworthy. 
+
+* **Data-driven decision making.** The only efficient way to present your analysis is by knowing how your audience makes decisions based on data; what they are looking for in your presentation. 
     * To upper management (or executives), we will present formal slides, open with analysis, business impact and recommendations. Have detailed data as a backup. And don’t forget the conclusion and call-to-action in the end.
     * To the internal operation team, we put all data and analysis into a dashboard, which gives details and allows them to slice-and-dice metrics that are relevant to their day-to-day performance.
     * It is important to understand the data collection specifics and data limitations so you can make better decisions and take more effective actions. 
@@ -1542,26 +1493,23 @@ To better prepare the data and maximize the impact of data analytics, we work wi
 
 ### Analytics Tools
 
-
-
 * **Excel sheet.** Excel is the foundation of all analysis and the most versatile of all tools. The computational capabilities of the program coupled with charting functionality makes it the favorite and indispensable tool for any analyst. There is almost nothing you cannot do with Excel. Except, perhaps, analyzing really large sets of data. For that, you will need more powerful tools.
-* **Adobe Analytics and Google Analytics. **Web Analytic tools are used to track the usage of the content/web pages in different locales. With these tools, you can better understand the customer journey and their behavior/preference. Cumulative knowledge of your customers will allow you to design more effective websites with better customer engagement, produce content that resonates with the website visitors, create interactions that improve customer satisfaction, and measure the value of localized content. 
+* **Adobe Analytics and Google Analytics.** Web Analytic tools are used to track the usage of the content/web pages in different locales. With these tools, you can better understand the customer journey and their behavior/preference. Cumulative knowledge of your customers will allow you to design more effective websites with better customer engagement, produce content that resonates with the website visitors, create interactions that improve customer satisfaction, and measure the value of localized content. 
 
     Both Adobe Analytics and Google Analytics are widely used for tracking users across digital properties, analyzing on-site behavior, and measuring business outcomes. For instance:
+   * Customer traffic/downloads by region/locale
+   * Referred analytics (from where customers find the content e.g. search engines, another corporate website, etc.
+   * Click flow of the customers’ journey on the pages
+   * Content popularity by different granularities
+   * Goal/outcome tracking with a variety of attribution models
+   * A/B and multivariate testing
 
-        * Customer traffic/downloads by region/locale
-        * Referred analytics (from where customers find the content e.g. search engines, another corporate website, etc.
-        * Click flow of the customers’ journey on the pages
-        * Content popularity by different granularities
-        * Goal/outcome tracking with a variety of attribution models
-        * A/B and multivariate testing
+  *Example report from Adobe Analytics* ![Example report from Adobe Analytics](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Adobe%20Analytics%20Example.png)                  
+  *Example report from Google Search Console*
+![Example report from Google Search Console](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Google%20Console%20Example.png)
 
-     _Example report from Adobe Analytics                   Example report from Google Search Console_
-
-
-
-* **Translation Management System (TMS) reporting/analytics. **Much of the day-to-day translation transaction data managed via the TMS, as well as the associated business data, is typically stored in the backend database of your TMS. This includes projects, languages, pricing, timelines and due dates, vendor information, and much more. This data is important to define metrics on production data, for example:
-    *  volume translated monthly
+* **Translation Management System (TMS) reporting/analytics.** Much of the day-to-day translation transaction data managed via the TMS, as well as the associated business data, is typically stored in the backend database of your TMS. This includes projects, languages, pricing, timelines and due dates, vendor information, and much more. This data is important to define metrics on production data, for example:
+    * volume translated monthly
     * volume translated by vendor
     * volume by content type
     * internal client, language
@@ -1569,7 +1517,6 @@ To better prepare the data and maximize the impact of data analytics, we work wi
     * Translation Memory leverage, etc. 
 
     These metrics will help you evaluate the health of the localization pipeline and business model implemented. This information is invaluable if you are able to benchmark against similar organizations in other companies. 
-
 
     Dashboards help stakeholders keep track of processes that are in flight. As a project manager, you might have a project dashboard that allows you to drill down to specific details. As a product manager or product owner, a dashboard might display your product status at any given time. As a Globalization or QA engineer you might see what is in the queue for you. 
 
@@ -1580,23 +1527,19 @@ To better prepare the data and maximize the impact of data analytics, we work wi
 
     Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral), feelings (angry, happy, sad, etc), and even of intentions (e.g. interested vs. not interested) within text data using text analysis techniques. The human language is complex and teaching a machine to analyze the various grammatical nuances, cultural variations, slang and misspellings that occur in online mentions is a difficult process. 
 
-
     Insights can be gained from large datasets (for example, millions of Tweets or Facebook comments). Many emotion detection systems use lexicons (i.e. lists of words and the emotions they convey) or complex machine learning algorithms. That is a set of human-crafted rules to help identify polarity through various techniques developed in computational linguistics, such as stemming, tokenization, part-of-speech tagging and parsing. Hybrid systems that combine both rule-based and automatic approaches are the most accurate ones. 
 
-
     There are different tools available that provide sentiment analysis analytics. In choosing one or the other, you should ask the following questions:
-
-        * Does the tool have language detection, machine translation, and automated data breakdown (dashboards’ creation) features available?
-        * The languages and markets you want to address, and are all locales covered by the tool?
-        * Can the tool discern market and language (i.e. text is in Spanish and the geographical provenance can also be detected and tracked)?
-        * Will you use the tool essentially for product sentiment or for marketing sentiment?
+  * Does the tool have language detection, machine translation, and automated data breakdown (dashboards’ creation) features available?
+  * The languages and markets you want to address, and are all locales covered by the tool?
+  * Can the tool discern market and language (i.e. text is in Spanish and the geographical provenance can also be detected and tracked)?
+  * Will you use the tool essentially for product sentiment or for marketing sentiment?
 
 Once Globalization teams have collected data analytics, this data can be presented on various dashboards. Each dashboard may target a specific persona or business area. Dashboards are more dynamic than presentation slides and enable globalization data analysts to extract trends and insights more easily. 
 
 Simple charts and dashboards can be created in Microsoft Excel. Excel is also a good sandbox tool to verify the integrity of the data and identify initial insights. Other than Microsoft Excel, mid- to large-size companies usually have access to more robust data management and dashboard solutions such as Microsoft Power BI (through Microsoft Office 365 license) or Tableau. A key benefit of such dashboard tools is their ability to connect to multiple data sources. 
 
 Finally, globalization data can initially seem overwhelming. We recommend starting with small datasets and dashboards, and growing them over time.
-
 
 ### How to Build a Business Case
 
@@ -1605,35 +1548,25 @@ Strategic direction based on data analysis is only the beginning. You need your 
 “What customer problem am I solving?” is the question you should be answering when putting your proposal together. The customer problem usually emerges out of customer interviews. Data helps validate the problem and adds a business impact facet to the story. Improvement projections or future revenue would be your success metric once you figure out a solution to resolve the problem. 
 
 
-        **Using data to build a business case**
+#### Using data to build a business case
 
+> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> David had just been hired as the Localization Manager for a startup that was ready to go outside of its home market. As he analyzed the data for the European market, it became clear that German should be one of the languages his company supports. 
+> 
+> Unfortunately, German translation was not included in the budget. Product managers told him everyone in Germany spoke English anyway. 
+> 
+> David went to work on his business proposal. He found data on the Total Addressable German market (TAM) in one of the sales presentations, got information about local business deals in progress, and calculated approximately the potential value of those deals. David discovered that all direct competitors in the region supported German. Local country teams shared that they lost a couple of deals because of the lack of native language support, and that a localized product would enable another $100K in Sales within the next 12 months. 
+> 
+> David presented his proposal to the senior executives of his startup and stated the problem: customer expectations in their industry require software to be available in German; their company needs to translate their product into German to be competitive. 
+> 
+> David stated that for a $70K initial investment in translation, the company stood to make around $300K in revenue from pending deals in the country in year one. 
+> 
+> In addition, they would not only grow their market share in the region, but would have a good start establishing their brand recognition. If they delayed for another year or two, it would be significantly more difficult to expand in the market because of the established reputation of an English-only company. 
+> 
+> Focusing on the business problem made David’s argument compelling and relevant to the company growth. He got his funding.
 
-        David had just been hired as the Localization Manager for a startup that was ready to go outside of its home market. As he analyzed the data for the European market, it became clear that German should be one of the languages his company supports. 
-
-
-        Unfortunately, German translation was not included in the budget. Product managers told him everyone in Germany spoke English anyway. 
-
-
-        David went to work on his business proposal. He found data on the Total Addressable German market (TAM) in one of the sales presentations, got information about local business deals in progress, and calculated approximately the potential value of those deals. David discovered that all direct competitors in the region supported German. Local country teams shared that they lost a couple of deals because of the lack of native language support, and that a localized product would enable another $100K in Sales within the next 12 months. 
-
-
-        David presented his proposal to the senior executives of his startup and stated the problem: customer expectations in their industry require software to be available in German; their company needs to translate their product into German to be competitive. 
-
-
-        David stated that for a $70K initial investment in translation, the company stood to make around $300K in revenue from pending deals in the country in year one. 
-
-
-        In addition, they would not only grow their market share in the region, but would have a good start establishing their brand recognition. If they delayed for another year or two, it would be significantly more difficult to expand in the market because of the established reputation of an English-only company. 
-
-
-        Focusing on the business problem made David’s argument compelling and relevant to the company growth. He got his funding.
-
-It is not enough to recommend the direction and articulate how the international user experience should look. Making a business case for those recommendations will define why_ _it is important to the company and the customers. Business impact analysis makes prioritization easier and puts business context around your solution.
+It is not enough to recommend the direction and articulate how the international user experience should look. Making a business case for those recommendations will define why it is important to the company and the customers. Business impact analysis makes prioritization easier and puts business context around your solution.
 
 The following Best Practices and use case stories illustrate:
-
-
-
 * how you can use metrics
 * how they can impact decisions
 * what the  limitations of data and metrics are
@@ -1641,44 +1574,25 @@ The following Best Practices and use case stories illustrate:
 * how other factors, such as geo-political and geo-cultural aspects, impact data and insights
 * how you can shape the outcome.
 
-        In recent years, Bill’s company added several new product lines as a result of M&A. Most of the acquired new products were not localized yet. 
-
-
-        Bill wanted to work with the product team to evaluate the business opportunity for globalizing/localizing the products if there were any plans to sell them in countries where English is not the primary language. Bill planned to collect and study this data using one of the newly acquired products to spearhead globalization and localization. 
-
-
-        Question: Is there a good business opportunity for this product outside of the US? 40% of the revenue at Company X comes from overseas markets. 
-
-
-        Bill collected product A’s revenue numbers from the prior fiscal year, broken down by country. He discovered that almost 90% of this product’s revenue came from the US market, and the percentage of overseas market bookings was fairly small. This discovery gave Bill an indication that there would be a good opportunity for this product to expand business in global markets outside the US. 
-
-
-        Besides the revenue data, Bill looked at industry research reports (Gartner or IDC) to check Total Addressable Market (TAM) and  Market Opportunity (MO) in each country. This could shed some light on which region/locale he should pursue, and which may not represent a significant opportunity after all. 
-
-
-        Product A is a software security product, and Japan and Germany have a higher TAM rating than other regions. And due to regulatory policies in China, the TAM for security products from foreign companies there is small. 
-
-
-        Another key factor was the impact to Bill’s customers, since he knew that customers in each country have different English tolerance index (ETI), which may also depend on the industry. For example, the tolerance of English in Japan and proficiency in specific industries is lower than in other countries. Lack of product localization could be a blocking issue to customers there. In European countries on the other hand, although customers might prefer using products in their own language, they can live with using English. 
-
-
-        There are several institutes and companies that provide research results about English tolerance and proficiency, for example the EPI (English proficiency index), which could help us to rank countries by customer impact. 
-
-
-        Bill also studied Product A’s competitive landscape (CSR), before his team launched the product in non-English speaking regions. Bill hoped that their localization offerings could bring an advantage to Product A when it was launched in non-English speaking markets. He fed all of this data into a formula to calculate each locale’s Effectiveness Score (ES) to get a priority ranking for the various locales.
-
-
-        
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image13.png "image_tooltip")
-
-
-
-        CC: cost coefficient of Globalization (Internationalization and localisation cost indicator) 
-
+  > <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> In recent years, Bill’s company added several new product lines as a result of M&A. Most of the acquired new products were not localized yet. 
+  >
+  >Bill wanted to work with the product team to evaluate the business opportunity for globalizing/localizing the products if there were any plans to sell them in countries where English is not the primary language. Bill planned to collect and study this data using one of the newly acquired products to spearhead globalization and localization. 
+  >
+  >Question: Is there a good business opportunity for this product outside of the US? 40% of the revenue at Company X comes from overseas markets. 
+  >
+  >Bill collected product A’s revenue numbers from the prior fiscal year, broken down by country. He discovered that almost 90% of this product’s revenue came from the US market, and the percentage of overseas market bookings was fairly small. This discovery gave Bill an indication that there would be a good opportunity for this product to expand business in global markets outside the US. 
+  >
+  >Besides the revenue data, Bill looked at industry research reports (Gartner or IDC) to check Total Addressable Market (TAM) and  Market Opportunity (MO) in each country. This could shed some light on which region/locale he should pursue, and which may not represent a significant opportunity after all. 
+  >
+  >Product A is a software security product, and Japan and Germany have a higher TAM rating than other regions. And due to regulatory policies in China, the TAM for security products from foreign companies there is small. 
+  >
+  >Another key factor was the impact to Bill’s customers, since he knew that customers in each country have different English tolerance index (ETI), which may also depend on the industry. For example, the tolerance of English in Japan and proficiency in specific industries is lower than in other countries. Lack of product localization could be a blocking issue to customers there. In European countries on the other hand, although customers might prefer using products in their own language, they can live with using English. 
+  >
+  >There are several institutes and companies that provide research results about English tolerance and proficiency, for example the EPI (English proficiency index), which could help us to rank countries by customer impact. 
+  >
+  >Bill also studied Product A’s competitive landscape (CSR), before his team launched the product in non-English speaking regions. Bill hoped that their localization offerings could bring an advantage to Product A when it was launched in non-English speaking markets. He fed all of this data into a formula to calculate each locale’s Effectiveness Score (ES) to get a priority ranking for the various locales.
+  >  ![Formula image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Formula%20ES.png)          
+  >  CC: cost coefficient of Globalization (Internationalization and localization cost indicator) 
 
 
 ### Measuring MT Quality and Effectiveness
@@ -1695,99 +1609,88 @@ An industry best practice to address these problems has been to develop world-re
 
 To put in place a world-readiness scorecard, we recommend the following steps:
 
-
-
 1. **Define clear internationalization requirements**. Internationalization requirements need to be documented so product teams understand your expectations. Those requirements will also serve as the basis to measure the score associated with each product. The higher the score, the more the product meets the requirements.
+
 2. **Create a scorecard system**. Different aspects need to be considered when developing internationalized applications. Some aspects relate to enablement, others to localizability. Enablement refers to the internationalization effort which ensures that all features included in the core (English) product will continue to work globally by supporting data input/output from various scripts, date formats, currencies, etc…Localizability represents the internationalization tasks that focus on making localization possible such as string externalization, multilingual build environment setup, ability to easily switch locale, etc.
+
 3. **Use standard defect keywords**. When products fail to meet the internationalization requirements, defects should get logged into a bug database using a standard bug classification (e.g. INTL-LAYOUT, INTL-HARDCODED, etc.). This will enable you to generate globalization score cards, hopefully automatically.
+
 4. **Publish results**. Once products get assessed, you can start publishing their world-readiness scores. Initially, it is important to educate product teams about the process and methodology used to come up with the world-readiness score. This avoids bad surprises. Once everyone is informed about the program, you can share the results more broadly and work with product teams to improve their score if necessary.
+
 5. **Prepare get-well plans**. Each product team will have its own set of internationalization issues and will seek guidance from the Globalization team on how to address those. The get-well plan serves this purpose. It documents the areas where the product fails to meet the internationalization requirements and provides suggestions on how to address those gaps. The get-well plan can also include internationalization checklists for more problematic areas.
+
 6. **Develop a World-Readiness Educational Program**. If product teams struggle with developing well internationalized products, we recommend creating an internationalization course to highlight general pitfalls and best practices.
+
 7. **Provide globalization libraries and promote standards**. Some product teams may struggle with globalization because they rely on home-grown libraries which do not offer strong international support. To reduce these issues, we recommend leveraging standard libraries with built-in support for internationalization, such as ICU, MomentJS, Int’l React, etc.
 
 By implementing a score-driven world-readiness program, you will be able to assess products and measure progress over time. You will also implement a gamification mechanism. Product teams will compete against each other to get a high world-readiness score. This will reduce pressure on your team to chase product teams down. They will actually come to you to seek guidance and support.
 
-
-        Susan’s company wanted to increase their global footprint and user base. Susan, a technology company Globalization Lead, set out to evaluate the benefits of launching the company app in an additional locale.  
-
-
-        In order to make a business case, Susan needed to define the criteria for applying resources to a given market (defined by variables that include size, growth, risks from the government, risk to users, and value to our business). Susan needed data that can sufficiently inform and ultimately guide the decision-making process. 
-
-
-        Below are questions Susan used to qualify available data as relevant to her market evaluation:
-
-
-
-* Do we already have an audience in this market?
-    * Collect data on monthly and weekly active users, weekly sign ups and activation rate, user locales, and monthly use of products/features.
-* Is the audience ready for our product?
-    * Collect data on users’ behavior, i.e. number of social media users, Smartphone owners, digital market share, and competition.  Combine with complimentary data around users’ lifestyle (education level, male–female labor force participation, distribution of per-capita GDP, etc.), digital ad spending, English proficiency.
-* What kind of engagement has the current audience shown on our product?
-    * Collect data on the number of tickets we receive on average from this region and what sentiment users in this region have expressed.
-* Is there any historical analogy and/or projection on how successful the business will be in that market?
-    * Collect markets’ data that can be used as analogies to model the expected number of new users if we provide a localized experience, and formulate a potential growth percentage measure, possibly in low- and high-bound activation rate.
-* What are the risks associated with launching in this region?
-    * Benchmark if other companies are already successful in the market. What are the targets we are planning to achieve within a set time frame? What is the market share we are going after?
-    * Consider the timing—what needs to be true for us to go into that region? What are the guiding principles for GTM strategy? What if we do not go now—what are the losses? If not now, when?
-    * Collect country scorecards on political stability of the region, on legal restrictions tied to content/app, on costs that need to be dedicated to de-risk the region (building a legal entity, work with Trust and Safety to fine-tune the content we share in the region, etc.).
-* What are the extra costs and/or technical debt associated with this launch?
-    * Collect data about whether supporting a new language would introduce technical complexities (as in the case of right-to-left languages), if it needs baseline product quality work.
+> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Susan’s company wanted to increase their global footprint and user base. Susan, a technology company Globalization Lead, set out to evaluate the benefits of launching the company app in an additional locale.  
+> 
+> In order to make a business case, Susan needed to define the criteria for applying resources to a given market (defined by variables that include size, growth, risks from the government, risk to users, and value to our business). Susan needed data that can sufficiently inform and ultimately guide the decision-making process. 
+> 
+> Below are questions Susan used to qualify available data as relevant to her market evaluation:
+> 
+> * Do we already have an audience in this market?
+>     * Collect data on monthly and weekly active users, weekly sign ups and activation rate, user locales, and monthly use of products/features.
+> * Is the audience ready for our product?
+>     * Collect data on users’ behavior, i.e. number of social media users, Smartphone owners, digital market share, and competition.  Combine with complimentary data around users’ lifestyle (education level, male–female labor force participation, distribution of per-capita GDP, etc.), digital ad spending, English proficiency.
+> * What kind of engagement has the current audience shown on our product?
+>     * Collect data on the number of tickets we receive on average from this region and what sentiment users in this region have expressed.
+> * Is there any historical analogy and/or projection on how successful the business will be in that market?
+>     * Collect markets’ data that can be used as analogies to model the expected number of new users if we provide a localized experience, and formulate a potential growth percentage measure, possibly in low- and high-bound activation rate.
+> * What are the risks associated with launching in this region?
+>     * Benchmark if other companies are already successful in the market.   What are the targets we are planning to achieve within a set time frame? What is the market share we are going after?
+>    * Consider the timing—what needs to be true for us to go into that region? What are the guiding principles for GTM strategy? What if we do not go now—what are the losses? If not now, when?
+>     * Collect country scorecards on political stability of the region, on legal restrictions tied to content/app, on costs that need to be dedicated to de-risk the region (building a legal entity, work with Trust and Safety to fine-tune the content we share in the region, etc.).
+> * What are the extra costs and/or technical debt associated with this launch?
+>     * Collect data about whether supporting a new language would introduce technical complexities (as in the case of right-to-left languages), if it needs baseline product quality work.
 
 Data can sometimes suggest a clear cut answer—go or no-go. However, in some cases or for some regions, data is controversial or incoherent, and its interpretation is key. For example, whereas all data seems reassuring and suggest making an investment in a specific market, the ever changing political situation might call for some caution, or a poor internet infrastructure might recommend launching a light version of the app, if not at all. 
 
 Data is not going to make a decision and is not going to comprehensively explain it all, but can inform on what it is likely to succeed or fail. You may find Colin Powell’s 40:70 rule for decision making helpful: as a rule of thumb, every time we face a tough decision we should have no less than 40% and no more than 70% of the information we need to make a call. The rule allows us to be informed and at the same time trust our intuition.
 
-
-        The Business Site core team & the Globalization team received a request from the Singapore team to support English-India as an additional locale available on the Business Site.  An English-speaking audience that visits the Business Site currently accesses one of two English locales available on the site: English US or English UK. 
-
-
-        However,
-
-
-
-* the English US site displays content relevant to users in the United States (all campaigns, features, products available in the US);
-* the English UK site displays content relevant to users in the United Kingdom/Great Britain (all campaigns, features and products available there).
-
-        Product availability and services offered are vastly different in the UK/US and in India.** **Because of that, users in India are shown products and services that are not yet available in their region, as well as insights specifically for the UK/US. This can lead to a negative user experience when users are noticing that the site promotes content that is irrelevant to them. 
-
-
-        The goals are:
-
-* Improve the Business Site experience for users from India (and for English-speaking users from Asia in general) and increase content relevancy.
-* Build foundations for local teams to communicate with business account users on brand (e.g. by enabling blog for India/SEA (South East Asia) in English that are separate from the UK or US blog).
-* Scale this experience to the entire SEA region just by redirecting traffic from those geos to the new site locale.
-* Increase traffic to the site by enabling the local team to actively promote the business site because the experience will be more relevant to their audience.
-* Define how to measure success and measure impact in executing on goals. For example, how do I know that the business site experience has improved for users from India, and how do we measure it?
-
-        How do I build a recommendation on how to improve the user experience for our audience in India? And what data is going to be useful to inform my decision making process? The analysis can be split into two parts, opportunity sizing and evaluating operational feasibility.
-
-
-        Opportunity sizing:
-
-* Collect data on English-language traffic originating from India both for acquisition and audience’s behavior;
-* number of sessions, new sessions, new users, users’, bounce rate, page session, average time per session, etc.
-* number of SMBs and larger businesses in India.
-* Run a competitive analysis to understand who serves an en-IN site for business audiences.
-* Collect SEO results that drive traffic to India (unique keywords, etc.).
-* Enquire about long-term strategy in the region (monetization, launch of new products, etc.).
-
-Should it be clear that there is an opportunity there, one would move into the analysis of Operational feasibility:
-
-
-
-* Technical, Design and Localization Support needed to launch and maintain the site.
-* Cost of SEO optimization.
-* List up products available and unavailable for India in order to quote the number of editorial time needed to adapt the site for the market.
-* Run cost analysis for adaptation of editorial insights and launching a separate blog.
-
-In a situation like this one, data is informative, but not resolutive. Data informs us and enables us to make the most rational of the decisions, but does not guarantee a 100% success.
+> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> The Business Site core team & the Globalization team received a request from the Singapore team to support English-India as an additional locale available on the Business Site.  An English-speaking audience that visits the Business Site currently accesses one of two English locales available on the site: English US or English UK. 
+> 
+> However,
+> 
+> * the English US site displays content relevant to users in the United States (all campaigns, features, products available in the US);
+> * the English UK site displays content relevant to users in the United Kingdom/Great Britain (all campaigns, features and products available there).
+> 
+>  Product availability and services offered are vastly different in the UK/US and in India.** **Because of that, users in India are shown products and services that are not yet available in their region, as well as insights specifically for the UK/US. This can lead to a negative user experience when users are noticing that the site promotes content that is irrelevant to them. 
+> 
+> The goals are:
+> 
+> * Improve the Business Site experience for users from India (and for English-speaking users from Asia in general) and increase content relevancy.
+> * Build foundations for local teams to communicate with business account users on brand (e.g. by enabling blog for India/SEA (South East Asia) in English that are separate from the UK or US blog).
+> * Scale this experience to the entire SEA region just by redirecting traffic from those geos to the new site locale.
+> * Increase traffic to the site by enabling the local team to actively promote the business site because the experience will be more relevant to their audience.
+> * Define how to measure success and measure impact in executing on goals. For example, how do I know that the business site experience has improved for users from India, and how do we measure it?
+> 
+>  How do I build a recommendation on how to improve the user experience for our audience in India? And what data is going to be useful to inform my decision making process? The analysis can be split into two parts, opportunity sizing and evaluating operational feasibility.
+> 
+> **Opportunity sizing:**
+> 
+> * Collect data on English-language traffic originating from India both for acquisition and audience’s behavior;
+> * number of sessions, new sessions, new users, users’, bounce rate, page session, average time per session, etc.
+> * number of SMBs and larger businesses in India.
+> * Run a competitive analysis to understand who serves an en-IN site for business audiences.
+> * Collect SEO results that drive traffic to India (unique keywords, etc.).
+> * Enquire about long-term strategy in the region (monetization, launch of new products, etc.).
+> 
+> Should it be clear that there is an opportunity there, one would move into the analysis of **Operational feasibility**:
+> 
+> * Technical, Design and Localization Support needed to launch and maintain the site.
+> * Cost of SEO optimization.
+> * List up products available and unavailable for India in order to quote the number of editorial time needed to adapt the site for the market.
+> * Run cost analysis for adaptation of editorial insights and launching a separate blog.
+> 
+> In a situation like this one, data is informative, but not resolutive. Data informs us and enables us to make the most rational of the decisions, but does not guarantee a 100% success.
 
 
 ### Main takeaways
 
 Regardless of where you are in your localization business analytics journey, here are the main takeaways to keep in mind:
-
-
 
 * Foster a data-driven culture and create a data-driven strategy.
 * Understand your data and the story it is telling. Know your audience and build partnerships with other business units.
@@ -1801,8 +1704,6 @@ Regardless of where you are in your localization business analytics journey, her
 * Never rely on one lonely metric.
 
 And finally, the way you present data matters. It is a way of communication and your audience should be able to understand it. Make your presentation simple: 
-
-
 
 * Make your data readable. Use 1,000,000 instead of 1000000. If you are presenting one number format (1M), use the same abbreviation (0.1M instead of 100K). Skip decimals unless they really really matter (15.34% becomes 15%). Right-align your numbers. Do not repeat the same information. Remove bars and columns, axes and gridlines, legends and borders. You get the idea—make the data easy to read and focus on the right message.
 * Do not use 3D graphs. They are difficult for the brain to process. Use 2D.
