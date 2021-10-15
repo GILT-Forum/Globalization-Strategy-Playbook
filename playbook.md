@@ -56,11 +56,8 @@ As per the license terms, you must always give appropriate credit, provide a lin
 
 
 <!-- vscode-markdown-toc -->
-	* 1. [*A Guide for Localization and Globalization Professionals*](#AGuideforLocalizationandGlobalizationProfessionals)
-* 1. [Book Reviews](#BookReviews)
-* 2. [License Information and Restrictions](#LicenseInformationandRestrictions)
-* 3. [Table of Contents](#TableofContents)
-* 4. [Chapter 1: Purpose and Vision](#Chapter1:PurposeandVision)
+
+* [Chapter 1: Purpose and Vision](#Chapter1:PurposeandVision)
 	* 4.1. [Strategic Thinking and Planning Steps](#StrategicThinkingandPlanningSteps)
 		* 4.1.1. [Step 1. Your Organization Vision](#Step1.YourOrganizationVision)
 		* 4.1.2. [Step 2. Your Organization Strategy](#Step2.YourOrganizationStrategy)
