@@ -1,10 +1,10 @@
 # Globalization-Strategy-Playbook
-A Guide for Localization and Globalization Professionals
+This project describes strategies for Localization and Globalization Professionals
 
 ## Introduction
 
-The GILT Leaders Forum is a self-organized group of seasoned globalization professionals
-representing various companies from the "buyer" side. The group chartered a Strategy Thinking Task Force to document and share experiences in developing localization strategies for people, processes, and technologies, including setting a vision, working out the strategic direction, and guidelines for conversations with stakeholders.
+The GILT Leaders Forum is a self-organized group of seasoned globalization professionals representing various companies from the "buyer" side. The group chartered a Strategy Thinking Task Force to document and share experiences in developing localization strategies for people, processes, and technologies, including setting a vision, working out the strategic direction, and guidelines for conversations with stakeholders.
+
 This book will help you learn that localization strategies should flow from company strategies, or at the very least, the strategies of the localization stakeholders; localization managers should plan for people, processes, and technology in a comprehensive manner, following the long-term vision for the team’s role in their company; understand how to know when they are solving the right problem, and how to define the problem.
 
 ## Document source
@@ -42,7 +42,7 @@ Public License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
-This playbook is the outcome of the initiative, participation and contribution of a group of Globalization leaders with different backgrounds and experiences. Bringing together our diverse everyday life in the Globalization department, our years of experience, our different working styles and skills, we hope we have made this playbook more impactful. Here is the list of contributors:
+This playbook is the outcome of the initiative, participation and contribution of a group of Globalization leaders with different backgrounds and experiences. Bringing together the diverse everyday life in the Globalization department, the years of experience, the different working styles and skills, the authors hope that they have made this playbook more impactful. Here is the list of contributors:
 * [Melissa Biggs](https://www.linkedin.com/in/melissa-biggs-2a3289/) is a founding Partner at Locale Solutions consultants. She has held management positions in localization for over 25 years at technology firms. Melissa contributed to this unique playbook to help make it a powerful channel for communicating the many key facets of global strategy both within localization groups and across *all* company and partner organizations.
 * [Wayne Bourland](https://www.linkedin.com/in/wayne-bourland-0963ab4/) has led multiple facets of translations for the past 14+ years and is currently the Director of Translations (L10N, I18N and Interpretation) for Dell Technologies. Wayne contributed to this playbook out of a passion for sharing best practices and a need to do something other than having yet another conversation about word rates, turn around time, and quality metrics (although those are all important)!
 * [Karen Combe](https://www.linkedin.com/in/karen-combe-14086/) retired recently from her role as VP of Localization at PTC, having worked for 20 years to build and develop the Localization Department. She wants to share the results of her challenges and successes with others so that they can spend their own efforts more productively.
