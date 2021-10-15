@@ -1506,8 +1506,10 @@ To better prepare the data and maximize the impact of data analytics, we work wi
    * Goal/outcome tracking with a variety of attribution models
    * A/B and multivariate testing
 
-  *Example report from Adobe Analytics* ![Example report from Adobe Analytics](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Adobe%20Analytics%20Example.png)                  
+  *Example report from Adobe Analytics* 
+  ![Example report from Adobe Analytics](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Adobe%20Analytics%20Example.png)                  
   *Example report from Google Search Console*
+  
 ![Example report from Google Search Console](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Google%20Console%20Example.png)
 
 * **Translation Management System (TMS) reporting/analytics.** Much of the day-to-day translation transaction data managed via the TMS, as well as the associated business data, is typically stored in the backend database of your TMS. This includes projects, languages, pricing, timelines and due dates, vendor information, and much more. This data is important to define metrics on production data, for example:
@@ -2109,8 +2111,6 @@ Contact Globalization Strategy Navigation Team at [StrategyPlaybook@gmail.com](m
 
 Here is an inventory of all data and metrics that a Globalization leader might want to collect:
 
-
-
 * Website
     * Visitor and session data
     * Conversions and conversion rate 
@@ -2125,8 +2125,8 @@ Here is an inventory of all data and metrics that a Globalization leader might w
 * Business data
     * Revenue
     * Revenue goals by region
-    * # of customers
-    * # of users in region (probably using a different language)
+    * `&#35;`of customers
+    * `&#35;`of users in region (probably using a different language)
     * Deal size (with languages involved)
     * Cost of adding/maintaining a language to product, documentation, website, marketing, training, etc. (internal/external)
     * ASU (Active service units), Units sold per year, revenue per unit
