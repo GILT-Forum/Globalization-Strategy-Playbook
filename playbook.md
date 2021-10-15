@@ -41,6 +41,11 @@ Head of Globalization Strategy, Localization Operations at NetApp
 **ADAM YOUNGFIELD**,
 Global Manager, Translation Operations at The Church of Jesus Christ of Latter-day Saints
 
+*“This playbook, written by G11N leaders with 200 combined years of industry expertise, covers all aspects of L10N strategy from languages to technology, stakeholders, quality, and more. A must-read for anyone, whether you’re entering or leading Globalization.”*
+
+**JENNY KANG**,
+Director, Globalization at Veritas
+
 ## License Information and Restrictions
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 
