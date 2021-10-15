@@ -54,6 +54,7 @@ As per the license terms, you must always give appropriate credit, provide a lin
 
 ## Table of Contents
 
+
 <!-- vscode-markdown-toc -->
 
 - [Chapter 1: Purpose and Vision](#chapter-1-purpose-and-vision)
@@ -136,7 +137,6 @@ As per the license terms, you must always give appropriate credit, provide a lin
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc --> 
-
 
 
 ## 
@@ -295,7 +295,7 @@ However, the first step in strategy development is assessment of your company ag
 
 3. It is often Product Management (sometimes considered Product Marketing) that initiates a foray into one or more international markets, based on their own analysis of the competitive landscape. In this case, you would work with the relevant stakeholders to establish a process as outlined in the [“Language Strategy”](#chapter-4-language-strategy) chapter. 
 
-    The important point is to determine how your company’s decisions for language support are made and figure out how to best support that process, or optimize it. You will likely need to invoke your influencing and stakeholder management skills to be effective. See also the chapter “Stakeholders—Strategic Engagement and Communication.” ["Stakeholders—Strategic Engagement and Communication"](#chapter-3:-stakeholders-strategic-engagement-and-communication)
+    The important point is to determine how your company’s decisions for language support are made and figure out how to best support that process, or optimize it. You will likely need to invoke your influencing and stakeholder management skills to be effective. See also the chapter “Stakeholders—Strategic Engagement and Communication.” ["Stakeholders—Strategic Engagement and Communication"](#chapter-3-stakeholders-strategic-engagement-and-communication)
 
 #### Internationalization
 
@@ -1008,7 +1008,7 @@ Examples include:
 * Customer satisfaction: how applying raw machine translation ("MT") when no translation would otherwise be available satisfies customer needs.
 * Global revenue: how making a language available enables revenue growth in new markets. 
 
-You will also need a champion at the Executive level, as mentioned in the chapter [“Stakeholders—Strategic Engagement and Communication.”](#chapter-3:-stakeholders-strategic-engagement-and-communication)
+You will also need a champion at the Executive level, as mentioned in the chapter [“Stakeholders—Strategic Engagement and Communication.”](#chapter-3-stakeholders-strategic-engagement-and-communication)
 
 #### Map Business Objectives to Tools
 
@@ -1027,6 +1027,7 @@ Factors to consider include:
 You will want to evaluate which tools will contribute to or drive specific business objectives. The following matrix will help you make this determination.
 
 ![Business Objectives Mapping Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter_5_Business_Objectives_Mapping.png)
+
 See Appendix A: [“Technology Decision Drivers and Strategic Objectives”](#appendix-a-technology-decision-drivers-and-strategic-objectives) for a detailed description of these technologies.
 
 The mapping of business objectives to technology with increasing complexity and integration can be described in what you might call a Technology Maturity Model. The diagram below shows the pillars or stages of technology maturity. 
@@ -1076,7 +1077,7 @@ Enlist a technology vendor to help you build your ROI. Many vendors have ROI cal
 
 Start by broadening your view. Will the Globalization team be the only user of the technology? If not, how will the technology impact other teams? 
 
-When building a business case for a terminology solution, don’t forget developers and writers whose help is required to define new terms. Will the technology help the User Experience team be more consistent with terminology across multiple products? Refer to the chapter ["Stakeholders—Strategic Engagement and Communication"](#chapter-3:-stakeholders-strategic-engagement-and-communication) to make sure you are not missing anyone. 
+When building a business case for a terminology solution, don’t forget developers and writers whose help is required to define new terms. Will the technology help the User Experience team be more consistent with terminology across multiple products? Refer to the chapter ["Stakeholders—Strategic Engagement and Communication"](#chapter-3-stakeholders-strategic-engagement-and-communication) to make sure you are not missing anyone. 
 
 Identifying such departments or individuals is crucial to your success. Even if the localization function is centralized in your company, work cross-functionally with other teams to collectively build the technology strategy, pool funds, and work out a joint approach. For example, while the product localization function is often centralized, the marketing teams are often independent and are given a freedom to set up their own processes and tools (see Diana's story above). Such a system may create duplication of effort and wasted resources for an enterprise. 
 
@@ -1151,7 +1152,7 @@ While you may have lots of metrics on the outcomes of the work you do, we regula
 * Responsiveness
 * Error rates (such as jobs failing in your TMS system)
 
-You need someone assigned to track these metrics, and also to analyze trends. This may be the tool provider, but not all providers have this in place, or they do not have customer facing data in place. You will need to push them to make it available and demand transparency. See the chapter [“Data Analytics for Globalization Strategy.”](#chapter-6:-data-analytics-for-globalization-strategy)
+You need someone assigned to track these metrics, and also to analyze trends. This may be the tool provider, but not all providers have this in place, or they do not have customer facing data in place. You will need to push them to make it available and demand transparency. See the chapter [“Data Analytics for Globalization Strategy.”](#chapter-6-data-analytics-for-globalization-strategy)
 
 ### Technology Evolution 
 
@@ -2227,6 +2228,8 @@ Here is an inventory of all data and metrics that a Globalization leader might w
     * Budget spending
     * Team ROI/Headcount
     * Production data from TMS
+
+
 
 
 
