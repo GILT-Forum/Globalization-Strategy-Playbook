@@ -9,7 +9,7 @@
 | v1.0    |  15 Cotober 2021  | Published Markdown document|
  
  
- **Authors: Strategic Thinking Group:**
+ **Authors: Strategic Thinking Group**
    
          Melissa Biggs (Locale Solutions)
          Wayne Bourland (Dell Technologies)
