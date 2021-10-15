@@ -6,7 +6,7 @@
 
 | Version |  Revision Date     | Description|
 |---------|--------------------|----------------------------------------------------------------------------------|
-| v1.0    |  15 Cotober 2021  | Published Markdown document|
+| v1.0    |  15 October 2021  | Published Markdown document|
  
  
  **Authors: Strategic Thinking Group**
