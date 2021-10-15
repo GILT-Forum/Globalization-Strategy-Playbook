@@ -604,7 +604,7 @@ You can use different stakeholder management strategies to effectively engage st
 
     Trust is key, and stakeholders respond better when there is transparent communication. Sharing your knowledge and challenges openly and clearly opens up room for collaboration and alignment, and builds understanding. Sharing your knowledge organically leads to increased trust and respect.
 
-4. **Set boundaries**. Manage your company's resources effectively and maintain the wellbeing of your team by setting boundaries. Without boundaries, you are likely to focus on other teams’ priorities or react to their needs instead of your own, and your team may become less effective. Setting boundaries also means indirectly communicating to stakeholders how to work with you. 
+4. **Set boundaries**. Manage your company's resources effectively and maintain the well-being of your team by setting boundaries. Without boundaries, you are likely to focus on other teams’ priorities or react to their needs instead of your own, and your team may become less effective. Setting boundaries also means indirectly communicating to stakeholders how to work with you. 
 
     In general, setting boundaries for every aspect of your work is not necessary. However, there are areas where a Globalization leader needs to pay attention: budget and team resources. Allocating a budget to a workflow that is not cost-effective is one of the boundaries you are expected to set, as well as dedicating one headcount from your team to a program because it is suboptimal. Keep in mind that you manage company resources, and this means that sometimes you have to say no to your stakeholders. Ask for business justifications of translation requests or funding and, in some cases, headcount from the teams who require work that will expand Globalization delivery scope.
 
@@ -698,6 +698,7 @@ Engaging with a multiplicity of stakeholders is a delicate and challenging exerc
 ## Chapter 4: Language Strategy 
 
  “If you talk to a man in a language he understands, that goes to his head. If you talk to him **in his language**, _that goes to his heart._”
+ 
 _—Nelson Mandela_
 
 ### Defining the Language Strategy
@@ -708,8 +709,8 @@ Language strategy encompasses a recommended set of _languages,_ for a specific b
 
 Language Strategy _is not:_
 * A business plan, although it often complements one.
-* Strictly defined by countries or even regions – one needs to understand the specific language needs of the given target country. For example, there may be legal requirements, such as in Canada, where both English and Canadian French are supported. Or in some cases, such as in India depending on the target audience, English may be acceptable or even preferred.
-* An inflexible mandate – rarely do companies get top-down support for a mandated language strategy, which means the onus is on the business owner to secure budget, and on the Globalization team to consult on the right set of languages to capitalize on the desired business outcomes.
+* Strictly defined by countries or even regions—one needs to understand the specific language needs of the given target country. For example, there may be legal requirements, such as in Canada, where both English and Canadian French are supported. Or in some cases, such as in India depending on the target audience, English may be acceptable or even preferred.
+* An inflexible mandate—rarely do companies get top-down support for a mandated language strategy, which means the onus is on the business owner to secure budget, and on the Globalization team to consult on the right set of languages to capitalize on the desired business outcomes.
 
 Exceptions do and should exist for a language policy and framework.
 
@@ -873,7 +874,7 @@ Among the alphabetic scripts, we can include:
 
 Among the syllabic languages, we can include:
 
-* The logo-syllabic languages like Chinese and Japanese (Kanji) – for these languages, characters represent both sound (syllable) and meaning, with words made up of one or more characters. Typically, there are multiple characters for each possible syllable, each with a different meaning.
+* The logo-syllabic languages like Chinese and Japanese (Kanji)—for these languages, characters represent both sound (syllable) and meaning, with words made up of one or more characters. Typically, there are multiple characters for each possible syllable, each with a different meaning.
 * Most languages from the Indian subcontinent, such as Bengali, Hindi (Devanagari), Malayalam, Punjabi, Tamil, Telugu, etc.;
     * Burmese, Khmer, Lao.
     * Thai—another particularity. In its written form, Thai does not use separators between words (like we do in English, with a space used as a word separator). Spaces in Thai are the equivalent of the period in English and mark the end of a sentence.
@@ -885,17 +886,17 @@ We will also mention here Bamum, a language spoken in parts of Cameroon, as an i
 
 With so many languages, scripts, and locales, each with specific cultural norms, there are many differences that you need to take into account, as they might have a significant impact on the success of a localization project, or simply the overall user experience. However, you cannot typically address everything, and you should not let a flurry of details confuse you or lead you to some unwanted state of paralysis. We will list here a few that are quite generic, trusting that you will have no difficulties to expand on that list with topics that are relevant for your company or products.
 
-* **Text Expansion** – If you have ever compared different versions of the same content written in English, Spanish, Russian, or Chinese, you know that the amount of space needed for each version varies by language. Spanish and Russian, as well as most Western European or Eastern European languages typically “run” longer than English. 
+* **Text Expansion**—If you have ever compared different versions of the same content written in English, Spanish, Russian, or Chinese, you know that the amount of space needed for each version varies by language. Spanish and Russian, as well as most Western European or Eastern European languages typically “run” longer than English. 
 
     Thus it is wise to account for a text expansion of 30% or more, which can impact the layout in a PDF or PowerPoint presentation. However, for short sentences or segments, like the text on a UI button (one or two words), that text expansion can reach 300% or more. Of course, your desktop publishing (DTP) experts might figure out ways to adjust the font size or play with the kerning and tracking settings in your document. But the best approach is to ask your content creators to leave some white space. Basically, avoid cramming too much content on one page or one slide. 
 
     Chinese typically runs shorter, on the horizontal axis, than English, but it might require a bit more space vertically. You might also be more limited with font size adjustments, as most English characters might still be legible with a 7-point size, but some Chinese ones will be harder to decipher. Again, give yourself some space; this will make your content more pleasing to the reader anyway.
 
-* **Bi-Directionality** – Although we often talk of Left-to-Right, or Right-to-Left, languages, it is practically more accurate to talk of bi-directional languages, as Arabic or Hebrew have borrowed English words. Difficulties appear when some English text, typically with a strong left-to-right directionality, is embedded inside, for example, an Arabic paragraph, which gives to the content a strong right-to-left directionality. 
+* **Bi-Directionality**—Although we often talk of Left-to-Right, or Right-to-Left, languages, it is practically more accurate to talk of bi-directional languages, as Arabic or Hebrew have borrowed English words. Difficulties appear when some English text, typically with a strong left-to-right directionality, is embedded inside, for example, an Arabic paragraph, which gives to the content a strong right-to-left directionality. 
 
     To complicate things, some characters have what we call a ‘weak’ directionality, meaning their position to the right or left of another word will depend on the language of the text around them. Here, your best option is to rely on the expertise of your Arabic or Hebrew linguists, and whenever needed, use invisible Unicode control marks to assign a strong directionality to a weak character.
 
-* **Forms used to collect personal information** – Here, the main problem is with cultural norms. Ideally, most forms would be dynamic, particularly registration forms where a user is asked to provide their contact information. This may include a street address, a phone number, and a ZIP code, or select a State from a drop-down menu. 
+* **Forms used to collect personal information**—Here, the main problem is with cultural norms. Ideally, most forms would be dynamic, particularly registration forms where a user is asked to provide their contact information. This may include a street address, a phone number, and a ZIP code, or select a State from a drop-down menu. 
 
     Some of these concepts do not translate well from one country to the next. But please, do not force people to provide a ZIP code, or do not force them to enter a 10-digit phone number with a 3-digit area code. This will mark you as ‘American-centric.’ 
 
@@ -921,7 +922,7 @@ With so many languages, scripts, and locales, each with specific cultural norms,
 
 Clearly, as we barely scratched the surface, the devil is in the details when it comes to understanding how differences between languages can impact a localization project. These are considerations to be assessed in building out your language infrastructure and strategy. 
 
-The truth is, you are not alone. All your colleagues in the industry have experienced these issues before, and you have a fantastic pool of resources that can provide expert guidance – your translators, linguists, and localization experts. Experience helps as well, but nobody expects you to remember specific aspects that could mean trouble for any of the multiple languages that you support. 
+The truth is, you are not alone. All your colleagues in the industry have experienced these issues before, and you have a fantastic pool of resources that can provide expert guidance—your translators, linguists, and localization experts. Experience helps as well, but nobody expects you to remember specific aspects that could mean trouble for any of the multiple languages that you support. 
 
 You need to identify the issues, assess the impact, and discuss possible resolutions with your extended team, meaning you need to make the content “authors” part of this discussion, especially if you need them to adopt new writing or coding practices. 
 
@@ -1228,6 +1229,7 @@ Some of the tools described may be part of or linked to a TMS, depending on the 
 ## Chapter 6: Data Analytics for Globalization Strategy
 
 “If you can’t measure it, you can’t improve it.”
+
 _—Peter Drucker_
 
 Everybody knows they need data to make decisions. It is like saying, I need food to survive. Which data though? As we go over our preferred ways to select data that matters to our businesses, you will find some relevant suggestions and some not relevant at all. When you think about your own strategic data, the only universal rule is to know why the data you selected is meaningful, how it affects your actions and recommendations, and what makes you certain you can trust it. 
@@ -1271,15 +1273,15 @@ Make an educated guess and confirm your conclusions. Employ multiple data points
 
 There are several aspects to consider when building up your globalization data strategy; some of which are detailed further in this document:
 
-* **Data prioritization** – there are plenty of data points that could be tracked, but you ultimately need to prioritize which ones are the most critical for your organization. Ask yourself the following questions:
+* **Data prioritization**—there are plenty of data points that could be tracked, but you ultimately need to prioritize which ones are the most critical for your organization. Ask yourself the following questions:
     * Why is data critical for globalization?
     * How to pick the right globalization data and associated granularity? How does it validate your strategy? 
     * What story does the data tell and how does it inform your decisions, item by item?
-* **Data collection** – once you identify key data, you need to collect this data at a regular cadence and at scale. For example:
+* **Data collection**—once you identify key data, you need to collect this data at a regular cadence and at scale. For example:
     * What is the process to collect the data and build reports and dashboards?
     * What are the tools needed to collect, transform and process data?
     * Where is the data and whom can you partner with to collect data automatically?
-* **Data presentation** – finally, you need to present your data to executives and other leaders. Consider the following points:
+* **Data presentation**—finally, you need to present your data to executives and other leaders. Consider the following points:
     * Which data is compelling to other Business Units when you make your points about business contributions of globalization efforts in your company? 
     * What is your globalization data strategy? Whom are you communicating it to and how? What is your elevator pitch about globalization value? How do you know you are successful in communicating it, especially at the C-level? What are the expected results? 
 
@@ -1721,7 +1723,7 @@ By implementing a score-driven world-readiness program, you will be able to asse
 > * Do we already have an audience in this market?
 >     * Collect data on monthly and weekly active users, weekly sign ups and activation rate, user locales, and monthly use of products/features.
 > * Is the audience ready for our product?
->     * Collect data on users’ behavior, i.e. number of social media users, Smartphone owners, digital market share, and competition. Combine with complimentary data around users’ lifestyle (education level, male–female labor force participation, distribution of per-capita GDP, etc.), digital ad spending, English proficiency.
+>     * Collect data on users’ behavior, i.e. number of social media users, Smartphone owners, digital market share, and competition. Combine with complimentary data around users’ lifestyle (education level, male-female labor force participation, distribution of per-capita GDP, etc.), digital ad spending, English proficiency.
 > * What kind of engagement has the current audience shown on our product?
 >     * Collect data on the number of tickets we receive on average from this region and what sentiment users in this region have expressed.
 > * Is there any historical analogy and/or projection on how successful the business will be in that market?
