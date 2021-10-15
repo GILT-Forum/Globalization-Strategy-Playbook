@@ -1,14 +1,13 @@
-  
-# Globalization Strategy Playbook                                 
+ 
+# Globalization Strategy Playbook     
 ### *A Guide for Localization and Globalization Professionals*
-
-
+---
 
    **Authors: Strategic Thinking Group:**
    
          Melissa Biggs (Locale Solutions)
          Wayne Bourland (Dell Technologies)
-         Karen Combe (Combe Consulting LLC)
+         Karen Combe (Combe Consulting)
          Francesca Di Marco (Pinterest)
          Loïc Dufresne de Virel (Intel)
          Mimi Hills (Hillstra Associates)
@@ -26,12 +25,15 @@ Special thanks to Localization Industry professionals below who reviewed Globali
 
 This is what they said. 
 
-*Globalization Strategy Playbook is a comprehensive, informative and helpful guide for every globalization professional building, managing or leading globalization.
+**Globalization Strategy Playbook is a comprehensive, informative and helpful guide for every globalization professional building, managing or leading globalization.*
 
 **EDITH BENDERMACHER**,
 Head of Globalization Strategy, Localization Operations at NetApp
 
+*“The Globalization Strategy Playbook offers straightforward, practical advice for globalization leaders in a format that invites readers to consider the core purposes of their own organizations as they navigate the challenges of creating critical vision. In this way, it takes the position of a thoughtful coach—encouraging introspection over adherence to absolutes. This is precisely what leaders need in the complexly multifaceted field of globalization.”*
 
+**ADAM YOUNGFIELD**,
+Global Manager, Translation Operations at The Church of Jesus Christ of Latter-day Saints
 
 ## License Information and Restrictions
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
@@ -62,7 +64,7 @@ As per the license terms, you must always give appropriate credit, provide a lin
 
 ## Chapter 1: Purpose and Vision
 
-Developing and implementing a strategy is the central responsibility of any leader. Whether the head of a small or a large department in an enterprise on the client side, whether your team is called Localization, Internationalization or something else, Globalization leaders envision the ideal future for their team and their company, and determine how and when to achieve the most desirable goals. This set of actions is called strategy.
+Developing and implementing a strategy is the central responsibility of any leader. Whether the head of a small or a large department in an enterprise on the client side, whether your team is called Localization, Internationalization or something else, Globalization leaders envision the ideal future for their team and their company. They determine how and when to achieve the most desirable goals. This set of actions is called strategy.
 
 In this playbook, we will introduce common strategic thinking concepts, such as vision, pillars, objectives and goals, roadmap and metrics, and guide you through how they apply to the process of Globalization.
 
@@ -70,7 +72,7 @@ There are two kinds of strategies that a leader needs to consider.
 
 One is the business unit strategy—how your organization will fit into your company structure and success in the future, and what you need to do to secure the optimal position to contribute the most. Imagine if your company is pivoting its monetization strategy to a new set of markets, and as a Globalization lead you need to reconfigure your team’s positioning with your stakeholders. How do you handle the language strategy, the market strategy, internationalization processes, etc.? How do you make sure you set up your company and your team for success?
 
-The second kind of strategy is your team strategy—what kind of team (skills, seniority, expertise) you need to have in order to support the future demand, and what career paths you need to envision for the people you plan to hire.
+The second kind of strategy is your team strategy—what kind of team (skills, seniority, expertise) you need have to support the future demand, and what career paths you need to envision for the people you plan to hire.
 
 Perhaps, in addition, there should be a third type of strategy—outsourcing strategy to support fluctuating demand. This includes how and when your vendor strategy needs to be reconsidered, made more agile, or simply re-evaluated based on ever-changing business needs.
 
@@ -80,21 +82,19 @@ By offering a wide variety of tools and an expansive globalization framework, th
 
 This playbook promises to empower Globalization leaders to build a coherent strategic response by offering an overview of the following:
 
-
-
-* **Vision:** What does the future you are trying to create look like? How do you define your goals for whatever you aim at working towards in the future?  For example, what is your vision for international customer experience if your goal is to provide out-of-the-box globalization capabilities in each product?  How do you ensure that non-English  speaking audiences will have similar or better user experience as English-speaking users? 
+* **Vision:** What does the future you are trying to create look like? How do you define your goals for whatever you aim at working towards in the future? For example, what is your vision for international customer experience if your goal is to provide out-of-the-box globalization capabilities in each product? How do you ensure that non-English speaking audiences will have similar or better user experience as English-speaking users? 
 * **Strategic direction:** By strategic direction, we are referring to strategic pillars, annual objectives, goals, and roadmap. The strategic pillars are the most essential battlefields that a Globalization leader needs to govern for the company’s long-term success. 
 
-    The strategic pillars for the Globalization team are: people (internal and external), processes (localization specific and corporate lifecycle), infrastructures (TMS, that is Translation Management Systems, globalization libraries, MT, that is machine translation, etc.), and reporting tools (dashboards, newsletters, etc.). The rest of the elements are annual objectives and goals, which represent the desired outcome. 
+    The strategic pillars for the Globalization team are: people (internal and external), processes (localization-specific and corporate lifecycle), infrastructures (TMS, that is Translation Management Systems, globalization libraries, MT, that is machine translation, etc.), and reporting tools (dashboards, newsletters, etc.). The rest of the elements are annual objectives and goals, which represent the desired outcome. 
 
     And lastly the roadmap, which is the tactical and operational plan that spells out the details on how to achieve the goals, and the metrics to measure success of those tactical actions.
 
-* **Guide for conversations:** What are the topics, the metrics, and the rationales that a Globalization leader should address stakeholders and the C-suite to align the globalization function with business goals; socialize localization data showing impact on revenue and customer loyalty as well as localization success metrics among company leaders; and define who will affect the work directly or indirectly.
+* **Guide for conversations:** What are the topics, the metrics, and the rationales that a Globalization leader should address with stakeholders and the C-suite to align the globalization function with business goals; socialize localization data showing impact on revenue and customer loyalty as well as localization success metrics among company leaders; and define who will affect the work directly or indirectly.
 * **Tips and best practices:** What are the procedures and processes that better represent the most effective course of action in localization (spanning from vendor recruiting to tooling evaluation, etc.). This process usually starts with defining your present status, your projects and how they help achieve the future state following your vision. It then continues with collecting data, building a business case, and realigning your resources and projects to follow the strategy. Finally, it concludes with evaluating the gap between now and the future state and what actions will help you get there and when.
 
 The content of this playbook spans from tactical tips to more creative insights. However, the recurring theme of this work is to guide Globalization leaders through a strategic thinking process, where the strategy is the approach one takes to achieve a goal, and a goal is the primary, measurable outcome of a strategy. 
 
-Whereas objectives might be different across the readership (because they are tied to specific businesses), strategy and the strategic thinking exercise encouraged in this playbook should resonate with each reader. Whether you are a Globalization leader of a small company or of a seasoned corporation, the strategic framework to navigate in order to pursue a specific objective is the same.
+Whereas objectives might be different across the readership (because they are tied to specific businesses), strategy and the strategic thinking exercise encouraged in this playbook should resonate with each reader. Whether you are a Globalization leader of a small company or of a seasoned corporation, the strategic framework to navigate to pursue a specific objective is the same.
 
 
 ### Strategic Thinking and Planning Steps
@@ -119,9 +119,9 @@ Once you know where you need to end up, according to your vision, get a compass�
 
 In other words, you need a statement that defines how you select milestones or outcomes to make your vision a reality. 
 
-For example, if you are driving from San Francisco to Los Angeles, there are not many roads you can pick. However, you can determine where you stop for lunch and when, how you would react if you hit traffic and where it is more likely to happen, what are the times of the day you should not be around populated areas so the traffic would not slow you down. Your strategy could be “Reach Los Angeles by 8 pm on Friday” or “Get to Los Angeles in six hours.” See the difference in strategy? Your tactics will be different based on the goal—time of journey or time of arrival.
+For example, if you are driving from San Francisco to Los Angeles, there are not many roads you can pick. However, you can determine where you stop for lunch and when, how you would react if you hit traffic and where it is more likely to happen, what are the times of the day you should not be around populated areas so the traffic would not slow you down. Your strategy can be “Reach Los Angeles by 8 pm on Friday” or “Get to Los Angeles in six hours.” See the difference in strategy? Your tactics will be different based on the goal—time of journey or time of arrival.
 
-This thought process can be applied to decisions related to Globalization vision.  For example, if you want to develop a Machine Translation (MT) infrastructure in your company, you could hire natural language processing engineers who would create your own MT engines and infrastructure, decide to purchase machine translation as a service from a third party provider, or a mix of both.
+This thought process can be applied to decisions related to Globalization vision. For example, if you want to develop a Machine Translation (MT) infrastructure in your company, you could hire natural language processing engineers who would create your own MT engines and infrastructure, decide to purchase machine translation as a service from a third-party provider, or a mix of both.
 
 Your planning process should consist of three thinking steps: 
 
@@ -133,7 +133,7 @@ Your planning process should consist of three thinking steps:
 
 Now that you know where you need to end up and know how you are going to do that, it is time to plan a journey. It is time for milestones or specific outcomes you have to reach to realize your vision. Those are very specific, time-bound, measurable outcomes that you will have to monitor and track on a regular basis. This is your vision’s “health monitor.” 
 
-Using our Machine Translation infrastructure analogy above, you can decide to rely on a third-party provider. This means that you need to identify providers which support your language set. You also need to put in place selection criteria to pick the most suitable providers for your needs. Those criteria could include language availability, costs, hosting strategy, translation quality, speed delivery, ability to customize/train the engines, etc.
+Using our Machine Translation infrastructure analogy above, you can decide to rely on a third-party provider. This means that you need to identify providers which support your language set. You also need to put in place selection criteria to pick the most suitable providers for your needs. Those criteria can include language availability, costs, hosting strategy, translation quality, speed delivery, ability to customize/train the engines, etc.
 
 And that is why the strategy statement has to be both specific and generic. It sets your organization’s priority without specifying the exact way of execution. Your execution plan and measurement would be your guide on where you are on the road and how likely it is for you to hit your goal.
 
@@ -171,7 +171,7 @@ It is not an entirely top-down approach: all those groups focus on gathering fee
 
 Global Go to Market Motion is carried out for new products or services targeting both geographical market and language preference of the potential customers. The markets where the product will be introduced first are chosen early, along with the languages needed to support those markets. Budget is allocated for localization, and marketing materials, service materials, and product localization are all ready to go when the product is first shipped.
 
-Of course you, as Globalization Leader, play a critical role in all of this. You have access to all of the data about sales, product usage, website usage, customer language usage and preferences, and so on. You are not just a recipient of the information, you play a role in the decision making about the strategy.
+Of course you—a Globalization Leader—play a critical role in all of this. You have access to all of the data about sales, product usage, website usage, customer language usage and preferences, and so on. You are not just a recipient of the information, you play a role in the decision-making about the strategy.
 
 When the company is looking at a new marketing campaign or a new product, you pull up the data for how similar campaigns or products have worked for the company in the past. No one would even think about pulling together a plan without asking you for your data, experience, and wisdom.
 
@@ -211,15 +211,15 @@ However, the first step in strategy development is assessment of your company ag
 
 2. If your company is not blessed with a Strategy Group, then who decides what markets to penetrate? Is it Sales? (It often is.) Some Localization departments report into what is euphemistically termed “Revenue,” which may provide an opportunity to contribute directly to the formulation of a global market strategy if one does not exist. 
 
-    In the absence of any localization, you can initiate the process for Return on Investment (ROI) development of potential markets by working actively with regional Sales executives on forecasts and projections in the countries where the company is actively selling. How much better would the results be if the product were localized? Are there competing products that have been developed in the native language? Do other competitors localize into the relevant languages? See the chapter “Language Strategy” for more details to supplement these examples.
+    In the absence of any localization, you can initiate the process for Return on Investment (ROI) development of potential markets by working actively with regional Sales executives on forecasts and projections in the countries where the company is actively selling. How much better would the results be if the product were localized? Are there competing products that have been developed in the native language? Do other competitors localize into the relevant languages? See the chapter [“Language Strategy”](#chapter-4-language-strategy) for more details to supplement these examples.
 
-3. It is often Product Management (sometimes considered Product Marketing) that initiates a foray into one or more international markets, based on their own analysis of the competitive landscape. In this case, you would work with the relevant stakeholders to establish a process as outlined in the Language Strategy chapter. 
+3. It is often Product Management (sometimes considered Product Marketing) that initiates a foray into one or more international markets, based on their own analysis of the competitive landscape. In this case, you would work with the relevant stakeholders to establish a process as outlined in the [“Language Strategy”](#chapter-4-language-strategy) chapter. 
 
-    The important point is to determine how your company’s decisions for language support are made and figure out how to best support that process, or optimize it. You will likely need to invoke your influencing and stakeholder management skills in order to be effective. See also the chapter “Stakeholders—Strategic Engagement and Communication.” [Stakeholders—Strategic Engagement and Communication](#chapter-3:-stakeholders-strategic-engagement-and-communication)
+    The important point is to determine how your company’s decisions for language support are made and figure out how to best support that process, or optimize it. You will likely need to invoke your influencing and stakeholder management skills to be effective. See also the chapter “Stakeholders—Strategic Engagement and Communication.” ["Stakeholders—Strategic Engagement and Communication"](#chapter-3:-stakeholders-strategic-engagement-and-communication)
 
 #### Internationalization
 
-No matter what kind of company you work in, in order to enter international markets the products need to be “world ready,” meaning that they function properly in any of the company’s target markets and can be productively localized. 
+No matter what kind of company you work in, to enter international markets the products need to be “world ready,” meaning that they function properly in any of the company’s target markets and can be productively localized. 
 
 Internationalization applies not only to software and hardware, but also to other content including technical documentation, marketing material, website, tech support articles, and any other customer-facing documents such as sales presentations. Your products may be consumed in the source language (usually English) by non-native speakers of the language where localized artifacts are not available. 
 
@@ -232,7 +232,7 @@ Do the appropriate internationalization guidelines for development and content c
 
 Most of us have experienced the need to integrate an acquired company. Ideally, Globalization is involved in the due diligence conducted by the Mergers and Acquisitions (M&A) team before any deal is concluded. Are the target company’s products internationalized, localized, distributed to non-English markets? 
 
-You will be doing your company a service if you manage to integrate your expertise into the process, because if the products are not world-ready there will be costs to internationalize, which executives will not have taken into account in setting the price of acquisition. There may be delays in making the products available to global markets, which means that revenues projected as part of the acquisition would be delayed. In addition, of course, the cost of eventual localization could be severely impacted. 
+You will be doing your company a service if you manage to integrate your expertise into the process, because if the products are not world-ready there will be costs to internationalize, which executives will not have taken into account in setting the price of acquisition. There may be delays in making the products available to global markets, which means that revenues projected as part of the acquisition would be delayed. In addition, of course, the cost of eventual localization can be severely impacted. 
 
 > <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Kate’s company acquired a company that used extensive documentation to explain their product. Each page of the documentation was formatted by hand, with multiple graphics that had to be placed with exact accuracy. And there was an immediate demand for the product in multiple international products. The cost to localize was very high, not to say astronomical, and it took several releases to transition to a more rational approach for a global product. Lesson learned.
 
@@ -246,9 +246,9 @@ In assessing your company against the ideal, look particularly at these four are
 
 #### Product Development Process
 
-What type of **development process** does your company follow? Waterfall, Agile, combination? What level of localization integration exists? We’ll assume that you’re already dealing with Internationalization, per the earlier paragraph. So depending on what kind of localization technologies you have (see the chapter “Technology Strategy” for detailed information), you may find existing direct integrations with repositories and the integration pipeline. 
+What type of **development process** does your company follow? Waterfall, Agile, combination? What level of localization integration exists? We’ll assume that you’re already dealing with Internationalization, per the earlier paragraph. So depending on what kind of localization technologies you have (see the chapter [“Technology Strategy”](#chapter-5-technology-strategy) for detailed information), you may find existing direct integrations with repositories and the integration pipeline. 
 
-If you are in a software company and your company is doing CICD (Continuous Integration Continuous Deployment), you definitely want to incorporate planning for those integrations into your department strategy. If they are already in place—ideal. But even if your company is not using a CICD approach, the best relationship with Development requires the maximum automation possible, providing you with a clear objective.
+If you are in a software company and your company is doing CICD (Continuous Integration Continuous Deployment), you definitely want to incorporate planning for those integrations into your department strategy. If they are already in place, that is ideal. But even if your company is not using a CICD approach, the best relationship with Development requires the maximum automation possible, providing you with a clear objective.
 
 What about **Quality Assurance?** QA covers multiple areas in Localization, but primarily functional testing in this context and includes Internationalization testing. Does the QA function in your Development team use automated tests? And do those tests work for all languages? If not, add this topic to your Internationalization ToDo list.
 
@@ -265,7 +265,7 @@ Sometimes priorities for documentation differ for various markets. Information y
 
 #### Finance Information
 
-In order to fully participate in the global market objectives of your company, you need information from Finance, particularly revenue and budget information. You cannot establish ROI for products and languages without the revenue (Return) side. And you cannot assess the cost (Investment) side unless you have the company view of your budget and costs. Headcount is also a part of financial management of your organization. 
+To fully participate in the global market objectives of your company, you need information from Finance, particularly revenue and budget information. You cannot establish ROI for products and languages without the revenue (Return) side. And you cannot assess the cost (Investment) side unless you have the company view of your budget and costs. Headcount is also a part of financial management of your organization. 
 
 For example, in a product ROI analysis, the localization costs include both the percentage of headcount in your department allocated to the product as well as any external costs. But for your headcount, should you include only salary and benefits, or add in bonus, plus stock awards, plus facilities overhead? The answer is to know what your company does when it calculates the cost of a headcount. 
 
@@ -289,7 +289,7 @@ It is unlikely that any Procurement department achieves a deep understanding of 
 
 #### IT
 
-If your department or one that you work with closely uses localization technology, such as a TMS, you will interact with Information Technology (IT). The first order of business in technology is security, so any technology that connects to entities outside your company firewall must meet the standards that  IT defines. 
+If your department or one that you work with closely uses localization technology, such as a TMS, you will interact with Information Technology (IT). The first order of business in technology is security, so any technology that connects to entities outside your company firewall must meet the standards that IT defines. 
 
 Now suppose your department uses a TMS that does not meet the standards. IT will likely insist that the technology be upgraded or changed within a certain timeframe. You need a productive interaction with IT to ensure that the timeline can be met, or you need to offer an acceptable alternative. 
 
@@ -297,7 +297,7 @@ In a slightly different scenario, some IT departments prefer to manage your tech
 
  Finally, make sure you have a solid SLA with IT because your localization infrastructure needs to be available 24/7.
 
-If your company operates in the Cloud technology space, there will be data privacy requirements associated with TMS technology, i.e. where the data is going for translation and how it is returned.  IT, the  Intellectual Property board, Cloud technology team, etc. will have input into your technology decisions. Consider consulting with those teams when making decisions about TMS.
+If your company operates in the Cloud technology space, there will be data privacy requirements associated with TMS technology, i.e. where the data is going for translation and how it is returned. IT, the Intellectual Property board, Cloud technology team, etc. will have input into your technology decisions. Consider consulting with those teams when making decisions about TMS.
 
 As you can see, whatever your assessment of your company and department reveals, you need a strategy to move towards the ideal, which will certainly involve building or improving relationships with stakeholders.
 
@@ -314,7 +314,7 @@ Let’s review the story of a Globalization leader’s efforts to assess and eva
 >
 >As Diana navigated the operational maze of production and workflows, set up frameworks to ensure on-time delivery and measure success, interfaced with stakeholders, hired team members, and on-boarded vendors, she learned several lessons.
 >
->* A Globalization team succeeds by helping other teams achieve their goals in international markets. The added value is very specific to consulting on the needs of those markets, and tying the actions to the company's global strategy to accelerate success. See the chapter “Stakeholders—Strategic Engagement and Communication.”
+>* A Globalization team succeeds by helping other teams achieve their goals in international markets. The added value is very specific to consulting on the needs of those markets, and tying the actions to the company's global strategy to accelerate success. See the chapter [“Stakeholders—Strategic Engagement and Communication.”](#chapter-3-stakeholdersstrategic-engagement-and-communication)
 >
 >* What you measure should roll up into the company’s global strategy measurements. Your contribution is value-add and it multiplies corporate success in local markets. See the chapter ["Data Analytics for Global Strategy"](#chapter-6-data-analytics-for-globalization-strategy)
 >* The Globalization team is the liaison between your company and customers, corporate and local teams, and functional teams within the company. It is essential for the team to collaborate and work well with others.
@@ -336,7 +336,7 @@ Sometimes localization is an afterthought in the global market strategy. If you 
 
 * The global market is divided by regions in a company, and each region figures out their own strategy. There is no coordination across language markets.
 * The global market strategy is considered a sales strategy. When a market is prioritized, it may include some marketing budget, but the localization budget is not coordinated.
-* The global market strategy is outlined for all, but each product prioritizes its own strategy. The Localization budget may not be coordinated. There could be regional marketing and product teams who use their own budget to fill localization gaps—in English or in native languages.
+* The global market strategy is outlined for all, but each product prioritizes its own strategy. The Localization budget may not be coordinated. There can be regional marketing and product teams who use their own budget to fill localization gaps—in English or in native languages.
 * There is no global market strategy. In this scenario, a sales team may give the Localization department a budget to localize certain campaigns or products.
 * In companies where there are several different localization groups, management may pursue different strategies that are not coordinated between the groups. 
 
@@ -350,7 +350,7 @@ If any of these situations sound familiar to you, don’t despair. As Globalizat
 
 ### Building a Department Strategy
 
-You may have come into a company as a Globalization leader, and found the global market strategy was good overall but lacking in one major area—and no funding available to fix that -  Globalization department to oversee globalization strategy.
+You may have come into a company as a Globalization leader, and found the global market strategy was good overall but lacking in one major area—and no funding available to fix that—Globalization department to oversee globalization strategy.
 
 If you have been hired at a startup to put together a brand new Globalization team, congratulations! You have an opportunity to create a department that perfectly fits the company’s global market strategy. You can develop strategies for languages, outsourcing, technologies, and a department structure according to current priorities, keeping in mind where the company is moving.
 
@@ -358,7 +358,7 @@ Most of us don’t have that luxury. Our departments have a budget, some people 
 
 > <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Minato was hired as Localization Director for a software company that had been localizing their products for over ten years. Experienced project managers worked with vendors to localize products. A separate group was responsible for internationalization and localization quality assurance, and the two groups interacted well. Software was sold as individual products and suites, so all products were localized into the same set of languages for an optimal customer experience.
 >
-> The company appeared to have mature processes and a mature strategy, with an exception: none of the products were localized into Spanish. Minato’s first step was to seek contacts with Sales in Latin America and Spain. Those in Latin America were adamant that they could increase sales if the products were localized. He asked for the percentage increase, and though they were reluctant to make promises that might be held against them if they didn’t achieve them, they agreed on a conservative 20% sales increase.
+> The company appeared to have mature processes and a mature strategy, with an exception: none of the products were localized into Spanish. Minato’s first step was to seek contacts with Sales in Latin America and Spain. Those in Latin America were adamant that they can increase sales if the products were localized. He asked for the percentage increase, and though they were reluctant to make promises that might be held against them if they didn’t achieve them, they agreed on a conservative 20% sales increase.
 >
 >Minato then researched the sales data, broken down per product, per country. He got estimates for first-time localization based on word counts that were readily available in his department, on a per product basis. He then was able to show that a 20% sales increase on the products would break even in the first year and within five years would yield over 15 times annual return on investment. He presented to product executives, and was given the budget to add Spanish to the Product Localization budget.
 > 
@@ -366,8 +366,10 @@ Most of us don’t have that luxury. Our departments have a budget, some people 
 
 In any company there is a limit to what a Globalization leader can realistically do, considering the resources, business strategic direction, technology, and underlying business need for globalization. One way to make a difference is to define a different approach for each of the following three areas.
 
-* **What you control**. This could include the tools you use, people you hire, vendors you select, processes you introduce, results you drive, etc.
-* **What you influence**. These are the outcomes bigger than your team’s deliverables and could include the product roadmap, other teams’ project scope (for example, training), and other company outcomes. You would work through stakeholders to add the globalization angle to the requirements, features, and ROI metrics for languages.
+* **What you control**. This can include the tools you use, people you hire, vendors you select, processes you introduce, results you drive, etc.
+
+* **What you influence**. These are the outcomes bigger than your team’s deliverables and can include the product roadmap, other teams’ project scope (for example, training), and other company outcomes. You would work through stakeholders to add the globalization angle to the requirements, features, and ROI metrics for languages.
+
 * **What you need to adapt to** since you have no influence or control. This area is the most difficult because we are talking about things that just are the way they are. For example, your company is not ready to go into the market you think it should be in. Or you did not get a headcount for a role that you need. Or the company did not meet the numbers and now they are downsizing your organization. Things happen. And as you work across the whole organization, they might happen to you more frequently than to others. Create your description of the hard requirements and fit your scope of control within those boundaries. You will need to continue to innovate and push the limits. 
 
 It is important to focus yourself and your team on what you can control and outcomes that you can deliver, develop and expand the sphere of influence, and quickly adjust to changing priorities so you can keep the outcomes you can control in line with the company goals. 
@@ -380,7 +382,7 @@ The internal focus is mainly operational and fulfills the needs of your company.
 
 The external focus is on your customer and their customers. Understanding your international customers and influencing the product roadmap to make your company offering more attractive in international markets is the strategic part of the job. The recommendations your team makes for customer requirements and market expectations should be a part of any Go To Market Motion in your company. Your team should define and run an internal framework of standards and processes that meet customer requirements so you can deliver your product or service within business expectations.
 
-As a Globalization leader, you need to hire talent who can help you define business expectations, customer requirements, and address the gap. If collaboration with other teams on their roadmaps is necessary for your success, your team’s job is even more complex.The only way to make this work is to create a collaborative culture and trust within the team, and empower team members to work independently. Transparency is a necessity, and so is communication. As the Globalization leader you are providing strategic direction, so be clear on success metrics and goals of the team. 
+As a Globalization leader, you need to hire talent who can help you define business expectations, customer requirements, and address the gap. If collaboration with other teams on their roadmaps is necessary for your success, your team’s job is even more complex. The only way to make this work is to create a collaborative culture and trust within the team, and empower team members to work independently. Transparency is a necessity, and so is communication. As the Globalization leader you are providing strategic direction, so be clear on success metrics and goals of the team. 
 
 Nowadays, all companies track an increased amount of data to monitor their business and even predict customers’ behavior. In recent years, more Globalization teams have created dedicated Globalization Data Engineering and Globalization Data Analysts positions. Those roles are responsible for building and running a globalization data infrastructure and identifying key globalization insights, which are critical for setting up the Globalization strategy. Even simple metrics that show the percentage of projects delivered on time and budget can show your team and your management that you are delivering to plan. 
 
@@ -402,7 +404,7 @@ There are different ways to approach your stakeholders, for example based on the
 
 From the perspective of the Globalization leader, stakeholders can be categorized into three main groups:
 
-1. Individuals or teams who have **specific needs and expectations** from the localization team. Also referred to as internal customers, these are the business units who are relying on the Globalization team for the production of a specific deliverable. They often represent a larger audience of global end-users, industry partners, or resellers, who are the final consumers of the localized products or contents. End-users are also stakeholders of the localization team, but in our experience, interaction with such end-users is often indirect, through customer support representatives or in-country sales and marketing teams.
+1. Individuals or teams who have **specific needs and expectations** from the localization team. Also referred to as internal customers, these are the business units who are relying on the Globalization team for the production of a specific deliverable. They often represent a larger audience of global end users, industry partners, or resellers, who are the final consumers of the localized products or contents. End users are also stakeholders of the localization team, but in our experience, interaction with such end users is often indirect, through customer support representatives or in-country sales and marketing teams.
 
 2. Individuals or teams who have **direct or indirect influence** on a project or program, such as veto power or decision-making ability. They might have only sporadic relations with the localization team, but those touch points can be critical to your success. They often represent:
     * Executives, mostly interested in strategy and the big picture; for example, they may ask how an internationalized product contributes to the success of the company and helps them achieve specific revenue goals or growth objectives.
@@ -420,21 +422,21 @@ As a Globalization leader, your priorities, concerns, and responsibilities chang
 
 ### Understanding Types of Stakeholders
 
-Let’s examine in more depth the categories of stakeholders. Based on their function and depending on company structure, size, and environment, stakeholders can be classified as “primary” or “secondary,” as well as “forgotten” or “indirect.” The labels can apply to the same stakeholders at different times. Stakeholders that are considered primary at one company could be considered secondary in another.
+Let’s examine in more depth the categories of stakeholders. Based on their function and depending on company structure, size, and environment, stakeholders can be classified as “primary” or “secondary,” as well as “forgotten” or “indirect.” The labels can apply to the same stakeholders at different times. Stakeholders that are considered primary at one company can be considered secondary in another.
 
 Primary stakeholders are business units for which the localization team provides translation services, including organizations like product teams, Sales, Customer Success, Marketing, and Customer Support. There are different types of primary stakeholders.
 
 #### Primary Stakeholders #1 
 
-These are the players with whom the Localization team routinely deals and to whom they deliver. They could be Sales and Customer Success teams, who will get you in the room with customers so you can hear feedback from them (see the “End Users” section). Or they could be a Customer Support team that helps you understand customer feedback. These stakeholders engage with both development and marketing teams, and can have conflicting priorities.
+These are the players with whom the Localization team routinely deals and to whom they deliver. They can be Sales and Customer Success teams, who will get you in the room with customers so you can hear feedback from them (see the “End Users” section). Or they can be a Customer Support team that helps you understand customer feedback. These stakeholders engage with both development and marketing teams, and can have conflicting priorities.
 
-Marketing organizations can be your primary or secondary stakeholders, depending on your team’s engagement model. In some companies, the Globalization team is the stakeholder for Marketing.  In others, Marketing is the primary stakeholder when your team is responsible for localizing the web and marketing artifacts.  In this case, Marketing is critical in building Return on Investment for new localization efforts as it has to support new languages in products.
+Marketing organizations can be your primary or secondary stakeholders, depending on your team’s engagement model. In some companies, the Globalization team is the stakeholder for Marketing. In others, Marketing is the primary stakeholder when your team is responsible for localizing the web and marketing artifacts.  In this case, Marketing is critical in building Return on Investment for new localization efforts as it has to support new languages in products.
 
 #### Primary Stakeholders #2
 
 These stakeholders are the end users of localized products. Whenever possible, connect with end users, as they provide invaluable input on how our localized products perform in real life. They also share how they use those products and contribute the needed international user perspective to forming UX design patterns inclusive of multilingual audiences.
 
-Monitor social channels as well, as translation issues can quickly go viral on social media. At the end of the day, we localize our products and services to reach non-English speakers everywhere, so we should always keep the needs of the end-users in mind and see their response as the ultimate measure of success.
+Monitor social channels as well, as translation issues can quickly go viral on social media. At the end of the day, we localize our products and services to reach non-English speakers everywhere, so we should always keep the needs of the end users in mind and see their response as the ultimate measure of success.
 
 In the case of business-to-business (B2B) companies, customers’ customers are important because they define customer success. It is the end user who determines everyone’s success.
 
@@ -478,18 +480,18 @@ Once you have identified your stakeholders, invest some effort into building rel
 
 Some stakeholders need to be managed closely, others only need to be informed, and still others are simply to be monitored. The final goal is to keep your stakeholders engaged and supportive. After all, stakeholder management is the process of maintaining good relationships with the people who have the most impact on your work. 
 
-Actively developing and sustaining relationships with stakeholders has an incredible number of benefits. Improving risk management and minimizing uncertainty indirectly decreases costs. It speeds up problem solving and decision making, and increases stakeholder support. In the end it leads to better outcomes for the company.
+Actively developing and sustaining relationships with stakeholders has an incredible number of benefits. Improving risk management and minimizing uncertainty indirectly decreases costs. It speeds up problem solving and decision-making, and increases stakeholder support. In the end it leads to better outcomes for the company.
 
 One useful tool for stakeholder management is a prioritization matrix where you place your stakeholders on two perpendicular axes, typically representing influence and level of interest. Over time, as you gather information about your stakeholders, you can add useful stakeholder-specific metadata to this map, such as frequency of communication, preferred communication style, personality, key dates, and relationships. 
 
 ![Stakeholder Map image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%203_Stakeholder_Map.png)
-The stakeholders in the top right quadrant are your priority: with them, you will discuss and agree on roadmaps, budgets, joint initiatives, strategic outcomes, etc. Your goal is to increase the level of interest of your stakeholders, so you deal mostly with people in the top two quadrants. That said, as companies are far from static, new stakeholders might appear in any of the four quadrants. In the case of an acquisition or reorganization, you need to carefully monitor the environment.
+The stakeholders in the top-right quadrant are your priority: with them, you will discuss and agree on roadmaps, budgets, joint initiatives, strategic outcomes, etc. Your goal is to increase the level of interest of your stakeholders, so you deal mostly with people in the top two quadrants. That said, as companies are far from static, new stakeholders might appear in any of the four quadrants. In the case of an acquisition or reorganization, you need to carefully monitor the environment.
 
 You can use different stakeholder management strategies to effectively engage stakeholders. These are the core strategies that we recommend to manage expectations and gain trust.
 
 1. **Understand their vision**. The key to a successful stakeholder engagement is to have a good understanding of stakeholders’ vision. By gathering your stakeholders’ requirements, you will better understand their concerns and constraints, and you will find solutions more easily. What are your stakeholders' goals and agendas? What problems are they trying to solve? What additional information will help you understand their needs and priorities? 
 
-    Examine the urgency and the legitimacy of your stakeholders’ expectations, who influences their opinions, and who they influence in turn. In dealing with a variety of stakeholders (from product teams to executive teams, to Procurement, etc.), you will have to deal with conflicting priorities. When you have to go through some delicate prioritization, as a guiding principle, do what is best for the company.. 
+    Examine the urgency and the legitimacy of your stakeholders’ expectations, who influences their opinions, and who they influence in turn. In dealing with a variety of stakeholders (from product teams to executive teams, to Procurement, etc.), you will have to deal with conflicting priorities. When you have to go through some delicate prioritization, as a guiding principle, do what is best for the company.
     
     **Providing support in the local language**
 
@@ -526,11 +528,11 @@ You can use different stakeholder management strategies to effectively engage st
 
     In general, setting boundaries for every aspect of your work is not necessary. However, there are areas where a Globalization leader needs to pay attention: budget and team resources. Allocating a budget to a workflow that is not cost-effective is one of the boundaries you are expected to set, as well as dedicating one headcount from your team to a program because it is suboptimal. Keep in mind that you manage company resources, and this means that sometimes you have to say no to your stakeholders. Ask for business justifications of translation requests or funding and, in some cases, headcount from the teams who require work that will expand Globalization delivery scope.
 
-    You can simplify this delicate balance between being a service provider and a strategist by identifying boundaries proactively, communicating them clearly, and formalizing the boundaries. You may need to create a system or process in which you reinforce a boundary, for example by creating templates for requests that flag what can not be accommodated.
+    You can simplify this delicate balance between being a service provider and a strategist by identifying boundaries proactively, communicating them clearly, and formalizing the boundaries. You may need to create a system or process in which you reinforce a boundary, for example by creating templates for requests that flag what cannot be accommodated.
 
 ### Stakeholders as Strategic Partners
 
-In the relationship with each stakeholder, the goal is to progress from what is called “ad-hoc or transactional” to “trusted advisor” up to “strategic partner.” Similarly to moving  your stakeholders towards the area of “high interest” in the stakeholder map, you want your stakeholders to move Localization to the top right quadrant in their respective map and acknowledge the value that your team brings.
+In the relationship with each stakeholder, the goal is to progress from what is called “ad-hoc or transactional” to “trusted advisor” up to “strategic partner.” Similarly to moving your stakeholders towards the area of “high interest” in the stakeholder map, you want your stakeholders to move Localization to the top-right quadrant in their respective map and acknowledge the value that your team brings.
 
 Ultimately, as a Globalization leader, you want to derive tangible results from the time invested in knowing, understanding, and managing your stakeholders. Moving from being treated as a service provider whose costs must be minimized, to being recognized as a strategic partner contributing to your company revenue and the value of your global brand takes time and effort, but is highly rewarding. 
 
@@ -563,7 +565,7 @@ The following table shows a few examples of such behavioral changes and results.
      <tr>
       <td>Quality feedback from in-country teams reaches you weeks after a product launch, or when well-intended in-country reviewers implement changes that result in inconsistencies or typos.
       </td>
-    <td>You embed a qualified senior linguist with in-country teams, prompting local sales and marketing teams to delegate eventual reviews to this expert (who happens to be well-integrated with the localization team).
+    <td>You embed a qualified senior linguist with in-country teams, prompting local sales and marketing teams to delegate eventual reviews to this expert (who happens to be well integrated with the localization team).
     </td>
      </tr>
 </table>
@@ -595,11 +597,11 @@ Operating under a **charge-back or distributed funding** model also comes with i
 
 We have also seen **hybrid** models with the on-going demand for Localization centrally funded and the unexpected or new demand funded through bill-back mechanisms in the first year.
 
-Ultimately the way to deal with budget issues is to change the lens through which your company management looks at localization. You might need to build a solid business case to secure funding for a project or initiative, but you should now have the partners and the data needed to complete that step successfully. See the chapter “Data Analytics for Globalization Strategy” if you feel your data is not as robust as you’d like it to be.
+Ultimately the way to deal with budget issues is to change the lens through which your company management looks at localization. You might need to build a solid business case to secure funding for a project or initiative, but you should now have the partners and the data needed to complete that step successfully. See the chapter [“Data Analytics for Globalization Strategy”](#chapter-6-data-analytics-for-globalization-strategy) if you feel your data is not as robust as you’d like it to be.
 
 ### Best Practices at Hand
 
-The Globalization function in any company is built on trust and partnership. Building trust and partnership takes time and can only be achieved through intentional actions and proactive communication. You do not want to be the Globalization manager that only engages with stakeholders during an escalation, or who first meets a Product Manager to give them the bad news that their new application can not be localized because it first needs to be properly internationalized. 
+The Globalization function in any company is built on trust and partnership. Building trust and partnership takes time and can only be achieved through intentional actions and proactive communication. You do not want to be the Globalization manager that only engages with stakeholders during an escalation, or who first meets a Product Manager to give them the bad news that their new application cannot be localized because it first needs to be properly internationalized. 
 
 Regular, coordinated, and purposeful engagement with all stakeholders will help you increase the visibility of your organization inside your company, maximize the impact the Globalization team has on your brand and your company revenue on a global scale, with data to support your success story, and drive sustained process improvements and efficiencies.
 
@@ -636,9 +638,9 @@ Exceptions do and should exist for a language policy and framework.
 
 Language strategy is not so much about language; it is about reaching your audience. Defining the languages you support is how you achieve that reach. A good language strategy focuses attention on the set of markets that matter most to the business based on KPI, branding, and/or other country or customer-specific requirements. It also helps ensure (but does not guarantee) cross-functional alignment on language support for those markets, ultimately improving the end-to-end international customer experience.
 
-It is common for people to equate language and country.  It is important for a Globalization leader to communicate the distinction in a way that separate consideration for languages, like Canadian French and French French are given by the strategic leadership of the company. Similarly, initiate decisions about which version of LATAM Spanish will be appropriate for the company's unique purpose and market objectives. 
+It is common for people to equate language and country. It is important for a Globalization leader to communicate the distinction in a way that separate consideration for languages, like Canadian French and French French are given by the strategic leadership of the company. Similarly, initiate decisions about which version of LATAM Spanish will be appropriate for the company's unique purpose and market objectives. 
 
-Finally, articulate that international audiences exist within countries and regions.  For example, the Spanish-speaking population in the US needs to be considered if your company is involved in health-related distribution of services or information to the communities.
+Finally, articulate that international audiences exist within countries and regions. For example, the Spanish-speaking population in the US needs to be considered if your company is involved in health-related distribution of services or information to the communities.
 
 
 ### Partners and Audience for Language Strategy
@@ -668,7 +670,7 @@ Any or all of these functions may represent those key stakeholders, Customers an
 
 As mentioned in Chapter 2, [“Strategy Overview,”](#chapter-2-strategy-overview) depending on the company structure and operations, a number of the key stakeholders may also function as drivers of the language strategy. 
 
-These drivers could include the following:
+These drivers can include the following:
 
 ![Language Strategy Drivers Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%204_Lang%20Strategy%20Drivers.png)
 
@@ -692,11 +694,11 @@ When defining a language strategy, first and foremost one has to focus and prior
     * Analyze customer experience and identify gaps in their journey, from pre-sales to support. What are the pain points? At what stage in the customer journey are you losing customers, failing to convert a contact into a lead into a sale? Does the customer experience shift and change over time, with general business shifts (e.g., digital transformation)?
     * Tie language support with Go To Market initiatives; understand what it will take to really engage with and support customers who speak the languages you localize your product or application into.
 * **Budget constraints**
-    * The costs are different depending on the approach. You could support the language strategy through a mix of Human Translation, MTPE (Machine Translation and Post Editing), and unedited Machine Translation (Raw MT). These methods can be combined in various ways, depending on the market’s tolerance for machine translated content and the level of visibility for different content types. Be flexible.
+    * The costs are different depending on the approach. You can support the language strategy through a mix of Human Translation, MTPE (Machine Translation and Post Editing), and unedited Machine Translation (Raw MT). These methods can be combined in various ways, depending on the market’s tolerance for machine translated content and the level of visibility for different content types. Be flexible.
     * Negotiate with stakeholders to achieve the end state over time, based on available budget/resources. Be sure to have as much data as possible for your negotiations. Secure their commitment to achieving the end state together as partners.
     * If the language strategy has been endorsed by the executive stakeholders (or any company senior executive), the Globalization team has a great tool to leverage in their discussion with Business Units and stakeholders that need to localize their products.
 * **Language tiers**
-    * Adopt a flexible tiering strategy for your language choices to accommodate market growth, internal business constraints (such as budgets), external business and regulatory requirements, customer preferences. This tiering could become more complex with company expansion and maturity. 
+    * Adopt a flexible tiering strategy for your language choices to accommodate market growth, internal business constraints (such as budgets), external business and regulatory requirements, customer preferences. This tiering can become more complex with company expansion and maturity. 
 
         Sometimes, translation scope differs for individual languages. For example, product information might not be necessary to translate in regions where the product is not sold. Best practice, however, is to reduce the customization per language in favor of scalability of operations.
 
@@ -801,7 +803,7 @@ We will also mention here Bamum, a language spoken in parts of Cameroon, as an i
 
 #### Linguistic and Cultural Considerations Impacting Localization
 
-With so many languages, scripts, and locales, each with specific cultural norms, there are many differences that you need to take into account, as they might have a significant impact on the success of a localization project, or simply the overall user experience. However, you can not typically address everything, and you should not let a flurry of details confuse you or lead you to some unwanted state of paralysis. We will list here a few that are quite generic, trusting that you will have no difficulties to expand on that list with topics that are relevant for your company or products.
+With so many languages, scripts, and locales, each with specific cultural norms, there are many differences that you need to take into account, as they might have a significant impact on the success of a localization project, or simply the overall user experience. However, you cannot typically address everything, and you should not let a flurry of details confuse you or lead you to some unwanted state of paralysis. We will list here a few that are quite generic, trusting that you will have no difficulties to expand on that list with topics that are relevant for your company or products.
 
 * **Text Expansion** – If you have ever compared different versions of the same content written in English, Spanish, Russian, or Chinese, you know that the amount of space needed for each version varies by language. Spanish and Russian, as well as most Western European or Eastern European languages typically “run” longer than English. 
 
@@ -870,7 +872,7 @@ David Bellos (2012), Is That a Fish in Your Ear?, Faber and Faber Inc.
 >
 >In that meeting, Diana learned that the main advantage of the new TMS was that it allowed reviewers to make changes in a user-friendly environment. On the other hand, the new environment made all the rest of the workflow steps more cumbersome for the other participants, including the vendors. 
 >
->Since the executive’s main stakeholders were the reviewers, Diana’s reasoning fell on deaf ears and at the end of the meeting the executive proceeded with her plan to get a separate TMS. What happened? —Is having two Translation Management Systems actually wrong?  
+>Since the executive’s main stakeholders were the reviewers, Diana’s reasoning fell on deaf ears and at the end of the meeting the executive proceeded with her plan to get a separate TMS. What happened? —Is having two Translation Management Systems actually wrong?
 >
 >Find out later in this chapter what Diana ends up doing.
 
@@ -952,7 +954,7 @@ The mapping of business objectives to technology with increasing complexity and 
 
 #### Technology Maturity Model
 
-![Technology)Maturity_Model Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Technology%20Maturity.JPG)
+![Technology_Maturity_Model Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Technology%20Maturity.JPG)
 
 #### Understand Where You Sit in the Technology Maturity Model
 
@@ -1024,7 +1026,7 @@ Put a price tag on all of these gains. Some, such as the ones listed above, are 
 
   * Will the hosted solution allow for an integration with the other systems, such as CMS, MT, procurement or a middleware system connecting all of these systems together? Consider data protection and security, especially if you are asking your technology vendor to host an environment that you want to connect to source code repositories. 
 
-    Your vendor hosted environment may not be straightforward to connect with source code repositories that have highly restricted access permissions. Get your IT and Data Security stakeholders involved early in the decision making process.
+    Your vendor hosted environment may not be straightforward to connect with source code repositories that have highly restricted access permissions. Get your IT and Data Security stakeholders involved early in the decision-making process.
 
   * Do you have customization needs for this technology? If so, will the hosted solution allow for that?
   * If going for an on-prem solution, consider the costs of hardware, in-house IT and application support, maintenance and upgrades, which are typically included in your subscription and hosting cost in a vendor hosted environment. 
@@ -1122,7 +1124,7 @@ Many larger companies appoint a Globalization Architect to drive the vision and 
 
 If you are just starting your localization technology journey, or you have been thinking of making changes to an existing setup, be sure to contemplate the following approaches described in this chapter: 
 
-* Involve your stakeholders early on. Sync up with stakeholders that interact with the technology  and engage with them on a regular basis.
+* Involve your stakeholders early on. Sync up with stakeholders that interact with the technology and engage with them on a regular basis.
 * Demonstrate technology value by building a robust business case. Include data on savings in regular reports to illustrate not only the pay off, but operational efficiencies as well. Include maintenance costs.
 * Build a technology roadmap based on your company's vision and strategy. 
 * Think about how the technology integrates into the stack, avoid standalone applications that create manual work. 
@@ -1137,7 +1139,7 @@ If you are just starting your localization technology journey, or you have been 
 
 **Notes:**
 
-We acknowledge that some of the mentioned tasks can be managed with lower-level technology such as spreadsheets and email. However, for the purposes of this document such low tech solutions are not considered to be a “technology” as defined in this chapter. For the purposes of this book technology is defined as a designated technical solution that has built in functionality to address the specific need. 
+We acknowledge that some of the mentioned tasks can be managed with lower-level technology such as spreadsheets and email. However, for the purposes of this document such low tech solutions are not considered to be a “technology” as defined in this chapter. For the purpose of this book technology is defined as a designated technical solution that has built in functionality to address the specific need. 
 
 Some of the tools described may be part of or linked to a TMS, depending on the technology.
 
@@ -1164,7 +1166,7 @@ In this chapter, we will tackle how to think about globalization data strategica
 
 As a Globalization leader, you rely on essential data to define and track your globalization strategy. You need to understand the nature of your data as well as its lifecycle. You also need to be selective and critical about this data. When analyzing data, ask yourself the following questions: What does the data really represent? Does the data make sense? What is the expected value? Is it in line with industry benchmarks?
 
-Do not limit yourself to quantitative data. Both qualitative and quantitative data are critical and they need to align in order to develop a sound globalization strategy. If quantitative data shows unexpected user behavior, connect with real users (possibly via a survey) or your international offices to confirm the right data interpretation.
+Do not limit yourself to quantitative data. Both qualitative and quantitative data are critical and they need to align to develop a sound globalization strategy. If quantitative data shows unexpected user behavior, connect with real users (possibly via a survey) or your international offices to confirm the right data interpretation.
 
 Localization data is vast and touches customers, markets, finance, quality, operational efficiency, support, and other business critical metrics. As such, data needs to be prioritized based on the criticality and efforts to collect it. Data has to be meaningful, not just available. 
 
@@ -1174,7 +1176,7 @@ There are also different levels of data granularity, including company performan
 
 When a company goes into a market, it has revenue expectations to justify the investment. If the expectations are not met, then the company leadership could conclude that the performance is poor. Collecting data around the performance will help understand the reason for any discrepancy between the forecast and the actual performance. Perhaps the metrics used in the projections do not correspond to reality—not enough customers in the country, not enough products sold, bad customer satisfaction (CSAT) scores, smaller than expected market share, low adoption rates, low renewal rates, not fit for purpose metrics, etc. 
 
-Localization metrics such as language usage should also be tracked and analyzed so you can influence performance.  For example, if you concluded that the product adoption rate is low because translations are bad, your strategy would be to improve translations. Better translation quality will accelerate adoption rate, which, in turn, increases market share and product sales and is reflected in the company revenue in the country. 
+Localization metrics such as language usage should also be tracked and analyzed so you can influence performance. For example, if you concluded that the product adoption rate is low because translations are bad, your strategy would be to improve translations. Better translation quality will accelerate adoption rate, which, in turn, increases market share and product sales and is reflected in the company revenue in the country. 
 
 Find the data that tracks the status of every step and you can possibly calculate direct contribution to the revenue. The main challenge though is to prove that your translations actually improved—how do you know? The best way to figure that out is to work directly with the local teams and get buy-in from your strategic stakeholders. In many globalization attribution cases, it is impossible to calculate direct contribution. If your stakeholders support your methods of measuring progress, they will give you credit in their data findings for multiplying their success.  
 
@@ -1281,11 +1283,11 @@ Here are a few recommendations on how to handle data imperfections and incomplet
 
 #### Data Gaps
 
-It is very important to start the business analytics journey by analysing data gaps. What data are you missing, how important is it that you have it? If you determine that this data is essential to factual analysis (for example, in what language your product is being served up to your users), you have to find a way to track it.  Identify the business owner and convince them that this data has to be collected and analyzed going forward. This process may take months and could require planning and resources. 
+It is very important to start the business analytics journey by analysing data gaps. What data are you missing, how important is it that you have it? If you determine that this data is essential to factual analysis (for example, in what language your product is being served up to your users), you have to find a way to track it. Identify the business owner and convince them that this data has to be collected and analyzed going forward. This process may take months and could require planning and resources. 
 
 Additionally, you will not be able to make any conclusions from the data until you have collected it for at least a few months. If you are already collecting the data, but it is not cataloged or not normalized, your analysis might not be or viable or even possible. Cleaning up the data is not an easy undertaking either. Therefore, a Globalization leader should invest time in identifying the data collection gaps and then assigning resources to analyze and understand the data integrity. 
 
-Check this data inventory and decision matrix to quickly identify what dataset you need and how to build it:
+Check this [data inventory](#appendix-b-data-inventory) and decision matrix to quickly identify what dataset you need and how to build it:
 
 
 <table>
@@ -1493,7 +1495,7 @@ To better prepare the data and maximize the impact of data analytics, we work wi
 
 ### Analytics Tools
 
-* **Excel sheet.** Excel is the foundation of all analysis and the most versatile of all tools. The computational capabilities of the program coupled with charting functionality makes it the favorite and indispensable tool for any analyst. There is almost nothing you cannot do with Excel. Except, perhaps, analyzing really large sets of data. For that, you will need more powerful tools.
+* **Excel sheet.** Excel is the foundation of all analysis and the most versatile of all tools. The computational capabilities of the program coupled with charting functionality make it the favorite and indispensable tool for any analyst. There is almost nothing you cannot do with Excel. Except perhaps, analyzing really large sets of data. For that, you will need more powerful tools.
 * **Adobe Analytics and Google Analytics.** Web Analytic tools are used to track the usage of the content/web pages in different locales. With these tools, you can better understand the customer journey and their behavior/preference. Cumulative knowledge of your customers will allow you to design more effective websites with better customer engagement, produce content that resonates with the website visitors, create interactions that improve customer satisfaction, and measure the value of localized content. 
 
     Both Adobe Analytics and Google Analytics are widely used for tracking users across digital properties, analyzing on-site behavior, and measuring business outcomes. For instance:
@@ -1521,7 +1523,7 @@ To better prepare the data and maximize the impact of data analytics, we work wi
     Dashboards help stakeholders keep track of processes that are in flight. As a project manager, you might have a project dashboard that allows you to drill down to specific details. As a product manager or product owner, a dashboard might display your product status at any given time. As a Globalization or QA engineer you might see what is in the queue for you. 
 
 
-    A TMS might have robust and scalable reporting and dashboarding capabilities built in, or provide integration or connectivity with a third party reporting tool that can be used to report on and analyze data. Since most TMS’s store production data in a common database format (e.g. SQL, MySQL, Oracle), third party reporting tools provide flexibility. A company’s needs may be different based on  infrastructure, query languages and automation layers (e.g. Jenkins). A visualization tool (e.g. Power BI, Tableau) is recommended in order to better analyze and visualize the raw data that a reporting tool might provide.
+    A TMS might have robust and scalable reporting and dashboarding capabilities built in, or provide integration or connectivity with a third party reporting tool that can be used to report on and analyze data. Since most TMS’s store production data in a common database format (e.g. SQL, MySQL, Oracle), third party reporting tools provide flexibility. A company’s needs may be different based on infrastructure, query languages and automation layers (e.g. Jenkins). A visualization tool (e.g. Power BI, Tableau) is recommended to better analyze and visualize the raw data that a reporting tool might provide.
 
 * **Sentiment analysis analytics**. Sentiment analysis analytics are fundamental to turn feedback into meaningful customer insights. 
 
@@ -1566,10 +1568,10 @@ Strategic direction based on data analysis is only the beginning. You need your 
 
 It is not enough to recommend the direction and articulate how the international user experience should look. Making a business case for those recommendations will define why it is important to the company and the customers. Business impact analysis makes prioritization easier and puts business context around your solution.
 
-The following Best Practices and use case stories illustrate:
+The following best Practices and use case stories illustrate:
 * how you can use metrics
 * how they can impact decisions
-* what the  limitations of data and metrics are
+* what the limitations of data and metrics are
 * what the best practices are for managing the insights from data you are collecting
 * how other factors, such as geo-political and geo-cultural aspects, impact data and insights
 * how you can shape the outcome.
@@ -1582,7 +1584,7 @@ The following Best Practices and use case stories illustrate:
   >
   >Bill collected product A’s revenue numbers from the prior fiscal year, broken down by country. He discovered that almost 90% of this product’s revenue came from the US market, and the percentage of overseas market bookings was fairly small. This discovery gave Bill an indication that there would be a good opportunity for this product to expand business in global markets outside the US. 
   >
-  >Besides the revenue data, Bill looked at industry research reports (Gartner or IDC) to check Total Addressable Market (TAM) and  Market Opportunity (MO) in each country. This could shed some light on which region/locale he should pursue, and which may not represent a significant opportunity after all. 
+  >Besides the revenue data, Bill looked at industry research reports (Gartner or IDC) to check Total Addressable Market (TAM) and Market Opportunity (MO) in each country. This could shed some light on which region/locale he should pursue, and which may not represent a significant opportunity after all. 
   >
   >Product A is a software security product, and Japan and Germany have a higher TAM rating than other regions. And due to regulatory policies in China, the TAM for security products from foreign companies there is small. 
   >
@@ -1597,11 +1599,11 @@ The following Best Practices and use case stories illustrate:
 
 ### Measuring MT Quality and Effectiveness
 
-There are several different metrics to measure quality and  effectiveness of machine translation. One of them is to get immediate customer feedback as to the usefulness of the translated content. In this case the Localization team worked with their stakeholders to identify a success metric that would be meaningful for them and would work for Localization. 
+There are several different metrics to measure quality and effectiveness of machine translation. One of them is to get immediate customer feedback as to the usefulness of the translated content. In this case the Localization team worked with their stakeholders to identify a success metric that would be meaningful for them and would work for Localization. 
 
 Tracking customer responses to the question “did this information help you solve your problem” allows us to assess the usefulness of our translated articles, using the same metric that we use for our English articles. We might consider that as long as we achieve a score that is within 5% points of what we achieve in English, the MT output quality would be acceptable and the article in local language would be adding value to our customers. This metric could also be used in conjunction with the bounce rate to evaluate whether users stay on the machine translated page or switch to English.
 
-As a Globalization leader, you have responsibility for releasing localized products which match the core (usually English) experience. You also need to demonstrate operational excellence by satisfying various cost, resource and time constraints. In order to meet your objectives, you have a key dependency on product teams, since they are responsible for internationalization. Your development team can avoid dealing with numerous defects in the localized versions by producing internationalized software in the first place. This approach will also facilitate the automation of the localization process. 
+As a Globalization leader, you have responsibility for releasing localized products which match the core (usually English) experience. You also need to demonstrate operational excellence by satisfying various cost, resource and time constraints. To meet your objectives, you have a key dependency on product teams, since they are responsible for internationalization. Your development team can avoid dealing with numerous defects in the localized versions by producing internationalized software in the first place. This approach will also facilitate the automation of the localization process. 
 
 On the other hand, if a product is poorly internationalized, you will need to develop many work-arounds, issues will be replicated across locales and efforts to fix those issues later in the process will be amplified. So, how do you hold product teams accountable with regard to internationalization? How do you track compliance and progress over time? How do you motivate product teams to improve world-readiness without direct authority?
 
@@ -1619,7 +1621,7 @@ To put in place a world-readiness scorecard, we recommend the following steps:
 
 5. **Prepare get-well plans**. Each product team will have its own set of internationalization issues and will seek guidance from the Globalization team on how to address those. The get-well plan serves this purpose. It documents the areas where the product fails to meet the internationalization requirements and provides suggestions on how to address those gaps. The get-well plan can also include internationalization checklists for more problematic areas.
 
-6. **Develop a World-Readiness Educational Program**. If product teams struggle with developing well internationalized products, we recommend creating an internationalization course to highlight general pitfalls and best practices.
+6. **Develop a World-Readiness Educational Program**. If product teams struggle with developing well-internationalized products, we recommend creating an internationalization course to highlight general pitfalls and best practices.
 
 7. **Provide globalization libraries and promote standards**. Some product teams may struggle with globalization because they rely on home-grown libraries which do not offer strong international support. To reduce these issues, we recommend leveraging standard libraries with built-in support for internationalization, such as ICU, MomentJS, Int’l React, etc.
 
@@ -1627,14 +1629,14 @@ By implementing a score-driven world-readiness program, you will be able to asse
 
 > <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Susan’s company wanted to increase their global footprint and user base. Susan, a technology company Globalization Lead, set out to evaluate the benefits of launching the company app in an additional locale.  
 > 
-> In order to make a business case, Susan needed to define the criteria for applying resources to a given market (defined by variables that include size, growth, risks from the government, risk to users, and value to our business). Susan needed data that can sufficiently inform and ultimately guide the decision-making process. 
+> To make a business case, Susan needed to define the criteria for applying resources to a given market (defined by variables that include size, growth, risks from the government, risk to users, and value to our business). Susan needed data that can sufficiently inform and ultimately guide the decision-making process. 
 > 
 > Below are questions Susan used to qualify available data as relevant to her market evaluation:
 > 
 > * Do we already have an audience in this market?
 >     * Collect data on monthly and weekly active users, weekly sign ups and activation rate, user locales, and monthly use of products/features.
 > * Is the audience ready for our product?
->     * Collect data on users’ behavior, i.e. number of social media users, Smartphone owners, digital market share, and competition.  Combine with complimentary data around users’ lifestyle (education level, male–female labor force participation, distribution of per-capita GDP, etc.), digital ad spending, English proficiency.
+>     * Collect data on users’ behavior, i.e. number of social media users, Smartphone owners, digital market share, and competition. Combine with complimentary data around users’ lifestyle (education level, male–female labor force participation, distribution of per-capita GDP, etc.), digital ad spending, English proficiency.
 > * What kind of engagement has the current audience shown on our product?
 >     * Collect data on the number of tickets we receive on average from this region and what sentiment users in this region have expressed.
 > * Is there any historical analogy and/or projection on how successful the business will be in that market?
@@ -1650,7 +1652,7 @@ Data can sometimes suggest a clear cut answer—go or no-go. However, in some ca
 
 Data is not going to make a decision and is not going to comprehensively explain it all, but can inform on what it is likely to succeed or fail. You may find Colin Powell’s 40:70 rule for decision making helpful: as a rule of thumb, every time we face a tough decision we should have no less than 40% and no more than 70% of the information we need to make a call. The rule allows us to be informed and at the same time trust our intuition.
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> The Business Site core team & the Globalization team received a request from the Singapore team to support English-India as an additional locale available on the Business Site.  An English-speaking audience that visits the Business Site currently accesses one of two English locales available on the site: English US or English UK. 
+> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> The Business Site core team & the Globalization team received a request from the Singapore team to support English-India as an additional locale available on the Business Site. An English-speaking audience that visits the Business Site currently accesses one of two English locales available on the site: English US or English UK. 
 > 
 > However,
 > 
@@ -1667,7 +1669,7 @@ Data is not going to make a decision and is not going to comprehensively explain
 > * Increase traffic to the site by enabling the local team to actively promote the business site because the experience will be more relevant to their audience.
 > * Define how to measure success and measure impact in executing on goals. For example, how do I know that the business site experience has improved for users from India, and how do we measure it?
 > 
->  How do I build a recommendation on how to improve the user experience for our audience in India? And what data is going to be useful to inform my decision making process? The analysis can be split into two parts, opportunity sizing and evaluating operational feasibility.
+>  How do I build a recommendation on how to improve the user experience for our audience in India? And what data is going to be useful to inform my decision-making process? The analysis can be split into two parts, opportunity sizing and evaluating operational feasibility.
 > 
 > **Opportunity sizing:**
 > 
@@ -1682,7 +1684,7 @@ Data is not going to make a decision and is not going to comprehensively explain
 > 
 > * Technical, Design and Localization Support needed to launch and maintain the site.
 > * Cost of SEO optimization.
-> * List up products available and unavailable for India in order to quote the number of editorial time needed to adapt the site for the market.
+> * List of products available and unavailable for India to quote the number of editorial time needed to adapt the site for the market.
 > * Run cost analysis for adaptation of editorial insights and launching a separate blog.
 > 
 > In a situation like this one, data is informative, but not resolutive. Data informs us and enables us to make the most rational of the decisions, but does not guarantee a 100% success.
@@ -1716,7 +1718,7 @@ And finally, the way you present data matters. It is a way of communication and 
 
 There are literally millions of books, articles, guides, and classes online and in person dedicated to strategy topics. Most of them cover a tactical approach to strategy—tips and tricks. Some mention the thinking process but rarely are there any answers to the posted questions.
 
-The questions we raise in this book might not have all the answers either. However, now you know where to look for them and how to validate the answers you found. You can articulate the problem you are solving and prove with data that it is the right problem to solve for the business. You can create your own plan including resources, technology, and languages; justify it; and set up metrics and reports to manage expectations of the many stakeholders you now know you have.
+The questions we raise in this book might not have all the answers either. However, now you know where to look for them and how to validate the answers you found. You can articulate the problem you are solving and prove with data that it is the right problem to solve for the business. You can create your own plan including resources, technology, and languages, justify it, and set up metrics and reports to manage expectations of the many stakeholders you now know you have.
 
 In this Playbook, we attempted to connect the strategic-thinking process to real-life situations. We showed you how Globalization strategy fits into your company strategy, amplifies your business in international markets, and guides your execution and technology. There are charts, graphs, tables, and examples to help you apply Globalization thinking models to your current organization and roles.
 
@@ -1943,7 +1945,7 @@ Contact Globalization Strategy Navigation Team at [StrategyPlaybook@gmail.com](m
 
 <li>Number of products
 
-<li>Build and release frequency (CI/CD, CL, monthly, ...)
+<li>Build and release frequency (CI/CD, CL, monthly, etc.)
 
 <li>Complexity of Development environment (# of different SC repos, dev platform(s), product platforms) 
 
@@ -1989,7 +1991,7 @@ Contact Globalization Strategy Navigation Team at [StrategyPlaybook@gmail.com](m
 
 <li>Sale/distribute code outside of the US (or local source language)?
 
-<li>In house v. vendor model for loc testing
+<li>In-house v. vendor model for loc testing
 </li>
 </ul>
    </td>
@@ -2078,7 +2080,7 @@ Contact Globalization Strategy Navigation Team at [StrategyPlaybook@gmail.com](m
    <td>
 <ul>
 
-<li>In house v. vendor model
+<li>In-house v. vendor model
 
 <li>Number of products/projects
 
