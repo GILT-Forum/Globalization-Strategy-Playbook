@@ -862,28 +862,21 @@ David Bellos (2012), Is That a Fish in Your Ear?, Faber and Faber Inc.
 
 ## Chapter 5: Technology Strategy
 
-
-        Working as a Localization Technology leader in a large software company, Diana managed a mission-critical localization tool, a Translation Management System (TMS) that automatically sent content from product repositories through a translation cycle. The TMS connected vendors and reviewers and provided Project Managers with an up-to-date status of every type of job such as software, help center, marketing, and sales materials. 
-
-
-        Diana was very proud of her team’s successful work on the integrations and the ability to support many types of content. The centralized system significantly reduced localization costs by increasing content leverage and allowed for a faster turnaround. 
-
-
-        One day, she bumped into a Marketing executive in a hallway who casually mentioned that the Marketing team was signing a contract to buy a different TMS to support the website translation. She managed to convince the executive that it would be beneficial to have a meeting to discuss the pros and cons before signing the contract. 
-
-
-        In that meeting, Diana learned that the main advantage of the new TMS was that it allowed reviewers to make changes in a user-friendly environment. On the other hand, the new environment made all the rest of the workflow steps more cumbersome for the other participants, including the vendors. 
-
-
-        Since the executive’s main stakeholders were the reviewers, Diana’s reasoning fell on deaf ears and at the end of the meeting the executive proceeded with her plan to get a separate TMS. What happened? —Is having two Translation Management Systems actually wrong?  
-
-
-        Find out later in this chapter what Diana ends up doing.
+> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Working as a Localization Technology leader in a large software company, Diana managed a mission-critical localization tool, a Translation Management System (TMS) that automatically sent content from product repositories through a translation cycle. The TMS connected vendors and reviewers and provided Project Managers with an up-to-date status of every type of job such as software, help center, marketing, and sales materials. 
+>
+>Diana was very proud of her team’s successful work on the integrations and the ability to support many types of content. The centralized system significantly reduced localization costs by increasing content leverage and allowed for a faster turnaround. 
+>
+>One day, she bumped into a Marketing executive in a hallway who casually mentioned that the Marketing team was signing a contract to buy a different TMS to support the website translation. She managed to convince the executive that it would be beneficial to have a meeting to discuss the pros and cons before signing the contract. 
+>
+>In that meeting, Diana learned that the main advantage of the new TMS was that it allowed reviewers to make changes in a user-friendly environment. On the other hand, the new environment made all the rest of the workflow steps more cumbersome for the other participants, including the vendors. 
+>
+>Since the executive’s main stakeholders were the reviewers, Diana’s reasoning fell on deaf ears and at the end of the meeting the executive proceeded with her plan to get a separate TMS. What happened? —Is having two Translation Management Systems actually wrong?  
+>
+>Find out later in this chapter what Diana ends up doing.
 
 Welcome to the world of a Globalization Technology leader, whose job is to answer such questions and develop a technology strategy that fits the company’s business objectives, reflects the current needs, and supports the future growth of the enterprise. 
 
 The globalization technology strategy must be viewed as part of an overall Go to Market strategy, able to meet business demands of time to market, user experience, cost savings, and global growth across all parts of the business including Product, Marketing, Legal, Customer Support, etc. At the heart of it, the globalization tools, when combined and tightly integrated with the technology stack used by the stakeholder teams, allows you to make cost per word a commodity and turn your focus to strategy, versus execution. 
-
 
 ### What is a Globalization Technology Strategy?
 
@@ -897,8 +890,6 @@ The process of strategy development detailed here can be viewed as an ideal step
 
 In addition to developing the strategy, consider other factors that impact its success. Those factors include having:
 
-
-
 * Executive-level support for the overall strategy. See “Stakeholders: Strategic Engagement and Communication.”
 * Strong relationships with teams including Procurement, Finance, IT, suppliers. See “Stakeholders: Strategic Engagement and Communication.”
 * Talent to identify, implement, and manage the technology (particularly engineering talent who will solve problems in an appropriate way).
@@ -906,35 +897,22 @@ In addition to developing the strategy, consider other factors that impact its s
 
 Whereas strategies may be similar across companies, no two strategies are the same, due to differences in strategic business objectives, maturity levels of the Globalization organization, availability of funding and resources, globalization principles, as well as other issues specific to your organization and company. Approaches that impact your strategy include:
 
-
-
 * Build versus buy
 * In-house resourcing versus outsourcing
 * Centralized versus decentralized localization 
 
 Four business objectives usually drive a globalization technology strategy:
 
-
-
 * Global growth
 * Faster time to market
 * Cost savings and efficiency
 * Great user experience
 
-
 ### Create and Implement Your Technology Strategy
 
 Creating and implementing your technology strategy involves several steps that are cyclical, as shown in the diagram below, starting with “Demonstrate value” and proceeding through the seven steps of a cycle that builds and strengthens your technology strategy. 
 
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
-
+![Create-Impelement Technology Strategy Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Create-Implement%20Technology%20Strategy.png)
 #### Demonstrate Value
 
 The first thing to focus on when defining your globalization technology strategy is your company’s business objectives. You need to be able to demonstrate how your technology strategy contributes to the objectives. You’ll need to map to the objectives to demonstrate ROI and get the buy-in you need. 
@@ -943,23 +921,18 @@ In addition, you need to demonstrate the value of the investments you have alrea
 
 Examples include:
 
-
-
 * Cost savings, or better yet, cost scaling: how your technology enables you to do more with the same resources (more languages, more source content translated, etc.).
-* Translation memory (TM) leverage: how you gain from not just the cost savings, but the consistency TM brings across content types.
-* Customer satisfaction: how applying raw machine translation (MT) when no translation would otherwise be available satisfies customer needs.
+* Translation memory ("TM") leverage: how you gain from not just the cost savings, but the consistency TM brings across content types.
+* Customer satisfaction: how applying raw machine translation ("MT") when no translation would otherwise be available satisfies customer needs.
 * Global revenue: how making a language available enables revenue growth in new markets. 
 
-You will also need a champion at the Executive level, as mentioned in the chapter “Stakeholders—Strategic Engagement and Communication.”
-
+You will also need a champion at the Executive level, as mentioned in the chapter [“Stakeholders—Strategic Engagement and Communication.”](#chapter-3:-stakeholders-strategic-engagement-and-communication)
 
 #### Map Business Objectives to Tools
 
 Once you have clarity on your company's business objectives and how your technology strategy contributes, think about the vision and objectives for your Globalization team. Technology is a significant investment, so plan for the long-term. 
 
 Factors to consider include:
-
-
 
 * Where do you want your localization technology to be in three to five years? 
 * Content and source formats (mobile platforms, rich media content) continue to evolve, and your technology must be flexible enough to support these changes.
@@ -971,222 +944,17 @@ Factors to consider include:
 
 You will want to evaluate which tools will contribute to or drive specific business objectives. The following matrix will help you make this determination.
 
-
-<table>
-  <tr>
-   <td><strong>Technology/</strong>
-<p>
-<strong>Business Objectives</strong>
-   </td>
-   <td><strong>Enable Cost Savings/</strong>
-<p>
-<strong>Efficiency</strong>
-   </td>
-   <td><strong>Great User Experience</strong>
-   </td>
-   <td><strong>Faster Time to Market</strong>
-   </td>
-   <td><strong>Enable Global Growth</strong>
-   </td>
-   <td><strong>Total Objectives Met</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>TMS
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-4</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Machine Translation
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-4</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>DevOps/Integrations
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-3</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>I18N Suite
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-3</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Localization Testing
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-2</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Query Management
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-2</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Quality Management
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-2</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Terminology
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-2</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Cost Management
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Program Management
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Resource Management
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-  </tr>
-</table>
-
-
-See Appendix A: “Technology Decision Drivers and Strategic Objectives” for a detailed description of these technologies.
+![Business Objectives Mapping Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter_5_Business_Objectives_Mapping.png)
+See Appendix A: [“Technology Decision Drivers and Strategic Objectives”](#appendix-a-technology-decision-drivers-and-strategic-objectives) for a detailed description of these technologies.
 
 The mapping of business objectives to technology with increasing complexity and integration can be described in what you might call a Technology Maturity Model. The diagram below shows the pillars or stages of technology maturity. 
 
 
 #### Technology Maturity Model
 
+![Technology)Maturity_Model Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Technology%20Maturity.JPG)
 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
-
-
-
-#### Understand Where You Sit in the Technology Maturity Model** **
+#### Understand Where You Sit in the Technology Maturity Model
 
 Be realistic about where you are and where you can get to; it is not realistic to go from Initial to Advanced in one year. At the same time, your progression through the model may not be entirely linear, and that is fine.
 
@@ -1201,10 +969,11 @@ Having the tools alone does not indicate full maturity; the level of interoperab
 Aspects to consider are:
 
 
+* Tighter integration enables better data capture, tracking, and efficiency, by keeping a consistent environment. For example, logging into a termbase tool to update terms is less efficient than handling it within the TMS.
 
-            * Tighter integration enables better data capture, tracking, and efficiency, by keeping a consistent environment. For example, logging into a termbase tool to update terms is less efficient than handling it within the TMS.
-            * Many TMSs enable APIs (Application Programming Interfaces) for integrating tools, and some have partnerships with other tool providers that offer complementary capabilities such as term management, quality estimation, and MT.
-            * Integration can require employing a middleware provider who can help integrate multiple source technologies with your TMS and other tangential technologies. 
+* Many TMSs enable APIs (Application Programming Interfaces) for integrating tools, and some have partnerships with other tool providers that offer complementary capabilities such as term management, quality estimation, and MT.
+
+* Integration can require employing a middleware provider who can help integrate multiple source technologies with your TMS and other tangential technologies. 
 
 
 #### Identify What Technology to Go After 
@@ -1215,28 +984,17 @@ Then, ask yourself: What are your pain points that technology can solve? What is
 
 Build a technology roadmap. Begin with the technology that is most critical, and think about how to integrate that technology within your current ecosystem and processes. Address the most critical needs first, within the budget and resource constraints. Monitor technology trends and be ready to revise your strategy in the future if major innovations appear, especially related to AI and ML. 
 
-
 #### Build a Business Case and Get Buy-In
 
 Once you have established the technology that supports your business objective, you must justify the expenditure to secure the budget. How do you define the return on investment (ROI)? Do you expect to offset the investment by cost savings or cost avoidance? What other non-financial considerations apply, for example eliminating error-prone tasks, optimizing resource utilization, or reducing potential defects? 
 
 Enlist a technology vendor to help you build your ROI. Many vendors have ROI calculators. The following chart shows the typical steps involved in building a business case. 
 
-
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
-
+![Build Business Case Process Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Build%20business%20case%20process.png)
 
 Start by broadening your view. Will the Globalization team be the only user of the technology? If not, how will the technology impact other teams? 
 
-When building a business case for a terminology solution, don’t forget developers and writers whose help is required to define new terms. Will the technology help the User Experience team be more consistent with terminology across multiple products? Refer to the chapter “
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Stakeholders—Strategic Engagement and Communication"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Stakeholders—Strategic Engagement and Communication](#heading=h.lnu3j5dndz3p)” to make sure you are not missing anyone. 
+When building a business case for a terminology solution, don’t forget developers and writers whose help is required to define new terms. Will the technology help the User Experience team be more consistent with terminology across multiple products? Refer to the chapter ["Stakeholders—Strategic Engagement and Communication"](#chapter-3:-stakeholders-strategic-engagement-and-communication) to make sure you are not missing anyone. 
 
 Identifying such departments or individuals is crucial to your success. Even if the localization function is centralized in your company, work cross-functionally with other teams to collectively build the technology strategy, pool funds, and work out a joint approach. For example, while the product localization function is often centralized, the marketing teams are often independent and are given a freedom to set up their own processes and tools (see Diana's story above). Such a system may create duplication of effort and wasted resources for an enterprise. 
 
@@ -1248,42 +1006,37 @@ The impact varies based on the company setup, but foundational tools like a TMS 
 
 Put a price tag on all of these gains. Some, such as the ones listed above, are easy to calculate. Others, such as lost revenue or damage to the brand, are much more difficult to assess. Once you know how much you would save, dive into the costs of your solution. There are a few aspects to consider:
 
-
-
-            * Should you build your own solution or buy an off the shelf tool?
-            * Consider the market offerings. Some of the most complex and most important localization technologies, such as TMS and machine translation, have been in use for a decade or longer, and there are well-developed offerings in those fields. Buyers have a variety of tools to pick from for many different use cases and requirements. Other products, such as cost management or internationalization tools, have a limited offering and may or may not meet buyer’s particular needs. 
-            * What is the company’s culture in that regard? Do you work at a company that has engineering resources and likes to build their own solution or does it typically buy off-the-shelf solutions? Often companies choose to buy solutions that are already available on the market and focus the internal resources on integration tasks. However, if the existing solutions are not up to your specs functionality-wise or not innovative enough, you may decide to develop your own technology regardless of the market offerings.
-            * Calculate the maintenance costs for both scenarios. Remember that developing a tool in-house represents an engineering investment: the product will need a manager, it will have to be upgraded on a regular basis, new functionality may need to be added and tested by engineers to support the needs of a growing business, and so on. 
-            * Consider potential customization costs and resources needed. Do you buy a bare-bones system and build components that integrate? Is the system open with API support and an SDK (software development kit)? What programming expertise is needed? Even with a mature TMS, you may be looking at extensions that are not out of the box, requiring you to consider customization. 
-            * Consult with IT regarding the security requirements for your solutions, and make sure to include that point in the RFP (request for proposal) for the technology vendors.
-            * Should you own the technology or have your LSP manage it? Many LSPs have developed their own localization tools, including Translation Management Systems, and allow clients to upload files manually and connect to client’s CMS, as well as track the translation progress. 
+* Should you build your own solution or buy an off the shelf tool?
+* Consider the market offerings. Some of the most complex and most important localization technologies, such as TMS and machine translation, have been in use for a decade or longer, and there are well-developed offerings in those fields. Buyers have a variety of tools to pick from for many different use cases and requirements. Other products, such as cost management or internationalization tools, have a limited offering and may or may not meet buyer’s particular needs. 
+* What is the company’s culture in that regard? Do you work at a company that has engineering resources and likes to build their own solution or does it typically buy off-the-shelf solutions? Often companies choose to buy solutions that are already available on the market and focus the internal resources on integration tasks. However, if the existing solutions are not up to your specs functionality-wise or not innovative enough, you may decide to develop your own technology regardless of the market offerings.
+* Calculate the maintenance costs for both scenarios. Remember that developing a tool in-house represents an engineering investment: the product will need a manager, it will have to be upgraded on a regular basis, new functionality may need to be added and tested by engineers to support the needs of a growing business, and so on. 
+* Consider potential customization costs and resources needed. Do you buy a bare-bones system and build components that integrate? Is the system open with API support and an SDK (software development kit)? What programming expertise is needed? Even with a mature TMS, you may be looking at extensions that are not out of the box, requiring you to consider customization. 
+* Consult with IT regarding the security requirements for your solutions, and make sure to include that point in the RFP (request for proposal) for the technology vendors.
+* Should you own the technology or have your LSP manage it? Many LSPs have developed their own localization tools, including Translation Management Systems, and allow clients to upload files manually and connect to client’s CMS, as well as track the translation progress. 
 
     It is important to consider your overall LSP strategy when making this determination. Such a solution may work well when using a single LSP for all the translation needs. However, that strategy might become quite cumbersome when using multiple LSPs for translation of different products or for translation and review tasks. 
 
-
     Additionally, using one LSP for both translation and technology needs takes control out of your hands, and weakens your risk management proposition: what if you lose confidence in the LSP or they introduce a steep price increase? 
 
-            * If you are buying a product, should you get an on-premise or a hosted solution? Should you choose a traditional license model or a subscription?
+* If you are buying a product, should you get an on-premise or a hosted solution? Should you choose a traditional license model or a subscription?
 
     For some, this might not even be a consideration, as the company culture and an IT security team would make that determination. However, it is important to keep a few things in mind when answering the question:
 
-* Will the hosted solution allow for an integration with the other systems, such as CMS, MT, procurement or a middleware system connecting all of these systems together? Consider data protection and security, especially if you are asking your technology vendor to host an environment that you want to connect to source code repositories. 
+  * Will the hosted solution allow for an integration with the other systems, such as CMS, MT, procurement or a middleware system connecting all of these systems together? Consider data protection and security, especially if you are asking your technology vendor to host an environment that you want to connect to source code repositories. 
 
-        Your vendor hosted environment may not be straightforward to connect with source code repositories that have highly restricted access permissions. Get your IT and Data Security stakeholders involved early in the decision making process.
+    Your vendor hosted environment may not be straightforward to connect with source code repositories that have highly restricted access permissions. Get your IT and Data Security stakeholders involved early in the decision making process.
 
-* Do you have customization needs for this technology? If so, will the hosted solution allow for that?
-* If going for an on-prem solution, consider the costs of hardware, in-house IT and application support, maintenance and upgrades, which are typically included in your subscription and hosting cost in a vendor hosted environment. 
-            * Consider your future needs. It might be hard to predict what your long-term needs will be, but keep scalability in mind. Review your language strategy again (see the chapter “Language Strategy”). Is the company planning to expand to other markets and you will therefore need to add support for more languages and more users? Is your company active in the acquisition field and will you therefore need to potentially support additional CMS integrations? Make sure the technology is able to support your potential growth for at least several years. 
+  * Do you have customization needs for this technology? If so, will the hosted solution allow for that?
+  * If going for an on-prem solution, consider the costs of hardware, in-house IT and application support, maintenance and upgrades, which are typically included in your subscription and hosting cost in a vendor hosted environment. 
+* Consider your future needs. It might be hard to predict what your long-term needs will be, but keep scalability in mind. Review your language strategy again (see the chapter [“Language Strategy”](#chapter-4-language-strategy). Is the company planning to expand to other markets and you will therefore need to add support for more languages and more users? Is your company active in the acquisition field and will you therefore need to potentially support additional CMS integrations? Make sure the technology is able to support your potential growth for at least several years. 
 
     Keep in mind that some tools, such as a Translation Management System, are hard to migrate to, as mentioned above, and may also have cost implications. For example, shifting costs can be significant when a new TMS segments source content in a different way, resulting in lower In-Context-Exact (ICE) and 100% matches. Therefore, when buying a TMS you are making an investment for years to come.
 
-            * Consider how you will resource your technology strategy. Whether you have decided to implement a technology as an on-prem solution, use a cloud setup of a technology vendor, or rely on your LSP, think of the in-house resources that need to support your strategy going forward, both technical and operational. 
+* Consider how you will resource your technology strategy. Whether you have decided to implement a technology as an on-prem solution, use a cloud setup of a technology vendor, or rely on your LSP, think of the in-house resources that need to support your strategy going forward, both technical and operational. 
 
     The technology resources may come in different variations, from a purely strategic role, staying up to date on the industry trends and making sure the latest technology is being used by a vendor, to a Chief Architect role, who puts together an integration and customization plan, to the actual engineering resources, who build the solutions, develop the integrations and customizations, work on the implementation and maintenance tasks as described above. 
 
-
-    In addition to the actual technical resources, make sure that the operational resources are in place. For example, even before you implement a Terminology solution, you may have to hire a terminologist, who centralizes all the terminology work for both source and target terms, and once a technology is acquired, looks after implementing it and making sure the system is used as designed. For more information on resourcing your technology strategy, refer to the Technology Evolution section below.
-
+    In addition to the actual technical resources, make sure that the operational resources are in place. For example, even before you implement a Terminology solution, you may have to hire a terminologist, who centralizes all the terminology work for both source and target terms, and once a technology is acquired, looks after implementing it and making sure the system is used as designed. For more information on resourcing your technology strategy, refer to the [Technology Evolution](#technology-evolution) section below.
 
 
 #### Implement the Solution
@@ -1302,28 +1055,21 @@ Often overlooked, but essential to the decision, are requirements from your supp
 
 Now that you have made a technology decision, you are done, right? No, you are just getting started, now you have to focus on implementation, that is training resources to use tools, change management, integrating with other technology, and likely, reporting.
 
-
 #### Build Reporting and Monitor Results
 
-
-        Eva was quite frustrated with turn around time from one of her suppliers. After several months of talk, she saw no real improvement. She and her analyst took a fresh look at the data, specifically data by process stage—how long was the supplier taking to translate the jobs, to do DTP, to authorise the work, etc. 
-
-
-        They discovered that the supplier was performing well in all steps but one, DTP. Armed with this data, Eva went back to the supplier, who had not looked at that portion of the process, because they had not looked at the data either. Within a few weeks, after process changes, turnaround time was back on target. 
-
-
-        While it seems elementary, we often do not step back and look at the data from the right perspective; instead we make assumptions about what the problem may be without validating those assumptions with data. Technology, specifically reporting capability and the data it captured, gave Eva visibility into the process and insight into unexpected performance to be able to address it.
+> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Eva was quite frustrated with turn around time from one of her suppliers. After several months of talk, she saw no real improvement. She and her analyst took a fresh look at the data, specifically data by process stage—how long was the supplier taking to translate the jobs, to do DTP, to authorise the work, etc. 
+>
+>They discovered that the supplier was performing well in all steps but one, DTP. Armed with this data, Eva went back to the supplier, who had not looked at that portion of the process, because they had not looked at the data either. Within a few weeks, after process changes, turnaround time was back on target. 
+> 
+> While it seems elementary, we often do not step back and look at the data from the right perspective; instead we make assumptions about what the problem may be without validating those assumptions with data. Technology, specifically reporting capability and the data it captured, gave Eva visibility into the process and insight into unexpected performance to be able to address it.
 
 While you may have lots of metrics on the outcomes of the work you do, we regularly forget about measuring the effectiveness of the tools and processes we leverage to achieve those outcomes. You need to institute metrics and instrumentation to capture how well your technology is performing for you:
-
-
 
 * Uptime
 * Responsiveness
 * Error rates (such as jobs failing in your TMS system)
 
-You need someone assigned to track these metrics, and also to analyze trends. This may be the tool provider, but not all providers have this in place, or they do not have customer facing data in place. You will need to push them to make it available and demand transparency. See the chapter “Data Analytics for Globalization Strategy.”
-
+You need someone assigned to track these metrics, and also to analyze trends. This may be the tool provider, but not all providers have this in place, or they do not have customer facing data in place. You will need to push them to make it available and demand transparency. See the chapter [“Data Analytics for Globalization Strategy.”](#chapter-6:-data-analytics-for-globalization-strategy)
 
 ### Technology Evolution 
 
@@ -1331,44 +1077,30 @@ You just got everything up and running and integrated the way you envisioned, bu
 
 It is critical to stay abreast of how tools and technology are changing in the marketplace. This requires you to be plugged in:
 
-
-
-            * Subscribe to research and analyst firms’ newsletters and blogs 
-            * Read industry news websites
-            * Join a forum in your area of interest
-            * Attend industry conferences 
-            * Follow key industry technology providers
-            * Ensure this is a frequent topic with suppliers
+* Subscribe to research and analyst firms’ newsletters and blogs 
+* Read industry news websites
+* Join a forum in your area of interest
+* Attend industry conferences 
+* Follow key industry technology providers
+* Ensure this is a frequent topic with suppliers
 
 Ideally, you will assign someone in your team to act as your technologist. Larger organizations may have someone dedicated to this role, or it might be part of someone's role on a smaller team, or maybe it is your role, if you are at a smaller company. 
 
 Your technologies should document your changing requirements. TMS changes may come every 5–15 years, depending on your requirements, growth, changing strategy, etc. However, other technology in your stack may change more frequently. Never thinking you are done, but rather reach a plateau, take a breath, and set your sights on the next peak.
 
-
-        You first learned about Diana’s predicament 
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "earlier in this chapter"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[earlier in this chapter](#heading=h.9l5cnqlshx7q). She was not able to convince a Marketing executive to utilize her technology and the company ended up with two TMS solutions. 
-
-
-        After getting her frustrations out of the way, what did our friend Diana do? Her company now had two different TMS systems: one for managing marketing content and another for everything else. 
-
-
-        She decided to utilize multiple tactics. First, she devised her strategy to include multiple stakeholders (Product, Marketing and Sales Teams in her case). Then she thought through all the technology requirements and went back to the market to research and find TMS systems that would fit all of the stakeholder needs, including the reviewers. She also kept in touch with the Marketing executive and learned about their TMS implementation problems as well as translation quality issues. Essentially, the Marketing team was not enjoying managing the localization vendor relationship. 
-
-
-        Once Diana found a few good TMS candidates that fit those requirements, she worked very closely with the stakeholders from the Product, Sales, Marketing, and Localization teams to choose a system that would meet most of the requirements. 
-
-
-        The best part was that it was fairly easy to build the business case, because the company would save money by downsizing from two TMS systems to one. The ROI was obvious even with all the time required for the system change and the implementation. The reviewers were happy with the new system and the Marketing team was actually relieved to hand the process back to the Globalization team. 
-
+> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> You first learned about Diana’s predicament [earlier in this chapter](#chapter-5-technology-strategy). She was not able to convince a Marketing executive to utilize her technology and the company ended up with two TMS solutions. 
+> 
+> After getting her frustrations out of the way, what did our friend Diana do? Her company now had two different TMS systems: one for managing marketing content and another for everything else. 
+>
+>She decided to utilize multiple tactics. First, she devised her strategy to include multiple stakeholders (Product, Marketing and Sales Teams in her case). Then she thought through all the technology requirements and went back to the market to research and find TMS systems that would fit all of the stakeholder needs, including the reviewers. She also kept in touch with the Marketing executive and learned about their TMS implementation problems as well as translation quality issues. Essentially, the Marketing team was not enjoying managing the localization vendor relationship. 
+>
+> Once Diana found a few good TMS candidates that fit those requirements, she worked very closely with the stakeholders from the Product, Sales, Marketing, and Localization teams to choose a system that would meet most of the requirements. 
+>
+>The best part was that it was fairly easy to build the business case, because the company would save money by downsizing from two TMS systems to one. The ROI was obvious even with all the time required for the system change and the implementation. The reviewers were happy with the new system and the Marketing team was actually relieved to hand the process back to the Globalization team. 
 
 ### How to Incorporate Different Technologies into Your Strategy
 
 Many current and emerging technologies will carry the industry into the next era, including AI/ML, adaptive MT, and RSI (Remote Simultaneous Interpretation) to name just a few. These technologies are too complex and evolving too quickly to cover fully here, but a quick overview will boost awareness. You or your technologist should watch these evolving technologies and think about how they can help support your company's strategy. 
-
-
 
 * **MT**. While MT is fairly ubiquitous, advanced forms of MT such as adaptive and multimodal are less off-the-shelf and more custom solutions. They can require that you shift your entire technology stack and sometimes even your LSPs, to take advantage of it. Making such a move may seem unthinkable, but some large companies have made the leap, and others are sure to follow. 
 * **AI**. We have heard the promise of AI for some time, and more applications pop up every day in the localization industry. The key to a proper AI solution is data, lots of it, clean and accessible. Data requirements hold back adoption more than the technology itself. 
@@ -1386,12 +1118,9 @@ Many current and emerging technologies will carry the industry into the next era
 
 Many larger companies appoint a Globalization Architect to drive the vision and implementation of the globalization technology stack. This helps to ensure alignment across all stakeholders.
 
-
 ### Main takeaways
 
 If you are just starting your localization technology journey, or you have been thinking of making changes to an existing setup, be sure to contemplate the following approaches described in this chapter: 
-
-
 
 * Involve your stakeholders early on. Sync up with stakeholders that interact with the technology  and engage with them on a regular basis.
 * Demonstrate technology value by building a robust business case. Include data on savings in regular reports to illustrate not only the pay off, but operational efficiencies as well. Include maintenance costs.
@@ -1406,7 +1135,7 @@ If you are just starting your localization technology journey, or you have been 
 * Make sure components from different suppliers and integrations can be replaced without a significant dependency on any one supplier.
 * Be aware of the risk when you use an LSP for translation services and technology.
 
-**Notes: **
+**Notes:**
 
 We acknowledge that some of the mentioned tasks can be managed with lower-level technology such as spreadsheets and email. However, for the purposes of this document such low tech solutions are not considered to be a “technology” as defined in this chapter. For the purposes of this book technology is defined as a designated technical solution that has built in functionality to address the specific need. 
 
