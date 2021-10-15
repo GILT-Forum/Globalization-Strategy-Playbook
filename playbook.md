@@ -1495,7 +1495,7 @@ To better prepare the data and maximize the impact of data analytics, we work wi
 
 ### Analytics Tools
 
-* **Excel sheet.** Excel is the foundation of all analysis and the most versatile of all tools. The computational capabilities of the program coupled with charting functionality make it the favorite and indispensable tool for any analyst. There is almost nothing you cannot do with Excel. Except perhaps, analyzing really large sets of data. For that, you will need more powerful tools.
+* **Excel sheet.** Excel is the foundation of all analysis and the most versatile of all tools. The computational capabilities of the program coupled with charting functionality make it the favorite and indispensable tool for any analyst. There is almost anything you can do with Excel. Except perhaps, analyzing really large sets of data. For that, you will need more powerful tools.
 * **Adobe Analytics and Google Analytics.** Web Analytic tools are used to track the usage of the content/web pages in different locales. With these tools, you can better understand the customer journey and their behavior/preference. Cumulative knowledge of your customers will allow you to design more effective websites with better customer engagement, produce content that resonates with the website visitors, create interactions that improve customer satisfaction, and measure the value of localized content. 
 
     Both Adobe Analytics and Google Analytics are widely used for tracking users across digital properties, analyzing on-site behavior, and measuring business outcomes. For instance:
@@ -1512,8 +1512,7 @@ To better prepare the data and maximize the impact of data analytics, we work wi
                 
   *Example report from Google Search Console*
   
-  
-![Example report from Google Search Console](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Google%20Console%20Example.png)
+   ![Example report from Google Search Console](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Google%20Console%20Example.png)
 
 * **Translation Management System (TMS) reporting/analytics.** Much of the day-to-day translation transaction data managed via the TMS, as well as the associated business data, is typically stored in the backend database of your TMS. This includes projects, languages, pricing, timelines and due dates, vendor information, and much more. This data is important to define metrics on production data, for example:
     * volume translated monthly
