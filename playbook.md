@@ -1005,7 +1005,7 @@ Creating and implementing your technology strategy involves several steps that a
 
 ![Create-Impelement Technology Strategy Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Create-Implement%20Technology%20Strategy.png)
 
-<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Create-Implement%20Technology%20Strategy.png" alt="Create-Implement Technology Strategy Image" width="600"/>
+<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Create-Implement%20Technology%20Strategy.png" alt="Create-Implement Technology Strategy Image" width="700"/>
 
 #### Demonstrate Value
 
