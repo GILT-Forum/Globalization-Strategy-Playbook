@@ -1342,6 +1342,7 @@ A strategic dashboard uses several metrics and illustrates a complete, end-to-en
 Example of a strategic dashboard:
 
 ![Strategic Dashboard Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Strategic%20Dashboard.png)
+<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Strategic%20Dashboard.png" alt="Strategic Dashboard Image" width="850"/>  
 
 ### Understanding the Data
 
@@ -1552,7 +1553,7 @@ Here is a job description for Senior Analytics Engineer, Globalization Data Scie
 
 >> We are looking for a highly motivated **Senior Analytics Engineer** to partner closely with the business teams to define, measure, and visualize metrics that empower effective and efficient localization. In this high impact role, you will have direct influence on globalization decisions through technical and business thought partnership.
 >>
->>**What you will do:**`
+>>**What you will do:**
 >>
 >>* Lead the research for developing novel metrics to quantify local member experience`
 >>* Build and maintain robust data aggregates and pipelines
