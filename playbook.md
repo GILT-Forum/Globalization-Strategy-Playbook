@@ -270,6 +270,8 @@ You head up a single team at The Ideal Company, and your team handles the locali
 
 ![Globalization Team image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%202_Globalization%20Team.png)
 
+<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%202_Globalization%20Team.png" alt="Globalization Team image" width="80%" height="80%"/>
+
 Whether you report into Global Marketing, the head of Research and Development (R&D), or another team, you and your team are respected contributors. People understand how your team informs the strategy, boosts customer satisfaction, and contributes to revenue. 
 
 In fact, you have a problem that you are proud of: your stakeholders are calling, emailing, and messaging you to seek your wisdom. They consider you a valued member of their teams and they invite you to attend their meetings—but you can’t accept all invitations. Fortunately, you have prepared your team for these conditions, and you have specialists in every discipline and product area who can speak for the department and contribute to solving the stakeholders’ challenges.
