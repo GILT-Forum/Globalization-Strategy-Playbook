@@ -71,7 +71,7 @@ As per the license terms, you must always give appropriate credit, provide a lin
 - [Chapter 1: Purpose and Vision](#chapter-1-purpose-and-vision)
     - [Strategic Thinking and Planning Steps](#strategic-thinking-and-planning-steps)
       - [Step 1. Your Organization Vision](#step-1-your-organization-vision)
-      - [Step 2. Your Organization Strategy](#step-2-you-organization-strategy)
+      - [Step 2. Your Organization Strategy](#step-2-your-organization-strategy)
       - [Step 3. Execution of Your Plan](#step-3-execution-of-your-plan)
     - [Acknowledgements](#acknowledgements)
 - [Chapter 2: Strategy Overview](#chapter-2-strategy-overview)
