@@ -268,7 +268,7 @@ When the company is looking at a new marketing campaign or a new product, you pu
 
 You head up a single team at The Ideal Company, and your team handles the localization work for all departments. Your team is well-tuned and optimized for the company strategy. You have the budget you need for the services you outsource, as well as for the team members who do the work. Your team includes project and program managers, perhaps a vendor manager, data analysts, technology experts to help with your tools, machine translation experts, language experts: whatever you need to execute and contribute to the strategy. You even have a seasoned program manager who is focused on strategy. 
 
-<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%202_Globalization%20Team.png" alt="Globalization Team image" width="600"/>
+<img src="/media/Chapter%202_Globalization%20Team.png" alt="Globalization Team image" width="600"/>
 
 Whether you report into Global Marketing, the head of Research and Development (R&D), or another team, you and your team are respected contributors. People understand how your team informs the strategy, boosts customer satisfaction, and contributes to revenue. 
 
@@ -296,7 +296,7 @@ However, the first step in strategy development is assessment of your company ag
 
     If the answer is “yes,” then your team should be integrated into that group to some degree, depending on the level of maturity in the organization. Perhaps Globalization has made the Strategy group aware of the need to assess markets in alignment with languages rather than geographies (e.g. Germany rather than Central Europe, or Spanish-speaking countries rather than Europe). Or Globalization might contribute past performance data by language, since it is likely that only your department is collecting that data.
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” The SVP leader assigned someone on her team to perform research and work with the Localization team, since that data was not available at the time.
+> <img src="/media/story_icon.png" alt="book image" width="30"/> Kate met with the leader of the Strategy team in her company to try to get more industry data related to language rather than the more inclusive “geography.” The SVP leader assigned someone on her team to perform research and work with the Localization team, since that data was not available at the time.
 >  
 >Kate was able to establish an on-going relationship with Strategy by presenting ROI data by language and by product to them on a regular basis, which evolved into a mutually beneficial partnership that facilitated more in-depth analysis on existing and potential target markets. 
 
@@ -325,7 +325,7 @@ Most of us have experienced the need to integrate an acquired company. Ideally, 
 
 You will be doing your company a service if you manage to integrate your expertise into the process, because if the products are not world-ready there will be costs to internationalize, which executives will not have taken into account in setting the price of acquisition. There may be delays in making the products available to global markets, which means that revenues projected as part of the acquisition would be delayed. In addition, of course, the cost of eventual localization can be severely impacted. 
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Kate’s company acquired a company that used extensive documentation to explain their product. Each page of the documentation was formatted by hand, with multiple graphics that had to be placed with exact accuracy. And there was an immediate demand for the product in multiple international products. The cost to localize was very high, not to say astronomical, and it took several releases to transition to a more rational approach for a global product. Lesson learned.
+> <img src="/media/story_icon.png" alt="book image" width="30"/> Kate’s company acquired a company that used extensive documentation to explain their product. Each page of the documentation was formatted by hand, with multiple graphics that had to be placed with exact accuracy. And there was an immediate demand for the product in multiple international products. The cost to localize was very high, not to say astronomical, and it took several releases to transition to a more rational approach for a global product. Lesson learned.
 
 
 #### R&D—CICD, UX
@@ -368,7 +368,7 @@ A procurement department or function can be of great help to Globalization in th
 
 It is unlikely that any Procurement department achieves a deep understanding of the localization industry and its nuances, so it is your responsibility as the leader to demonstrate your own deep knowledge of pricing and requirements. It is important that you take the lead on pricing and review cadence of contracts with your vendors. Procurement can then contribute its expertise when needed in negotiations and standard supplier agreements for an optimal outcome. If you do not find this balanced relationship in your assessment, you have another item on your strategy ToDo list.
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Kate’s company added a Procurement department whose mission was, first, to reduce the number of suppliers from several thousand to a reasonable number and second, to find ways to save money through the procurement function. When the new VP visited the Localization Department, Kate was pleased to be able to demonstrate her team’s mastery of vendor strategy:
+> <img src="/media/story_icon.png" alt="book image" width="30"/> Kate’s company added a Procurement department whose mission was, first, to reduce the number of suppliers from several thousand to a reasonable number and second, to find ways to save money through the procurement function. When the new VP visited the Localization Department, Kate was pleased to be able to demonstrate her team’s mastery of vendor strategy:
 > * A short list of long-time vendors, with reasoning behind each one
 > * Proposal to consolidate and expand select vendors’ scope of work based on their expertise (QA services, for example)
 > * CMMI-certified (Capability Maturity Model Integration for software development from Carnegie Mellon), documented practices for new vendor acquisition, including testing for quality, business viability, and verified recommendations from other customers 
@@ -397,7 +397,7 @@ As you can see, whatever your assessment of your company and department reveals,
 
 Let’s review the story of a Globalization leader’s efforts to assess and evaluate against The Ideal Company. This practical exercise will get you started on benchmarking your strategy and will unveil some insightful learnings.
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> One of Diana’s responsibilities was to run a program to translate her corporate website into German as a small part of her company’s expansion in the German market. Weeks after the program went live, five more languages were requested to be added to the program. It was clear that the program would need to have its own Lead and plan. That is how Diana dropped everything else and was put in charge of the website localization group. 
+> <img src="/media/story_icon.png" alt="book image" width="30"/> One of Diana’s responsibilities was to run a program to translate her corporate website into German as a small part of her company’s expansion in the German market. Weeks after the program went live, five more languages were requested to be added to the program. It was clear that the program would need to have its own Lead and plan. That is how Diana dropped everything else and was put in charge of the website localization group. 
 >
 >It was an overstatement to call her team a group because she was the only one there, working with multiple operational teams, pushing her lower priority localization. It was up to Diana now to define what resources she needed to hire, what budget she needed to translate, and what vendors to engage for specific needs. As her experience in running a Localization function was measured in weeks, she turned to research and her various networks.
 >
@@ -413,7 +413,7 @@ Let’s review the story of a Globalization leader’s efforts to assess and eva
 How would you do it if you were in Diana’s place? 
 Here is the framework. 
 
-![GTM Strategy Process image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%202_GTM%20Strategy%20Process.png)
+![GTM Strategy Process image](/media/Chapter%202_GTM%20Strategy%20Process.png)
 
 1. Start with benchmarking and understanding how your competition does globalization in your target markets. That would determine your scope just to compete on equal footing. One thing to consider is that your competition in English could be different than in a local market; it could even be outside your industry. Focus on the language experience expectations of your customers.
 2. Understand how your company produces the product you sell and where your globalization scope intersects with their processes and deliveries. Talk to the leader of each process and look for possible adjustments in their workflows so you can include the globalization track. These leaders are your most valuable partners and collaboration with them is critical to your success.
@@ -447,7 +447,7 @@ If you have been hired at a startup to put together a brand new Globalization te
 
 Most of us don’t have that luxury. Our departments have a budget, some people in various roles, and deliverables and expectations that we need to accomplish with that budget and those employees. Even while we figure out what our department strategy should be for the next three to five years, it is critical that we successfully deliver according to expectations. We need to build trust with our management and stakeholders that we know what we are doing, so that when we tell them what else we need to do, they will believe us. 
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Minato was hired as Localization Director for a software company that had been localizing their products for over ten years. Experienced project managers worked with vendors to localize products. A separate group was responsible for internationalization and localization quality assurance, and the two groups interacted well. Software was sold as individual products and suites, so all products were localized into the same set of languages for an optimal customer experience.
+> <img src="/media/story_icon.png" alt="book image" width="30"/> Minato was hired as Localization Director for a software company that had been localizing their products for over ten years. Experienced project managers worked with vendors to localize products. A separate group was responsible for internationalization and localization quality assurance, and the two groups interacted well. Software was sold as individual products and suites, so all products were localized into the same set of languages for an optimal customer experience.
 >
 > The company appeared to have mature processes and a mature strategy, with an exception: none of the products were localized into Spanish. Minato’s first step was to seek contacts with Sales in Latin America and Spain. Those in Latin America were adamant that they can increase sales if the products were localized. He asked for the percentage increase, and though they were reluctant to make promises that might be held against them if they didn’t achieve them, they agreed on a conservative 20% sales increase.
 >
@@ -575,7 +575,7 @@ Actively developing and sustaining relationships with stakeholders has an incred
 
 One useful tool for stakeholder management is a prioritization matrix where you place your stakeholders on two perpendicular axes, typically representing influence and level of interest. Over time, as you gather information about your stakeholders, you can add useful stakeholder-specific metadata to this map, such as frequency of communication, preferred communication style, personality, key dates, and relationships. 
 
-![Stakeholder Map image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%203_Stakeholder_Map.png)
+![Stakeholder Map image](/media/Chapter%203_Stakeholder_Map.png)
 The stakeholders in the top-right quadrant are your priority: with them, you will discuss and agree on roadmaps, budgets, joint initiatives, strategic outcomes, etc. Your goal is to increase the level of interest of your stakeholders, so you deal mostly with people in the top two quadrants. That said, as companies are far from static, new stakeholders might appear in any of the four quadrants. In the case of an acquisition or reorganization, you need to carefully monitor the environment.
 
 You can use different stakeholder management strategies to effectively engage stakeholders. These are the core strategies that we recommend to manage expectations and gain trust.
@@ -586,7 +586,7 @@ You can use different stakeholder management strategies to effectively engage st
     
     **Providing support in the local language**
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> In her market research for a local market, Diana discovered that there were serious comprehension issues in one of the target markets for which localized products were not provided. She validated her findings with the local teams. Then she created a strategic proposal to improve revenue from the region and address the comprehension issues by translating the products into the customers’ preferred language. 
+> <img src="/media/story_icon.png" alt="book image" width="30"/> In her market research for a local market, Diana discovered that there were serious comprehension issues in one of the target markets for which localized products were not provided. She validated her findings with the local teams. Then she created a strategic proposal to improve revenue from the region and address the comprehension issues by translating the products into the customers’ preferred language. 
 >
 >One of the suggestions was to add more customer support representatives who speak Japanese to the call center. The Head of Customer Support told Diana that they never get calls with any problems in Japanese. Diana shared that customers do not call because nobody in the call center speaks their language. 
 >
@@ -600,7 +600,7 @@ You can use different stakeholder management strategies to effectively engage st
     
     **Localization Steering Committee**
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> After his organization became centrally funded, Larry worked with his manager to form a Localization Steering Committee. He included his VP, senior representatives from the business units to which at least $1M was allocated for localization, and Procurement. The primary goals of this steering committee were to secure alignment on the priorities and maximize the impact of localization. Their approach included:
+> <img src="/media/story_icon.png" alt="book image" width="30"/> After his organization became centrally funded, Larry worked with his manager to form a Localization Steering Committee. He included his VP, senior representatives from the business units to which at least $1M was allocated for localization, and Procurement. The primary goals of this steering committee were to secure alignment on the priorities and maximize the impact of localization. Their approach included:
 >* Spending available budget on highly visible programs aligned with the company’s overall strategy.
 >* Improving coordination and planning by sharing a consistent message about partnership and alignment at the management level.
 >* Driving joint activities to improve efficiency.
@@ -737,7 +737,7 @@ Finally, articulate that international audiences exist within countries and regi
 
 ### Partners and Audience for Language Strategy
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Eva faces a challenge that she has experienced many times in companies large and small: an inconsistent customer journey in interactions with the company from research and consideration, to purchase, then to support. 
+> <img src="/media/story_icon.png" alt="book image" width="30"/> Eva faces a challenge that she has experienced many times in companies large and small: an inconsistent customer journey in interactions with the company from research and consideration, to purchase, then to support. 
 >
 >In Tier 1 markets like Germany and France, the experience is relatively seamless with consistent language support throughout the customer’s transactions. However, for lower tiered markets, such as Vietnam, the customer journey is disjointed at best. 
 >
@@ -764,7 +764,7 @@ As mentioned in Chapter 2, [“Strategy Overview,”](#chapter-2-strategy-overvi
 
 These drivers can include the following:
 
-![Language Strategy Drivers Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%204_Lang%20Strategy%20Drivers.png)
+![Language Strategy Drivers Image](/media/Chapter%204_Lang%20Strategy%20Drivers.png)
 
 Drivers of language strategy may vary, depending on many factors, including type of company (B2B, B2C, Consumer, Non-Profit, etc.), the company’s business vertical. Drivers of language strategy may participate, or be included in governance initiatives. (See section 5.6) Regardless of title or department, language strategy is typically driven by one of three forces:
 
@@ -953,7 +953,7 @@ Over time, you might notice that the most glaring issues, the ones that impact y
 
 ## Chapter 5: Technology Strategy
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Working as a Localization Technology leader in a large software company, Diana managed a mission-critical localization tool, a Translation Management System (TMS) that automatically sent content from product repositories through a translation cycle. The TMS connected vendors and reviewers and provided Project Managers with an up-to-date status of every type of job such as software, help center, marketing, and sales materials. 
+> <img src="/media/story_icon.png" alt="book image" width="30"/> Working as a Localization Technology leader in a large software company, Diana managed a mission-critical localization tool, a Translation Management System (TMS) that automatically sent content from product repositories through a translation cycle. The TMS connected vendors and reviewers and provided Project Managers with an up-to-date status of every type of job such as software, help center, marketing, and sales materials. 
 >
 >Diana was very proud of her team’s successful work on the integrations and the ability to support many types of content. The centralized system significantly reduced localization costs by increasing content leverage and allowed for a faster turnaround. 
 >
@@ -1003,7 +1003,7 @@ Four business objectives usually drive a globalization technology strategy:
 
 Creating and implementing your technology strategy involves several steps that are cyclical, as shown in the diagram below, starting with “Demonstrate value” and proceeding through the seven steps of a cycle that builds and strengthens your technology strategy. 
 
-<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Create-Implement%20Technology%20Strategy.png" alt="Create-Implement Technology Strategy Image" width="700"/>
+<img src="/media/Chapter%205_Create-Implement%20Technology%20Strategy.png" alt="Create-Implement Technology Strategy Image" width="700"/>
 
 #### Demonstrate Value
 
@@ -1036,7 +1036,7 @@ Factors to consider include:
 
 You will want to evaluate which tools will contribute to or drive specific business objectives. The following matrix will help you make this determination.
 
-![Business Objectives Mapping Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter_5_Business_Objectives_Mapping.png)
+![Business Objectives Mapping Image](/media/Chapter_5_Business_Objectives_Mapping.png)
 
 See Appendix A: [“Technology Decision Drivers and Strategic Objectives”](#appendix-a-technology-decision-drivers-and-strategic-objectives) for a detailed description of these technologies.
 
@@ -1045,7 +1045,7 @@ The mapping of business objectives to technology with increasing complexity and 
 
 #### Technology Maturity Model
 
-![Technology_Maturity_Model Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Technology%20Maturity.JPG)
+![Technology_Maturity_Model Image](/media/Chapter%205_Technology%20Maturity.JPG)
 
 #### Understand Where You Sit in the Technology Maturity Model
 
@@ -1083,7 +1083,7 @@ Once you have established the technology that supports your business objective, 
 
 Enlist a technology vendor to help you build your ROI. Many vendors have ROI calculators. The following chart shows the typical steps involved in building a business case. 
 
-<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Build%20business%20case%20process.png" alt="Build Business Case Process Image" width="850"/>
+<img src="/media/Chapter%205_Build%20business%20case%20process.png" alt="Build Business Case Process Image" width="850"/>
 
 Start by broadening your view. Will the Globalization team be the only user of the technology? If not, how will the technology impact other teams? 
 
@@ -1150,7 +1150,7 @@ Now that you have made a technology decision, you are done, right? No, you are j
 
 #### Build Reporting and Monitor Results
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Eva was quite frustrated with turn around time from one of her suppliers. After several months of talk, she saw no real improvement. She and her analyst took a fresh look at the data, specifically data by process stage—how long was the supplier taking to translate the jobs, to do DTP, to authorise the work, etc. 
+> <img src="/media/story_icon.png" alt="book image" width="30"/> Eva was quite frustrated with turn around time from one of her suppliers. After several months of talk, she saw no real improvement. She and her analyst took a fresh look at the data, specifically data by process stage—how long was the supplier taking to translate the jobs, to do DTP, to authorise the work, etc. 
 >
 >They discovered that the supplier was performing well in all steps but one, DTP. Armed with this data, Eva went back to the supplier, who had not looked at that portion of the process, because they had not looked at the data either. Within a few weeks, after process changes, turnaround time was back on target. 
 > 
@@ -1181,7 +1181,7 @@ Ideally, you will assign someone in your team to act as your technologist. Large
 
 Your technologies should document your changing requirements. TMS changes may come every 5–15 years, depending on your requirements, growth, changing strategy, etc. However, other technology in your stack may change more frequently. Never thinking you are done, but rather reach a plateau, take a breath, and set your sights on the next peak.
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> You first learned about Diana’s predicament [earlier in this chapter](#chapter-5-technology-strategy). She was not able to convince a Marketing executive to utilize her technology and the company ended up with two TMS solutions. 
+> <img src="/media/story_icon.png" alt="book image" width="30"/> You first learned about Diana’s predicament [earlier in this chapter](#chapter-5-technology-strategy). She was not able to convince a Marketing executive to utilize her technology and the company ended up with two TMS solutions. 
 > 
 > After getting her frustrations out of the way, what did our friend Diana do? Her company now had two different TMS systems: one for managing marketing content and another for everything else. 
 >
@@ -1304,7 +1304,7 @@ Ultimately, as part of your Globalization Data Strategy, you will want to develo
 6. Measure impact
 7. ...and repeat
 
-![Data Circle Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Data%20Circle.jpg)
+![Data Circle Image](/media/Chapter%206_Data%20Circle.jpg)
 
 ### Strategy Reports and Dashboard
 
@@ -1335,13 +1335,13 @@ Business owners respond to recommendations and actions that help them deliver be
 
 An example of a tactical dashboard that is aimed at one goal would be improvement of the adoption rate.
 
-<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Tactical%20Dashboard.png" alt="Tactical dashboard image" width="650"/>  
+<img src="/media/Chapter%206_Tactical%20Dashboard.png" alt="Tactical dashboard image" width="650"/>  
 
 A strategic dashboard uses several metrics and illustrates a complete, end-to-end state of the business. It includes performance overview, analysis, recommendations, and business impact. 
 
 Example of a strategic dashboard:
 
-<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Strategic%20Dashboard.png" alt="Strategic Dashboard Image" width="650"/>  
+<img src="/media/Chapter%206_Strategic%20Dashboard.png" alt="Strategic Dashboard Image" width="650"/>  
 
 ### Understanding the Data
 
@@ -1355,7 +1355,7 @@ Before we use the data, we need to understand and clarify our assumptions and ca
 
 This is an overview of the different types of data available:
 
-<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Types%20of%20Data.png" alt="Types of Data image" width="750"/>  
+<img src="/media/Chapter%206_Types%20of%20Data.png" alt="Types of Data image" width="750"/>  
 
 
 #### Incomplete Data
@@ -1601,11 +1601,11 @@ To better prepare the data and maximize the impact of data analytics, we work wi
 
   *Example report from Adobe Analytics* 
   
-  ![Example report from Adobe Analytics](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Adobe%20Analytics%20Example.png)    
+  ![Example report from Adobe Analytics](/media/Chapter%206_Adobe%20Analytics%20Example.png)    
                 
   *Example report from Google Search Console*
   
-   ![Example report from Google Search Console](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Google%20Console%20Example.png)
+   ![Example report from Google Search Console](/media/Chapter%206_Google%20Console%20Example.png)
 
 * **Translation Management System (TMS) reporting/analytics.** Much of the day-to-day translation transaction data managed via the TMS, as well as the associated business data, is typically stored in the backend database of your TMS. This includes projects, languages, pricing, timelines and due dates, vendor information, and much more. This data is important to define metrics on production data, for example:
     * volume translated monthly
@@ -1649,7 +1649,7 @@ Strategic direction based on data analysis is only the beginning. You need your 
 
 #### Using data to build a business case
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> David had just been hired as the Localization Manager for a startup that was ready to go outside of its home market. As he analyzed the data for the European market, it became clear that German should be one of the languages his company supports. 
+> <img src="/media/story_icon.png" alt="book image" width="30"/> David had just been hired as the Localization Manager for a startup that was ready to go outside of its home market. As he analyzed the data for the European market, it became clear that German should be one of the languages his company supports. 
 > 
 > Unfortunately, German translation was not included in the budget. Product managers told him everyone in Germany spoke English anyway. 
 > 
@@ -1673,7 +1673,7 @@ The following best Practices and use case stories illustrate:
 * how other factors, such as geo-political and geo-cultural aspects, impact data and insights
 * how you can shape the outcome.
 
-  > <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> In recent years, Bill’s company added several new product lines as a result of M&A. Most of the acquired new products were not localized yet. 
+  > <img src="/media/story_icon.png" alt="book image" width="30"/> In recent years, Bill’s company added several new product lines as a result of M&A. Most of the acquired new products were not localized yet. 
   >
   >Bill wanted to work with the product team to evaluate the business opportunity for globalizing/localizing the products if there were any plans to sell them in countries where English is not the primary language. Bill planned to collect and study this data using one of the newly acquired products to spearhead globalization and localization. 
   >
@@ -1690,7 +1690,7 @@ The following best Practices and use case stories illustrate:
   >There are several institutes and companies that provide research results about English tolerance and proficiency, for example the EPI (English proficiency index), which could help us to rank countries by customer impact. 
   >
   >Bill also studied Product A’s competitive landscape (CSR), before his team launched the product in non-English speaking regions. Bill hoped that their localization offerings could bring an advantage to Product A when it was launched in non-English speaking markets. He fed all of this data into a formula to calculate each locale’s Effectiveness Score (ES) to get a priority ranking for the various locales.
-  >  ![Formula image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Formula%20ES.png)          
+  >  ![Formula image](/media/Chapter%206_Formula%20ES.png)          
   >  CC: cost coefficient of Globalization (Internationalization and localization cost indicator) 
 
 
@@ -1724,7 +1724,7 @@ To put in place a world-readiness scorecard, we recommend the following steps:
 
 By implementing a score-driven world-readiness program, you will be able to assess products and measure progress over time. You will also implement a gamification mechanism. Product teams will compete against each other to get a high world-readiness score. This will reduce pressure on your team to chase product teams down. They will actually come to you to seek guidance and support.
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> Susan’s company wanted to increase their global footprint and user base. Susan, a technology company Globalization Lead, set out to evaluate the benefits of launching the company app in an additional locale.  
+> <img src="/media/story_icon.png" alt="book image" width="30"/> Susan’s company wanted to increase their global footprint and user base. Susan, a technology company Globalization Lead, set out to evaluate the benefits of launching the company app in an additional locale.  
 > 
 > To make a business case, Susan needed to define the criteria for applying resources to a given market (defined by variables that include size, growth, risks from the government, risk to users, and value to our business). Susan needed data that can sufficiently inform and ultimately guide the decision-making process. 
 > 
@@ -1749,7 +1749,7 @@ Data can sometimes suggest a clear cut answer—go or no-go. However, in some ca
 
 Data is not going to make a decision and is not going to comprehensively explain it all, but can inform on what it is likely to succeed or fail. You may find Colin Powell’s 40:70 rule for decision making helpful: as a rule of thumb, every time we face a tough decision we should have no less than 40% and no more than 70% of the information we need to make a call. The rule allows us to be informed and at the same time trust our intuition.
 
-> <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/story_icon.png" alt="book image" width="30"/> The Business Site core team & the Globalization team received a request from the Singapore team to support English-India as an additional locale available on the Business Site. An English-speaking audience that visits the Business Site currently accesses one of two English locales available on the site: English US or English UK. 
+> <img src="/media/story_icon.png" alt="book image" width="30"/> The Business Site core team & the Globalization team received a request from the Singapore team to support English-India as an additional locale available on the Business Site. An English-speaking audience that visits the Business Site currently accesses one of two English locales available on the site: English US or English UK. 
 > 
 > However,
 > 
