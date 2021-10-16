@@ -1003,8 +1003,6 @@ Four business objectives usually drive a globalization technology strategy:
 
 Creating and implementing your technology strategy involves several steps that are cyclical, as shown in the diagram below, starting with “Demonstrate value” and proceeding through the seven steps of a cycle that builds and strengthens your technology strategy. 
 
-![Create-Impelement Technology Strategy Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Create-Implement%20Technology%20Strategy.png)
-
 <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Create-Implement%20Technology%20Strategy.png" alt="Create-Implement Technology Strategy Image" width="700"/>
 
 #### Demonstrate Value
