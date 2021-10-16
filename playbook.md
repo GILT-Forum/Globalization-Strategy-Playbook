@@ -1335,15 +1335,12 @@ Business owners respond to recommendations and actions that help them deliver be
 
 An example of a tactical dashboard that is aimed at one goal would be improvement of the adoption rate.
 
-![Tactical dashboard image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Tactical%20Dashboard.png)
-
 <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Tactical%20Dashboard.png" alt="Tactical dashboard image" width="650"/>  
 
 A strategic dashboard uses several metrics and illustrates a complete, end-to-end state of the business. It includes performance overview, analysis, recommendations, and business impact. 
 
 Example of a strategic dashboard:
 
-![Strategic Dashboard Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Strategic%20Dashboard.png)
 <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Strategic%20Dashboard.png" alt="Strategic Dashboard Image" width="650"/>  
 
 ### Understanding the Data
@@ -1359,6 +1356,8 @@ Before we use the data, we need to understand and clarify our assumptions and ca
 This is an overview of the different types of data available:
 
 ![Types of Data image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Types%20of%20Data.png)
+<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Types%20of%20Data.png" alt="Types of Data image" width="700"/>  
+
 
 #### Incomplete Data
 
