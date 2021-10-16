@@ -1085,6 +1085,8 @@ Enlist a technology vendor to help you build your ROI. Many vendors have ROI cal
 
 ![Build Business Case Process Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Build%20business%20case%20process.png)
 
+<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Build%20business%20case%20process.png" alt="Build Business Case Process Image" width="700"/>
+
 Start by broadening your view. Will the Globalization team be the only user of the technology? If not, how will the technology impact other teams? 
 
 When building a business case for a terminology solution, don’t forget developers and writers whose help is required to define new terms. Will the technology help the User Experience team be more consistent with terminology across multiple products? Refer to the chapter ["Stakeholders—Strategic Engagement and Communication"](#chapter-3-stakeholdersstrategic-engagement-and-communication) to make sure you are not missing anyone. 
