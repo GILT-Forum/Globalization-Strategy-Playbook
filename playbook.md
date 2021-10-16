@@ -1355,8 +1355,7 @@ Before we use the data, we need to understand and clarify our assumptions and ca
 
 This is an overview of the different types of data available:
 
-![Types of Data image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Types%20of%20Data.png)
-<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Types%20of%20Data.png" alt="Types of Data image" width="700"/>  
+<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Types%20of%20Data.png" alt="Types of Data image" width="750"/>  
 
 
 #### Incomplete Data
