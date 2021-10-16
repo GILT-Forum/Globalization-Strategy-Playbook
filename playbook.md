@@ -940,17 +940,14 @@ You need to identify the issues, assess the impact, and discuss possible resolut
 Over time, you might notice that the most glaring issues, the ones that impact your largest foreign markets, or maybe the less complex to solve, stop appearing in your English products. This would be a good indication that you are doing something right and have managed to influence your stakeholders to adopt a more localization-friendly approach. Take a breather, you earned it, and celebrate!
 
 >***Do you want to read more?*** 
-> [Global Language Hotspots](https://www.swarthmore.edu/SocSci/langhotspots/fastfacts.html)
-> [Differences between writing and speech](https://omniglot.com/writing/writingvspeech.htm)
-David Bellos (2012), Is That a Fish in Your Ear?, Faber and Faber Inc.
-[Bamum Script](https://en.wikipedia.org/wiki/Bamum_script)
-[The Unicode Standard, Bamum](https://www.unicode.org/charts/PDF/UA6A0.pdf)
-[The Unicode Standard, Bamum supplements](https://www.unicode.org/charts/PDF/U16800.pdf)
-[Plural Rules](http://cldr.unicode.org/index/cldr-spec/plural-rules)
-[Subject–verb–object](https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object)
-
-
-
+> * [Global Language Hotspots](https://www.swarthmore.edu/SocSci/langhotspots/fastfacts.html)
+> * [Differences between writing and speech](https://omniglot.com/writing/writingvspeech.htm)
+> * David Bellos (2012), Is That a Fish in Your Ear?, Faber and Faber Inc.
+> * [Bamum Script](https://en.wikipedia.org/wiki/Bamum_script)
+> * [The Unicode Standard, Bamum](https://www.unicode.org/charts/PDF/UA6A0.pdf)
+> * [The Unicode Standard, Bamum supplements](https://www.unicode.org/charts/PDF/U16800.pdf)
+> * [Plural Rules](http://cldr.unicode.org/index/cldr-spec/plural-rules)
+> * [Subject–verb–object](https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object)
 
 
 
