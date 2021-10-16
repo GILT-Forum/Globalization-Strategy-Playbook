@@ -258,7 +258,7 @@ Imagine you are the Globalization leader in The Ideal Company. The Ideal Company
 
 It is not an entirely top-down approach: all those groups focus on gathering feedback from their customers, and they feed it back into the global strategy. As a Globalization leader, you collaborate with various groups on strategic approaches to meet expectations of multilingual users in their geographical markets.
 
-![GTM Data Stategy image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%202_GTM%20Strategy.png)
+![GTM Data Stategy image](/media/Chapter%202_GTM%20Strategy.png)
 
 Global Go to Market Motion is carried out for new products or services targeting both geographical market and language preference of the potential customers. The markets where the product will be introduced first are chosen early, along with the languages needed to support those markets. Budget is allocated for localization, and marketing materials, service materials, and product localization are all ready to go when the product is first shipped.
 
