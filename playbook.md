@@ -270,7 +270,7 @@ You head up a single team at The Ideal Company, and your team handles the locali
 
 ![Globalization Team image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%202_Globalization%20Team.png)
 
-<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%202_Globalization%20Team.png" alt="Globalization Team image" style="height:75%; width:75%"/>
+<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%202_Globalization%20Team.png" alt="Globalization Team image" width=80"/>
 
 Whether you report into Global Marketing, the head of Research and Development (R&D), or another team, you and your team are respected contributors. People understand how your team informs the strategy, boosts customer satisfaction, and contributes to revenue. 
 
