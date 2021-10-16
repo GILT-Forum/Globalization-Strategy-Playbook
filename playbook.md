@@ -31,7 +31,7 @@ Special thanks to Localization Industry professionals below who reviewed Globali
 
 This is what they said. 
 
-**Globalization Strategy Playbook is a comprehensive, informative and helpful guide for every globalization professional building, managing or leading globalization.*
+*“Globalization Strategy Playbook is a comprehensive, informative and helpful guide for every globalization professional building, managing or leading globalization.”*
 
 **EDITH BENDERMACHER**,
 Head of Globalization Strategy, Localization Operations at NetApp
