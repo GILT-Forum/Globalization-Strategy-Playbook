@@ -1085,7 +1085,7 @@ Enlist a technology vendor to help you build your ROI. Many vendors have ROI cal
 
 ![Build Business Case Process Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Build%20business%20case%20process.png)
 
-<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Build%20business%20case%20process.png" alt="Build Business Case Process Image" width="700"/>
+<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%205_Build%20business%20case%20process.png" alt="Build Business Case Process Image" width="800"/>
 
 Start by broadening your view. Will the Globalization team be the only user of the technology? If not, how will the technology impact other teams? 
 
