@@ -268,8 +268,6 @@ When the company is looking at a new marketing campaign or a new product, you pu
 
 You head up a single team at The Ideal Company, and your team handles the localization work for all departments. Your team is well-tuned and optimized for the company strategy. You have the budget you need for the services you outsource, as well as for the team members who do the work. Your team includes project and program managers, perhaps a vendor manager, data analysts, technology experts to help with your tools, machine translation experts, language experts: whatever you need to execute and contribute to the strategy. You even have a seasoned program manager who is focused on strategy. 
 
-![Globalization Team image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%202_Globalization%20Team.png)
-
 <img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%202_Globalization%20Team.png" alt="Globalization Team image" width="600"/>
 
 Whether you report into Global Marketing, the head of Research and Development (R&D), or another team, you and your team are respected contributors. People understand how your team informs the strategy, boosts customer satisfaction, and contributes to revenue. 
