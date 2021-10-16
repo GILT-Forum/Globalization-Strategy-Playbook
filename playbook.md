@@ -1337,12 +1337,14 @@ An example of a tactical dashboard that is aimed at one goal would be improvemen
 
 ![Tactical dashboard image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Tactical%20Dashboard.png)
 
+<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Tactical%20Dashboard.png" alt="Tactical dashboard image" width="650"/>  
+
 A strategic dashboard uses several metrics and illustrates a complete, end-to-end state of the business. It includes performance overview, analysis, recommendations, and business impact. 
 
 Example of a strategic dashboard:
 
 ![Strategic Dashboard Image](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Strategic%20Dashboard.png)
-<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Strategic%20Dashboard.png" alt="Strategic Dashboard Image" width="850"/>  
+<img src="https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/media/Chapter%206_Strategic%20Dashboard.png" alt="Strategic Dashboard Image" width="650"/>  
 
 ### Understanding the Data
 
