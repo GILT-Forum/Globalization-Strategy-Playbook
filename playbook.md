@@ -1310,7 +1310,7 @@ Ultimately, as part of your Globalization Data Strategy, you will want to develo
 
 One way to win fans and build effective cross-functional strategic teams of advocates and supporters is through reports and dashboards. Their purpose is to be useful. Not pretty or congested, but simply useful.
 
-Useful reports focus on one purpose and have metrics that track progress towards a target that is believed to impact the business for the better (see [Tactical Dashboard](#tactical-dashboard-image) illustration below). 
+Useful reports focus on one purpose and have metrics that track progress towards a target that is believed to impact the business for the better (see [Tactical Dashboard illustration](#tactical) below). 
 
 Useful dashboards have to lead with real insights that prompt real actions so that the real impact on the business is achieved and realized. The primary focus of a dashboard is to present trends and actionable recommendations. Dashboards are brief, one-page displays of the most important information needed to understand the business status at a glance (see [Strategic Dashboard illustration](#strategic-dashboard-image) below).
 
@@ -1335,7 +1335,7 @@ Business owners respond to recommendations and actions that help them deliver be
 
 An example of a tactical dashboard that is aimed at one goal would be improvement of the adoption rate.
 
-<img src="/media/Chapter%206_Tactical%20Dashboard.png" alt="Tactical dashboard image" width="650"/>  
+<a name="tactical"></a><img src="/media/Chapter%206_Tactical%20Dashboard.png" alt="Tactical dashboard image" width="650"/>  
 
 A strategic dashboard uses several metrics and illustrates a complete, end-to-end state of the business. It includes performance overview, analysis, recommendations, and business impact. 
 
