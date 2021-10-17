@@ -1312,7 +1312,7 @@ One way to win fans and build effective cross-functional strategic teams of advo
 
 Useful reports focus on one purpose and have metrics that track progress towards a target that is believed to impact the business for the better (see [Tactical Dashboard illustration](#tactical) below). 
 
-Useful dashboards have to lead with real insights that prompt real actions so that the real impact on the business is achieved and realized. The primary focus of a dashboard is to present trends and actionable recommendations. Dashboards are brief, one-page displays of the most important information needed to understand the business status at a glance (see [Strategic Dashboard illustration](#strategic-dashboard-image) below).
+Useful dashboards have to lead with real insights that prompt real actions so that the real impact on the business is achieved and realized. The primary focus of a dashboard is to present trends and actionable recommendations. Dashboards are brief, one-page displays of the most important information needed to understand the business status at a glance (see [Strategic Dashboard illustration](#strategic) below).
 
 Ideally, a useful Strategic Globalization Dashboard shows key trends and insights, recommendations and business impact. It presents an end-to-end view of the success: acquisition of (international) customers, their behavior when using your product, and business value of that behavior (a.k.a revenue). 
 
@@ -1341,7 +1341,7 @@ A strategic dashboard uses several metrics and illustrates a complete, end-to-en
 
 Example of a strategic dashboard:
 
-<img src="/media/Chapter%206_Strategic%20Dashboard.png" alt="Strategic Dashboard Image" width="650"/>  
+<a name="strategic"><img src="/media/Chapter%206_Strategic%20Dashboard.png" alt="Strategic Dashboard Image" width="650"/>  
 
 ### Understanding the Data
 
