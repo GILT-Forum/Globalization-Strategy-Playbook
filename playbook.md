@@ -1129,7 +1129,7 @@ Put a price tag on all of these gains. Some, such as the ones listed above, are 
 
     The technology resources may come in different variations, from a purely strategic role, staying up to date on the industry trends and making sure the latest technology is being used by a vendor, to a Chief Architect role, who puts together an integration and customization plan, to the actual engineering resources, who build the solutions, develop the integrations and customizations, work on the implementation and maintenance tasks as described above. 
 
-    In addition to the actual technical resources, make sure that the operational resources are in place. For example, even before you implement a Terminology solution, you may have to hire a terminologist, who centralizes all the terminology work for both source and target terms, and once a technology is acquired, looks after implementing it and making sure the system is used as designed. For more information on resourcing your technology strategy, refer to the [Technology Evolution](#technology-evolution) section below.
+    In addition to the actual technical resources, make sure that the operational resources are in place. For example, even before you implement a Terminology solution, you may have to hire a terminologist, who centralizes all the terminology work for both source and target terms, and once a technology is acquired, looks after implementing it and making sure the system is used as designed. For more information on resourcing your technology strategy, refer to the ["Technology Evolution"](#technology-evolution) section below.
 
 
 #### Implement the Solution
