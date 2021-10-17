@@ -1341,7 +1341,7 @@ A strategic dashboard uses several metrics and illustrates a complete, end-to-en
 
 Example of a strategic dashboard:
 
-<a name="strategic"><img src="/media/Chapter%206_Strategic%20Dashboard.png" alt="Strategic Dashboard Image" width="650"/>  
+<a name="strategic"></a><img src="/media/Chapter%206_Strategic%20Dashboard.png" alt="Strategic Dashboard Image" width="650"/>  
 
 ### Understanding the Data
 
