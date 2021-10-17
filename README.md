@@ -1,5 +1,5 @@
 # Globalization-Strategy-Playbook
-This project describes strategies for Localization and Globalization Professionals
+The ["Globalization Strategy Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/playbook.md) describes strategies for Localization and Globalization Professionals.
 
 ## Introduction
 
@@ -13,9 +13,10 @@ The document source is available on:
 
 * [GitHub](playbook.md) 
 
+<!--- 
 ## Releases
 
-The document is published as PDF to [GitHub](https://github.com/GILT-Forum/Globalization-Strategy-Playbook)
+The document is published as PDF to [GitHub](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/releases) --->
 
 ## Authors: Strategic Thinking Group
 
@@ -33,7 +34,8 @@ The document is published as PDF to [GitHub](https://github.com/GILT-Forum/Globa
 
 ## Contributing
 
-You can contribute by suggesting changes in the project [Issues](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/issues), or by editing the [playbook.md](playbook.md) file and creating a pull request.????
+You can contribute by suggesting changes in the project [Issues](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/issues), or by emailing the [Strategic Thinking Task Force](mailto:StrategyPlaybook@gmail.com).
+<!--- or by editing the [playbook.md](playbook.md) file and creating a pull request (???)--->
 
 ## License
 
