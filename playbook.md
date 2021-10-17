@@ -817,7 +817,7 @@ Examples of components of your language strategy include:
     * Reach 98% of internet users in their native language
     * Add support for language X when revenue from countries where language X is spoken reaches $xxx
     * Add support for language X if language X is also supported by the main competitor(s), etc.
-* A data model and data collection for measuring and aligning your language strategy (see language strategy model in the chapter ["Data Analytics for Global Strategy"](#chapter-6:-data-analytics-for-globalization-strategy)).
+* A data model and data collection for measuring and aligning your language strategy (see language strategy model in the chapter ["Data Analytics for Global Strategy"](#chapter-6-data-analytics-for-globalization-strategy)).
 This type of model mixes various data points used to build a robust language strategy: country data, user data, competitive data, cost data, sales data, regulatory data, etc. 
 
 At the end, the language strategy should support a solid ROI story, minimize legal and geo-political risks, and improve the overall customer experience on a global scale.
