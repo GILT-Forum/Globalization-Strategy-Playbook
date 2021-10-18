@@ -13,10 +13,9 @@ The document source is available on:
 
 * [GitHub](playbook.md) 
 
-<!--- 
 ## Releases
 
-The document is published as PDF to [GitHub](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/releases) --->
+The document is published as PDF to [GitHub](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/releases)
 
 ## Authors: Strategic Thinking Group
 
