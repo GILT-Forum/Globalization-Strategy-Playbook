@@ -24,6 +24,7 @@ The document is published as PDF to [GitHub](https://github.com/GILT-Forum/Globa
    * **Karen Combe** – *Combe Consulting*
    * **Francesca Di Marco** – *Pinterest*
    * **Loïc Dufresne de Virel** – *Intel*
+   * **Mimi Hills** - *Hillstra Associates*
    * **Natalia Levitina** – *PTC*
    * **Christian Redmann** – *Siemens Digital Industries Software*
    * **Lyena Solomon** – *ServiceNow*
