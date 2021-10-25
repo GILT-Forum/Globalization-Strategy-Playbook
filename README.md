@@ -34,8 +34,8 @@ The document is published as PDF to [GitHub](https://github.com/GILT-Forum/Globa
 
 ## Contributing
 
-You can contribute by suggesting changes in the project [Issues](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/issues), or by emailing the [Strategic Thinking Task Force](mailto:StrategyPlaybook@gmail.com).
-<!--- or by editing the [playbook.md](playbook.md) file and creating a pull request (???)--->
+You can contribute by suggesting changes in the project [Issues](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/issues), or by emailing the [Strategic Thinking Task Force](mailto:StrategyPlaybook@gmail.com). The team will review this feedback within 6-12 months. 
+
 
 ## License
 
