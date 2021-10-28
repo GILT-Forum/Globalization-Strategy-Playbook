@@ -1068,6 +1068,7 @@ Aspects to consider are:
 
 * Integration can require employing a middleware provider who can help integrate multiple source technologies with your TMS and other tangential technologies. 
 
+There will be different technology maturity depending use case, e.g. MT between support and co-workers/customers, there will be a different model. I can think on a model like this and add, based on experiences.
 
 #### Identify What Technology to Go After 
 
