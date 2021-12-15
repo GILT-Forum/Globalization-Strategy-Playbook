@@ -871,10 +871,10 @@ We’re mentioning spoken and written languages here for a few reasons:
 * Written text means script, and written data conservation means proper encoding. Historically, this has been a delicate issue for localization, but today, thanks to the Unicode Standard, it has become much easier to handle and preserve text strings.
 * Each form, spoken or written, has its specificities: permanency for written language, versus immediacy for spoken language; complexity and intricacy for written language, versus simplicity and tonality for spoken language. Of course, scripted or recorded speech can more closely resemble written language, from the perspective of complexity, or grammatical usage.
 
-Written languages can be classified in two main groups based on their writing systems, with one group for the languages and scripts that represent consonants and vowels (aka alphabets) and one for those that represent syllables (aka syllabaries).
+Writing systems can be classified into a few major groups - true that represent consonants and vowels (aka alphabets) and one for those that represent syllables (aka syllabaries).
 
 ##### Alphabets
-True alphabets include:
+In true alphabets, characters represents consonants and vowels.
 * Greek
 * Latin
 * Armenian
@@ -887,22 +887,23 @@ True alphabets include:
 The Latin alphabet - the one you're reading right now! - is notable for its many extended forms, with diacritics and different sets of letters.  It is used for all modern Western European languages, almost all Central European languages, as well as languages like Vietnamese and Zulu.
 
 ##### Abjads
-Abjads generally represent only consonants, leaving the reader to infer the vowels.  Most writing systems of the ancient and modern Near East are abjads:
+In abjads, characters generally represent only consonants, leaving the reader to infer the vowels.  Most writing systems of the ancient and modern Near East are abjads.
 * Arabic and the derivative Persian alphabet used for languages like Urdu
 * Aramaic and Hebrew
 They are generally written [right-to-left](https://developer.mozilla.org/en-US/docs/Web/CSS/direction).
 
 ##### Abugidas
-Syllabic writing systems include:
+In abugidas, characters represent syllables.
 * the Ethiopic writing system Ge'ez, used for languages of the Horn of Africa like Amharic 
 * most writing systems for languages from the Indian subcontinent, such as Devanagari - used for Hindi and more - Bengali, Malayalam, Gurmukhi, Tamil, Telugu
 * Tibetan, Burmese, Khmer, Lao and Thai
 * Canadian syllabics used for indigenous languages like Inuktitut and Cree
 
 ###### Logographics
-In logographics writing systems, characters represent both sound (syllable) and a meaning, with words made up of one or more characters.  Typically, there are multiple characters for each possible syllable, each with a different meaning.
+In logographics writing systems, characters represent both sounds - typically a syllable - and a meaning, with words made up of one or more characters.  Typically, there are multiple characters for each possible syllable, each with a different meaning.
 
 * Chinese, used for Mandarin and other Chinese languages, as well as in Japanese (Kanji)
+* ancient scripts like Egyptian, Akkadian, Urartian and Minoan
 
 ###### Mixed
 Japanese uses a mix of Hiragana, Katakana and Kanji (Chinese), as well as the Latin alphabet.  Katakana is typically used for words borrowed in modern times.
@@ -910,8 +911,6 @@ Japanese uses a mix of Hiragana, Katakana and Kanji (Chinese), as well as the La
 In practice, all modern languages include words and symbols in the Latin script in certain contexts, like URLs.  Languages like Chinese and Japanese have their own full-width versions of Latin alphabet characters and other Western symbols like numbers.
 
 Many languages, like Serbian, Mongolian, Uzbek, Uyghur, Punjabi are commonly written in multiple scripts.  A few sets of spoken languages, like Serbian and Croatian, Hindi and Urdu, and Persian and Tajik, are mutually intelligible but use different scripts.  A few, like Norwegian, have multiple orthographies with the same script.
-
-Writing systems like Chinese and Thai do not use separators, like spaces, between words.  Spaces in Thai are the equivalent of the period in English and mark the end of a sentence.
 
 We will also mention here Bamum, a language spoken in parts of Cameroon, as an interesting case of a language that historically started using a syllabic script upon its creation in 1896, but later switched to an alphabetic script during the French colonial era. Today, efforts are made to revive the Bamum Syllabary despite the fact that many books, as well as the corresponding printing equipment, were destroyed a century ago.
 
