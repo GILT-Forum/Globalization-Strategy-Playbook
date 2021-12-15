@@ -887,9 +887,9 @@ True alphabets include:
 The Latin alphabet - the one you're reading right now! - is notable for its many extended forms, with diacritics and different sets of letters.  It is used for all modern Western European languages, almost all Central European languages, as well as languages like Vietnamese and Zulu.
 
 ##### Abjads
-Abjads generally represent only consonants, leaving the reader to infer the vowels.  Abjads were used for most languages of the Near East:
-* Arabic and the Persian alphabet used for languages like Urdu
-* Hebrew
+Abjads generally represent only consonants, leaving the reader to infer the vowels.  Most writing systems of the ancient and modern Near East are abjads:
+* Arabic and the derivative Persian alphabet used for languages like Urdu
+* Aramaic and Hebrew
 They are generally written [right-to-left](https://developer.mozilla.org/en-US/docs/Web/CSS/direction).
 
 ##### Abugidas
@@ -899,20 +899,19 @@ Syllabic writing systems include:
 * Tibetan, Burmese, Khmer, Lao and Thai
 * Canadian syllabics used for indigenous languages like Inuktitut and Cree
 
-A pecularity of Thai is that it does not use spaces or other separators between words.  Spaces in Thai are the equivalent of the period in English and mark the end of a sentence.  Historically, other major writing systems, like Chinese also worked like this.
-
 ###### Logographics
 In logographics writing systems, characters represent both sound (syllable) and a meaning, with words made up of one or more characters.  Typically, there are multiple characters for each possible syllable, each with a different meaning.
 
 * Chinese, used for Mandarin and other Chinese languages, as well as in Japanese (Kanji)
-
 
 ###### Mixed
 Japanese uses a mix of Hiragana, Katakana and Kanji (Chinese), as well as the Latin alphabet.  Katakana is typically used for words borrowed in modern times.
 
 In practice, all modern languages include words and symbols in the Latin script in certain contexts, like URLs.  Languages like Chinese and Japanese have their own full-width versions of Latin alphabet characters and other Western symbols like numbers.
 
-Many languages, like Serbian, Mongolian, Uzbek, Uyghur, Punjabi are commonly written in multiple scripts.  A few sets of spoken languages, like Serbian and Croatian, Hindi and Urdu, and Persian and Tajik, are mutually intelligible but use different scripts.    A few, like Norwegian, have multiple orthographies with the same script.
+Many languages, like Serbian, Mongolian, Uzbek, Uyghur, Punjabi are commonly written in multiple scripts.  A few sets of spoken languages, like Serbian and Croatian, Hindi and Urdu, and Persian and Tajik, are mutually intelligible but use different scripts.  A few, like Norwegian, have multiple orthographies with the same script.
+
+Writing systems like Chinese and Thai do not use separators, like spaces, between words.  Spaces in Thai are the equivalent of the period in English and mark the end of a sentence.
 
 We will also mention here Bamum, a language spoken in parts of Cameroon, as an interesting case of a language that historically started using a syllabic script upon its creation in 1896, but later switched to an alphabetic script during the French colonial era. Today, efforts are made to revive the Bamum Syllabary despite the fact that many books, as well as the corresponding printing equipment, were destroyed a century ago.
 
