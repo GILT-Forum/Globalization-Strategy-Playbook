@@ -1551,26 +1551,26 @@ Automation is another key aspect of the globalization data pipeline and a key re
 
 Here is a job description for Senior Analytics Engineer, Globalization Data Science and Engineering, posted by a global streaming company:
 
->> We are looking for a highly motivated **Senior Analytics Engineer** to partner closely with the business teams to define, measure, and visualize metrics that empower effective and efficient localization. In this high impact role, you will have direct influence on globalization decisions through technical and business thought partnership.
->>
->>**What you will do:**
->>
->>* Lead the research for developing novel metrics to quantify local member experience`
->>* Build and maintain robust data aggregates and pipelines
->>* Creatively analyze data to generate insights that support business decisions and identify new opportunities
->>* Design and analyze A/B tests to bolster product innovations
->>* Rapidly construct, and iterate on dashboards and other visualization tools
->>* Communicate your contributions (in written, verbal and presentation form) to all levels of the company with varying levels of technical background
->>
->>**Your background and characteristics:**
->>
->>* Proven track to transform large amounts of complex data into insights by leading the end-to-end creation of intuitive data products
->>* Expert in querying and manipulating data sets using SQL and Python and visualization tools like Tableau (or similar tools)
->>* Familiar with statistical methods and A/B testing
->>* Excited to form strong stakeholder relationships
->>* Self-starter who thrives under a high level of autonomy
->>* Comfort with ambiguity and translating abstract business questions into actionable insights and high impact data products
->>* Enthusiastic about company culture
+> We are looking for a highly motivated **Senior Analytics Engineer** to partner closely with the business teams to define, measure, and visualize metrics that empower effective and efficient localization. In this high impact role, you will have direct influence on globalization decisions through technical and business thought partnership.
+>
+>**What you will do:**
+>
+>* Lead the research for developing novel metrics to quantify local member experience`
+>* Build and maintain robust data aggregates and pipelines
+>* Creatively analyze data to generate insights that support business decisions and identify new opportunities
+>* Design and analyze A/B tests to bolster product innovations
+>* Rapidly construct, and iterate on dashboards and other visualization tools
+>* Communicate your contributions (in written, verbal and presentation form) to all levels of the company with varying levels of technical background
+>
+>**Your background and characteristics:**
+>
+>* Proven track to transform large amounts of complex data into insights by leading the end-to-end creation of intuitive data products
+>* Expert in querying and manipulating data sets using SQL and Python and visualization tools like Tableau (or similar tools)
+>* Familiar with statistical methods and A/B testing
+>* Excited to form strong stakeholder relationships
+>* Self-starter who thrives under a high level of autonomy
+>* Comfort with ambiguity and translating abstract business questions into actionable insights and high impact data products
+>* Enthusiastic about company culture
 
 ### Partnership
 
