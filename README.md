@@ -9,5 +9,5 @@ If you or your company would like to translate the book, please send and email t
 
 All the files requiring translation (including readme.md, playbook.md, license, stylesheet and graphics) can be found in the [english](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/tree/main/english) folder.
 
-Once the translation work has been completed, please create a branch in this repository for a corresponding language folder and create a pull request.
+Once the translation work has been completed, please create a branch in this repository for a corresponding language folder, create a pull request and email the translated PDF to the [Strategic Thinking Task Force](mailto:StrategyPlaybook@gmail.com).
 
