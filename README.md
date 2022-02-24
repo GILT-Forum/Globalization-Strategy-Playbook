@@ -3,7 +3,7 @@ Welcome to the ["Globalization Strategy Playbook"](https://github.com/GILT-Forum
 
 
 ## Translation Initiatives
-As of February 1, 2022 a couple of companies have undertaken translation projects to make this publication available in Russian and Italian, and will be published here as soon as the work is completed. The translation, as well as any other development of this material is allowed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) as long as the work is not monetized and the derivative work is published under the same license as the original. An appropriate credit must be given to the original work.
+As of February 1, 2022 a couple of companies have undertaken translation projects to make this publication available in Russian, Italian and Chinese, and will be published here as soon as the work is completed. The translation, as well as any other development of this material is allowed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) as long as the work is not monetized and the derivative work is published under the same license as the original. An appropriate credit must be given to the original work.
 
 If you or your company would like to translate the book, please send and email to the [Strategic Thinking Task Force](mailto:StrategyPlaybook@gmail.com), specify the language(s) you are interested in translating this work to and request the corresponding language folder(s) to be created. 
 
