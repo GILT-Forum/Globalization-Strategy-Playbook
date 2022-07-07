@@ -1,5 +1,5 @@
 # Globalization-Strategy-Playbook
-All’interno del ["Globalization Strategy Playbook"](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/italian/playbook.md) vengono descritte diverse strategie rivolte ai professionisti della localizzazione e della globalizzazione.
+All’interno del ["Globalization Strategy Playbook"](https://github.com/GILT-Forum/Globalization-Strategy-Playbook/blob/main/italian/playbook.md) vengono descritte diverse strategie rivolte ai professionisti della localizzazione e della globalizzazione.
 
 ## Introduzione
 
