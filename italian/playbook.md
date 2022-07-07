@@ -4,7 +4,10 @@
 ---
 ## Cronologia della revisione del documento
 
-| Versione | Data della revisione | Descrizione| |---------|--------------------|----------------------------------------------------------------------------------| | v1.0 | 15 ottobre 2021 | Documento Markdown pubblicato|
+| Versione| Data della revisione  | Descrizione                   |
+| ------- | --------------------  | ----------------------------- |
+| v1.0    | 15 ottobre 2021       | Documento Markdown pubblicato |
+
  
  
  **Autori: Strategic Thinking Group**
