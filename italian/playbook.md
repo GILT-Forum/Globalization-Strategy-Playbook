@@ -1020,7 +1020,7 @@ La mappatura degli obiettivi di business alla tecnologia con complessità e inte
 
 #### Modello di maturità tecnologica
 
-![Immagine del modello di maturità tecnologica](./media/Chapter%205_Technology%20Maturity.JPG)
+![Immagine del modello di maturità tecnologica](./media/Chapter%205_Technology%20Maturity.jpg)
 
 #### Capire a che punto siete nel modello di maturità tecnologica
 
