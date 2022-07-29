@@ -266,7 +266,7 @@ Quando l'azienda valuta una nuova campagna di mercato o un nuovo prodotto, voi p
 
 Siete a capo di un singolo team dell'Azienda ideale e questo gestisce il lavoro di localizzazione per tutti i reparti. Il vostro team è ben configurato e ottimizzato per la strategia aziendale. Avete il budget necessario per i servizi che esternalizzate, così come per i membri del team che si occupano del lavoro. Il vostro team include project e program manager (e forse un vendor manager), data analyst ed esperti di tecnologia che possono aiutarvi con gli strumenti, esperti di traduzione automatica ed esperti linguistici: tutto ciò di cui avete bisogno per eseguire la strategia e contribuirvi. Disponete anche di un program manager esperto che si concentra sulla strategia. 
 
-<img src="/media/Chapter%202_Globalization%20Team.png" alt="Immagine del Globalization team" width="600"/>
+<img src="./media/Chapter%202_Globalization%20Team.png" alt="Immagine del Globalization team" width="600"/>
 
 Che rispondiate al team di Global Marketing, al capo del team di Ricerca e Sviluppo (R&S) o a un altro team, voi e il vostro team siete dei collaboratori rispettati. Le persone capiscono come il vostro team influenza la strategia, aumenta la soddisfazione del cliente e contribuisce a generare entrate. 
 
@@ -294,7 +294,7 @@ Tuttavia, il primo passo per sviluppare la strategia è la valutazione della vos
 
     Se la risposta è "sì", allora il vostro team dovrebbe in una certa misura essere integrato in quel gruppo, a seconda del livello di maturità dell'organizzazione. Il Globalization team forse ha reso il gruppo strategico consapevole della necessità di valutare i mercati in base alle lingue piuttosto che alla geografia (ad esempio, la Germania piuttosto che l'Europa centrale, o i paesi di lingua spagnola piuttosto che l'Europa). Oppure potrebbe contribuire fornendo i dati riguardanti le prestazioni passate per ogni lingua, poiché è probabile che solo il vostro reparto raccolga quei dati.
 
-> <img src="/media/story_icon.png" alt="immagine del libro" width="30"/> Kate si è confrontata con il responsabile del team strategico della sua azienda per cercare di ottenere più dati di settore relativi alla lingua piuttosto che alla più inclusiva "geografia". Considerata l'assenza di quei dati in quel momento, la leader dell'SVP ha incaricato un membro del suo team di effettuare una ricerca e collaborare con il team di localizzazione.
+> <img src="./media/story_icon.png" alt="immagine del libro" width="30"/> Kate si è confrontata con il responsabile del team strategico della sua azienda per cercare di ottenere più dati di settore relativi alla lingua piuttosto che alla più inclusiva "geografia". Considerata l'assenza di quei dati in quel momento, la leader dell'SVP ha incaricato un membro del suo team di effettuare una ricerca e collaborare con il team di localizzazione.
 >  
 >Kate è stata in grado di stabilire un rapporto continuo con il gruppo strategico, presentando loro regolarmente i dati del ROI per lingua e per prodotto. Questo ha permesso di trasformare il rapporto in una partnership reciprocamente vantaggiosa che ha reso possibile un'analisi più approfondita dei mercati target esistenti e potenziali. 
 
@@ -323,7 +323,7 @@ La maggior parte di noi ha avuto la necessità di integrare un'azienda acquisita
 
 La vostra azienda trarrà benefici se riuscirete ad integrare nel processo le vostre competenze, perché se i prodotti non sono pronti per essere distribuiti a livello mondiale, ci saranno dei costi per l'internazionalizzazione, che i dirigenti non avranno preso in considerazione nel fissare il prezzo di acquisizione. Ci possono essere ritardi nel rendere i prodotti disponibili sui mercati globali, il che significa che i ricavi previsti nell'ambito dell'acquisizione subirebbero ritardi. Inoltre, naturalmente, ciò potrebbe gravemente condizionare il costo di un'eventuale localizzazione. 
 
-> <img src="/media/story_icon.png" alt="immagine del libro" width="30"/> L'azienda di Kate ha acquisito un'azienda che usava una documentazione dettagliata per spiegare il proprio prodotto. Ogni pagina della documentazione era formattata a mano, con molteplici grafici che dovevano essere posizionati con la massima precisione. La domanda del prodotto a livello internazionale è stata immediata. Il costo di localizzazione è stato molto alto, per non dire astronomico, e sono stati necessari diversi tentativi per giungere a un approccio più razionale per un prodotto globale. Lezione imparata!
+> <img src="./media/story_icon.png" alt="immagine del libro" width="30"/> L'azienda di Kate ha acquisito un'azienda che usava una documentazione dettagliata per spiegare il proprio prodotto. Ogni pagina della documentazione era formattata a mano, con molteplici grafici che dovevano essere posizionati con la massima precisione. La domanda del prodotto a livello internazionale è stata immediata. Il costo di localizzazione è stato molto alto, per non dire astronomico, e sono stati necessari diversi tentativi per giungere a un approccio più razionale per un prodotto globale. Lezione imparata!
 
 
 #### R&S-CICD, UX
@@ -366,7 +366,7 @@ Un reparto o una funzione di procurement (approvvigionamento) può essere di gra
 
 È improbabile che un reparto di procurement raggiunga una profonda comprensione del settore della localizzazione e delle sue sfumature, quindi, in quanto leader, è vostra responsabilità dimostrare una profonda conoscenza di prezzi e requisiti. È importante che prendiate l'iniziativa sui prezzi e che rivediate la cadenza dei contratti con i fornitori. Quando è necessario nelle negoziazioni e negli accordi standard con i fornitori, il reparto di procurement può quindi contribuire con la sua esperienza a un risultato ottimale. Se non trovate questa relazione equilibrata nella vostra valutazione, avete un altro punto da aggiungere alla vostra to-do list della strategia.
 
-> <img src="/media/story_icon.png" alt="immagine del libro" width="30"/> L'azienda di Kate ha aggiunto un reparto di procurement la cui missione in un primo momento era quella di ridurre il numero di fornitori da diverse migliaia a un numero ragionevole. In secondo luogo, il suo compito era quello di risparmiare denaro attraverso la funzione di procurement. Quando il nuovo vicepresidente ha visitato il reparto di localizzazione, Kate è stata lieta di poter dimostrare la padronanza della strategia dei fornitori da parte del suo team: * Un breve elenco di fornitori di lunga data, con le motivazioni alla base della scelta ciascuno di essi * Proposta di consolidamento ed espansione dell'ambito di lavoro dei fornitori selezionati in base alle loro competenze (servizi di QA, ad esempio) * Certificazione CMMI (Capability Maturity Model Integration per lo sviluppo di software dell'università Carnegie Mellon), pratiche documentate per l'acquisizione di nuovi fornitori, compresi i test di qualità, fattibilità del business e raccomandazioni verificate fornite da altri clienti * Accordi sul livello del servizio (SLA) con appendici sui prezzi e le penalità per la mancata esecuzione * Un sistema per la gestione di preventivi e probabilmente offerte, per confrontare le offerte di più agenzie di localizzazione  
+> <img src="./media/story_icon.png" alt="immagine del libro" width="30"/> L'azienda di Kate ha aggiunto un reparto di procurement la cui missione in un primo momento era quella di ridurre il numero di fornitori da diverse migliaia a un numero ragionevole. In secondo luogo, il suo compito era quello di risparmiare denaro attraverso la funzione di procurement. Quando il nuovo vicepresidente ha visitato il reparto di localizzazione, Kate è stata lieta di poter dimostrare la padronanza della strategia dei fornitori da parte del suo team: * Un breve elenco di fornitori di lunga data, con le motivazioni alla base della scelta ciascuno di essi * Proposta di consolidamento ed espansione dell'ambito di lavoro dei fornitori selezionati in base alle loro competenze (servizi di QA, ad esempio) * Certificazione CMMI (Capability Maturity Model Integration per lo sviluppo di software dell'università Carnegie Mellon), pratiche documentate per l'acquisizione di nuovi fornitori, compresi i test di qualità, fattibilità del business e raccomandazioni verificate fornite da altri clienti * Accordi sul livello del servizio (SLA) con appendici sui prezzi e le penalità per la mancata esecuzione * Un sistema per la gestione di preventivi e probabilmente offerte, per confrontare le offerte di più agenzie di localizzazione  
 >
 >È diventato subito chiaro che le pratiche di gestione dei fornitori del reparto di localizzazione non avevano eguali in nessun altro reparto dell'azienda. Kate e il suo vendor manager hanno successivamente dimostrato nel loro software di gestione dei costi come funzionano i prezzi nel settore della localizzazione: esistono tariffe per parola diverse a seconda della lingua, del fornitore, dell'utilizzo di contenuti simili tradotti in precedenza e dell'uso della traduzione automatica e tariffe orarie per attività che non prevedono traduzione. L'uso della traduzione automatica si è dimostrato efficace nella riduzione continua e crescente dei costi. Il VP del reparto di procurement se n'è andato felice dopo quella riunione di un'ora e non è più tornato!
 
@@ -390,7 +390,7 @@ Come potete capire, qualunque sia la valutazione della vostra azienda e del vost
 
 Rivediamo la storia delle iniziative di una globalization leader per valutare ed esaminare la propria azienda rispetto all'Azienda ideale. Questo esercizio pratico vi consentirà di iniziare il benchmarking della vostra strategia e vi fornirà alcuni utili insegnamenti.
 
-> <img src="/media/story_icon.png" alt="immagine del libro " width="30"/> Una delle responsabilità di Diana era quella di gestire un programma per tradurre il sito web della sua azienda in tedesco, nell'ambito della espansione dell'azienda nel mercato tedesco. Settimane dopo l'avvio del programma, le è stato chiesto di aggiungere altre cinque lingue. Era chiaro che il programma avrebbe dovuto avere un proprio leader e un proprio piano. È così che Diana ha abbandonato tutto il resto ed è stata messa a capo del gruppo di localizzazione del sito web. 
+> <img src="./media/story_icon.png" alt="immagine del libro " width="30"/> Una delle responsabilità di Diana era quella di gestire un programma per tradurre il sito web della sua azienda in tedesco, nell'ambito della espansione dell'azienda nel mercato tedesco. Settimane dopo l'avvio del programma, le è stato chiesto di aggiungere altre cinque lingue. Era chiaro che il programma avrebbe dovuto avere un proprio leader e un proprio piano. È così che Diana ha abbandonato tutto il resto ed è stata messa a capo del gruppo di localizzazione del sito web. 
 >
 >Chiamare il suo team un gruppo era un'esagerazione: era l'unica a farne parte e collaborava con più team operativi per portare avanti la sua localizzazione a bassa priorità. Stava quindi a Diana ora definire quali risorse aveva bisogno di assumere, di quale budget aveva bisogno per tradurre e quali fornitori ingaggiare per esigenze specifiche. Poiché la sua esperienza nella gestione di una funzione di localizzazione era di poche settimane, ha effettuato delle ricerche e si è rivolta alle sue varie reti.
 >
@@ -405,7 +405,7 @@ Rivediamo la storia delle iniziative di una globalization leader per valutare ed
 
 Cosa fareste se foste al posto di Diana? Ecco il framework. 
 
-![Immagine del processo di strategia GTM](/media/Chapter%202_GTM%20Strategy%20Process.png)
+![Immagine del processo di strategia GTM](./media/Chapter%202_GTM%20Strategy%20Process.png)
 
 1. Iniziate confrontando e comprendendo come la concorrenza mette in pratica la globalizzazione nei vostri mercati di riferimento. In questo modo determinerete il vostro ambito solo per competere su un piano di parità. Una cosa da considerare è che la vostra concorrenza in inglese potrebbe essere diversa da quella di un mercato locale; potrebbe anche essere al di fuori del vostro settore. Concentratevi sulle aspettative di esperienza linguistica dei vostri clienti.
 2. Capite come la vostra azienda produce il prodotto che vendete e dove il vostro ambito di globalizzazione si interseca con i loro processi e consegne. Parlate con il leader di ogni processo e individuate possibili aggiustamenti nei loro flussi di lavoro in modo da poter includere la globalizzazione. Questi leader sono i vostri partner più preziosi e la collaborazione con loro è fondamentale per il vostro successo.
@@ -567,7 +567,7 @@ Sviluppare e sostenere attivamente le relazioni con gli stakeholder porta a un n
 
 Uno strumento utile per la gestione degli stakeholder è una matrice di priorità, in cui gli stakeholder sono posizionati su due assi perpendicolari, che rappresentano, generalmente, l'influenza e il livello di interesse. Col tempo, man mano che raccogliete informazioni sui vostri stakeholder, potrete aggiungere a questa mappa metadati specifici utili per gli stakeholder, come la frequenza della comunicazione, lo stile di comunicazione preferito, la personalità, le date chiave e le relazioni. 
 
-![Immagine della mappa degli stakeholder](/media/Chapter%203_Stakeholder_Map.png) Gli stakeholder nel quadrante in alto a destra sono la vostra priorità: con loro discuterete e vi accorderete su roadmap, budget, iniziative comuni, risultati strategici, ecc. Il vostro obiettivo è quello di aumentare il livello di interesse dei vostri stakeholder: trattate quindi soprattutto con le persone nei due quadranti superiori. Detto questo, poiché le aziende sono tutt'altro che statiche, nuovi stakeholder potrebbero comparire in uno qualsiasi dei quattro quadranti. Nel caso di un'acquisizione o di una riorganizzazione aziendale, è necessario monitorare attentamente l'ambiente.
+![Immagine della mappa degli stakeholder](./media/Chapter%203_Stakeholder_Map.png) Gli stakeholder nel quadrante in alto a destra sono la vostra priorità: con loro discuterete e vi accorderete su roadmap, budget, iniziative comuni, risultati strategici, ecc. Il vostro obiettivo è quello di aumentare il livello di interesse dei vostri stakeholder: trattate quindi soprattutto con le persone nei due quadranti superiori. Detto questo, poiché le aziende sono tutt'altro che statiche, nuovi stakeholder potrebbero comparire in uno qualsiasi dei quattro quadranti. Nel caso di un'acquisizione o di una riorganizzazione aziendale, è necessario monitorare attentamente l'ambiente.
 
 Per coinvolgere efficacemente gli stakeholder, si possono utilizzare diverse strategie di gestione degli stakeholder. Queste sono le strategie di base che raccomandiamo per gestire le aspettative e guadagnare fiducia.
 
@@ -577,7 +577,7 @@ Per coinvolgere efficacemente gli stakeholder, si possono utilizzare diverse str
     
     **Fornire supporto nella lingua locale**
 
-> <img src="/media/story_icon.png" alt="Immagine del libro" width="30"/> Nella sua ricerca di mercato per un mercato locale, Diana ha scoperto che c'erano seri problemi di comprensione in uno dei mercati di destinazione, per il quale non venivano forniti prodotti localizzati. Dopo aver confermato i risultati con i team locali, ha poi creato una proposta strategica per migliorare le entrate di quel mercato e affrontare i problemi di comprensione traducendo i prodotti nella lingua preferita dai clienti. 
+> <img src="./media/story_icon.png" alt="Immagine del libro" width="30"/> Nella sua ricerca di mercato per un mercato locale, Diana ha scoperto che c'erano seri problemi di comprensione in uno dei mercati di destinazione, per il quale non venivano forniti prodotti localizzati. Dopo aver confermato i risultati con i team locali, ha poi creato una proposta strategica per migliorare le entrate di quel mercato e affrontare i problemi di comprensione traducendo i prodotti nella lingua preferita dai clienti. 
 >
 >Uno dei suggerimenti è stato quello di aggiungere al call center più operatori dell'assistenza clienti che parlassero giapponese. Il responsabile dell'assistenza clienti ha riferito a Diana di non ricevere mai chiamate di segnalazione di problemi in giapponese. Diana ha risposto che i clienti non chiamano perché nessuno nel call center parla la loro lingua. 
 >
@@ -591,7 +591,7 @@ Per coinvolgere efficacemente gli stakeholder, si possono utilizzare diverse str
     
     **Commissione direttiva di localizzazione**
 
-> <img src="/media/story_icon.png" alt="Immagine del libro" width="30"/> Dopo che la sua organizzazione è diventata finanziata a livello centrale, Larry ha lavorato con il suo manager per formare una commissione direttiva di localizzazione. Ha incluso il suo vicepresidente, i rappresentanti Senior delle unità aziendali a cui è stato assegnato almeno un milione di dollari per la localizzazione, e il reparto di procurement. Gli obiettivi principali di questa commissione direttiva erano di assicurare l'allineamento sulle priorità e massimizzare l'impatto della localizzazione. Il loro approccio includeva: * Spendere il budget disponibile in programmi altamente visibili allineati alla strategia generale dell'azienda. * Migliorare il coordinamento e la pianificazione condividendo un messaggio coerente sulla partnership e l'allineamento a livello di gestione. * Guidare le attività congiunte per migliorare l'efficienza. * Costruire la consapevolezza di eventuali sfide e iniziative a lungo termine per le quali era necessario un certo supporto o approvazione. \*
+> <img src="./media/story_icon.png" alt="Immagine del libro" width="30"/> Dopo che la sua organizzazione è diventata finanziata a livello centrale, Larry ha lavorato con il suo manager per formare una commissione direttiva di localizzazione. Ha incluso il suo vicepresidente, i rappresentanti Senior delle unità aziendali a cui è stato assegnato almeno un milione di dollari per la localizzazione, e il reparto di procurement. Gli obiettivi principali di questa commissione direttiva erano di assicurare l'allineamento sulle priorità e massimizzare l'impatto della localizzazione. Il loro approccio includeva: * Spendere il budget disponibile in programmi altamente visibili allineati alla strategia generale dell'azienda. * Migliorare il coordinamento e la pianificazione condividendo un messaggio coerente sulla partnership e l'allineamento a livello di gestione. * Guidare le attività congiunte per migliorare l'efficienza. * Costruire la consapevolezza di eventuali sfide e iniziative a lungo termine per le quali era necessario un certo supporto o approvazione. \*
 >
 >La commissione, riunendosi con cadenza trimestrale, ha anche collaborato nel definire il finanziamento annuale necessario per sostenere i programmi di localizzazione concordati e allineati con le principali iniziative aziendali.
 
@@ -721,7 +721,7 @@ Infine, comunicate che esiste un pubblico internazionale all'interno dei Paesi e
 
 ### Partner e pubblico per la strategia linguistica
 
-> <img src="/media/story_icon.png" alt="immagine del libro" width="30"/> Eva si trova ad affrontare una sfida che ha sperimentato molte volte in aziende grandi e piccole: un costumer journey incoerente nelle interazioni con l'azienda, dalla ricerca e considerazione, fino all'acquisto e infine il supporto. 
+> <img src="./media/story_icon.png" alt="immagine del libro" width="30"/> Eva si trova ad affrontare una sfida che ha sperimentato molte volte in aziende grandi e piccole: un costumer journey incoerente nelle interazioni con l'azienda, dalla ricerca e considerazione, fino all'acquisto e infine il supporto. 
 >
 >Nei mercati Tier 1 come quello francese e tedesco, l'esperienza è relativamente senza soluzione di continuità con un supporto linguistico coerente durante le transazioni del cliente. Tuttavia, per i mercati di livello inferiore, come il Vietnam, il customer journey è disgiunto nel migliore dei casi. 
 >
@@ -748,7 +748,7 @@ Come menzionato nel Capitolo 2, ["Panoramica sulla strategia",](#chapter-2-strat
 
 Questi driver possono includere quanto segue:
 
-![Immagine driver strategia linguistica](/media/Chapter%204_Lang%20Strategy%20Drivers.png)
+![Immagine driver strategia linguistica](./media/Chapter%204_Lang%20Strategy%20Drivers.png)
 
 I driver della strategia linguistica possono variare a seconda di molti fattori, tra cui il tipo di azienda (B2B, B2C, Consumer, Non-Profit, ecc.), il mercato verticale dell'azienda. I driver della strategia linguistica possono partecipare o essere inclusi nelle iniziative di governance. (Vedere la sezione 5.6) Indipendentemente dal titolo o dal dipartimento, la strategia linguistica è tipicamente guidata da una di queste tre forze:
 
@@ -928,7 +928,7 @@ Col tempo, potreste notare che i problemi più evidenti, quelli che hanno un imp
 
 ## Capitolo 5: Strategia tecnologica
 
-> <img src="/media/story_icon.png" alt="immagine del libro" width="30"/> Nel ruolo di Localization Technology leader in una grande azienda di software, Diana ha gestito uno strumento di localizzazione di importanza fondamentale, un Translation Management System (TMS) che inviava automaticamente i contenuti dai repository dei prodotti tramite un ciclo di traduzione. Il TMS collegava fornitori e revisori e forniva ai project manager uno stato aggiornato di ogni tipo di lavoro come software, help center, marketing e materiali di vendita. 
+> <img src="./media/story_icon.png" alt="immagine del libro" width="30"/> Nel ruolo di Localization Technology leader in una grande azienda di software, Diana ha gestito uno strumento di localizzazione di importanza fondamentale, un Translation Management System (TMS) che inviava automaticamente i contenuti dai repository dei prodotti tramite un ciclo di traduzione. Il TMS collegava fornitori e revisori e forniva ai project manager uno stato aggiornato di ogni tipo di lavoro come software, help center, marketing e materiali di vendita. 
 >
 >Diana era molto orgogliosa del successo del lavoro del suo team sulle integrazioni e la capacità di supportare molti tipi di contenuti. Il sistema centralizzato ha ridotto significativamente i costi di localizzazione aumentando l'utilizzo di contenuti simili tradotti in precedenza e ha permesso un tempo di completamento più veloce. 
 >
@@ -1020,7 +1020,7 @@ La mappatura degli obiettivi di business alla tecnologia con complessità e inte
 
 #### Modello di maturità tecnologica
 
-![Immagine del modello di maturità tecnologica](/media/Chapter%205_Technology%20Maturity.JPG)
+![Immagine del modello di maturità tecnologica](./media/Chapter%205_Technology%20Maturity.JPG)
 
 #### Capire a che punto siete nel modello di maturità tecnologica
 
@@ -1058,7 +1058,7 @@ Una volta stabilita la tecnologia che supporta il vostro obiettivo di business, 
 
 Chiedete a un fornitore di tecnologia di aiutarvi a costruire il vostro ROI. Molti fornitori dispongono di calcolatori di ROI. Il grafico seguente mostra le fasi tipiche della creazione di un business case. 
 
-<img src="/media/Chapter%205_Build%20business%20case%20process.png" alt="Immagine della creazione del processo del business case" width="850"/>
+<img src="./media/Chapter%205_Build%20business%20case%20process.png" alt="Immagine della creazione del processo del business case" width="850"/>
 
 Cominciate ad ampliare la vostra visione. Il Globalization Team sarà l'unico utilizzatore della tecnologia? In caso contrario, quale sarà l'impatto della tecnologia sugli altri team? 
 
@@ -1125,7 +1125,7 @@ Ora che avete preso una decisione tecnologica, è fatta, giusto? No, avete appen
 
 #### Creare report e monitorare i risultati
 
-> <img src="/media/story_icon.png" alt="immagine del libro" width="30"/> Eva era piuttosto frustrata dai tempi di consegna di uno dei suoi fornitori. Anche dopo mesi di discussioni, non vedeva ancora un reale miglioramento. Lei e il suo analista hanno analizzato i dati, in particolare quelli relativi alle fasi del processo: quanto tempo impiegava il fornitore per tradurre i lavori, per fare il DTP, per autorizzare il lavoro, ecc. 
+> <img src="./media/story_icon.png" alt="immagine del libro" width="30"/> Eva era piuttosto frustrata dai tempi di consegna di uno dei suoi fornitori. Anche dopo mesi di discussioni, non vedeva ancora un reale miglioramento. Lei e il suo analista hanno analizzato i dati, in particolare quelli relativi alle fasi del processo: quanto tempo impiegava il fornitore per tradurre i lavori, per fare il DTP, per autorizzare il lavoro, ecc. 
 >
 >Hanno scoperto che il fornitore aveva ottenuto buoni risultati in tutte le fasi tranne una, il DTP. Dati alla mano, Eva è tornata dal fornitore, che non aveva esaminato quella parte del processo, perché nemmeno lui aveva analizzato i dati. Nel giro di poche settimane, dopo aver modificato i processi, i tempi di consegna sono tornati a essere in linea con gli obiettivi. 
 > 
@@ -1156,7 +1156,7 @@ L'ideale sarebbe assegnare a qualcuno del vostro team il ruolo di tecnologo. Que
 
 Le vostre tecnologie devono andare di pari passo con l'evoluzione dei requisiti. I cambiamenti del TMS possono avvenire ogni 5-15 anni, a seconda delle esigenze, della crescita, dei cambiamenti di strategia, ecc. Tuttavia, altre tecnologie del vostro stack possono cambiare più frequentemente. Non pensate mai di aver finito, ma piuttosto pensate di raggiungere un altopiano, fare un bel respiro e puntare alla prossima vetta.
 
-> <img src="/media/story_icon.png" alt="immagine del libro" width="30"/> La situazione di Diana è stata descritta per la prima volta [in questo capitolo](#chapter-5-technology-strategy). Non è riuscita a convincere un dirigente del reparto Marketing a utilizzare la sua tecnologia e l'azienda si è ritrovata con due soluzioni TMS. 
+> <img src="./media/story_icon.png" alt="immagine del libro" width="30"/> La situazione di Diana è stata descritta per la prima volta [in questo capitolo](#chapter-5-technology-strategy). Non è riuscita a convincere un dirigente del reparto Marketing a utilizzare la sua tecnologia e l'azienda si è ritrovata con due soluzioni TMS. 
 > 
 > Dopo aver sfogato le sue frustrazioni, come ha agito la nostra amica Diana? La sua azienda aveva ora due diversi sistemi TMS: uno per la gestione dei contenuti di marketing e un altro per tutto il resto. 
 >
@@ -1279,7 +1279,7 @@ In definitiva, nell'ambito della vostra strategia di globalizzazione dei dati, i
 6. Misurare l'impatto
 7. ... E ricominciare da capo
 
-![Immagine del cerchio di dati](/media/Chapter%206_Data%20Circle.jpg)
+![Immagine del cerchio di dati](./media/Chapter%206_Data%20Circle.jpg)
 
 ### Report e dashboard strategici
 
@@ -1310,13 +1310,13 @@ Gli imprenditori rispondono alle raccomandazioni e alle azioni che li aiutano a 
 
 Un esempio di dashboard tattico finalizzato a un obiettivo è il miglioramento del tasso di adozione.
 
-<a name="tactical"></a><img src="/media/Chapter%206_Tactical%20Dashboard.png" alt="Immagine del dashboard tattico" width="650"/>  
+<a name="tactical"></a><img src="./media/Chapter%206_Tactical%20Dashboard.png" alt="Immagine del dashboard tattico" width="650"/>  
 
 Un dashboard strategico utilizza diverse metriche e illustra uno stato completo, end-to-end, dell'azienda. Include una panoramica, analisi, raccomandazioni e impatto aziendale delle prestazioni. 
 
 Esempio di un dashboard strategico:
 
-<a name="strategic"></a><img src="/media/Chapter%206_Strategic%20Dashboard.png" alt="Immagine del dashboard strategico" width="650"/>  
+<a name="strategic"></a><img src="./media/Chapter%206_Strategic%20Dashboard.png" alt="Immagine del dashboard strategico" width="650"/>  
 
 ### Comprendere i dati
 
@@ -1330,7 +1330,7 @@ Prima di usare i dati, dobbiamo capire e chiarire le nostre ipotesi e segnalare 
 
 Questa è una panoramica dei diversi tipi di dati disponibili:
 
-<img src="/media/Chapter%206_Types%20of%20Data.png" alt="Immagine dei tipi di dati" width="750"/>  
+<img src="./media/Chapter%206_Types%20of%20Data.png" alt="Immagine dei tipi di dati" width="750"/>  
 
 
 #### Dati incompleti
@@ -1614,7 +1614,7 @@ La direzione strategica basata sull'analisi dei dati è solo l'inizio. È necess
 
 #### Utilizzare i dati per creare un business case
 
-> <img src="/media/story_icon.png" alt="immagine del libro" width="30"/> David era appena stato assunto come responsabile della localizzazione per una startup pronta a uscire dal suo mercato nazionale. Analizzando i dati relativi al mercato europeo, è emerso chiaramente che il tedesco doveva essere una delle lingue supportate dalla sua azienda. 
+> <img src="./media/story_icon.png" alt="immagine del libro" width="30"/> David era appena stato assunto come responsabile della localizzazione per una startup pronta a uscire dal suo mercato nazionale. Analizzando i dati relativi al mercato europeo, è emerso chiaramente che il tedesco doveva essere una delle lingue supportate dalla sua azienda. 
 > 
 > Purtroppo la traduzione in tedesco non era inclusa nel budget. I Product Manager gli dissero che in Germania tutti parlavano comunque inglese. 
 > 
@@ -1632,7 +1632,7 @@ Non basta dare raccomandazioni sulla direzione da seguire e spiegare come dovreb
 
 Le seguenti best practice e casi d'uso illustrano: * come si possono utilizzare le metriche * come possono influenzare le decisioni * quali sono i limiti dei dati e delle metriche * quali sono le best practice per gestire le informazioni chiave dai dati che si stanno raccogliendo * come altri fattori, come gli aspetti geo-politici e geo-culturali, influenzano i dati e le informazioni chiave * come si può influenzare il risultato.
 
-  > <img src="/media/story_icon.png" alt="immagine del libro" width="30"/> Negli ultimi anni, l'azienda di Bill ha aggiunto diverse nuove linee di prodotti a seguito di fusioni e acquisizioni. La maggior parte dei nuovi prodotti acquisiti non è stata ancora localizzata. 
+  > <img src="./media/story_icon.png" alt="immagine del libro" width="30"/> Negli ultimi anni, l'azienda di Bill ha aggiunto diverse nuove linee di prodotti a seguito di fusioni e acquisizioni. La maggior parte dei nuovi prodotti acquisiti non è stata ancora localizzata. 
   >
   >Bill voleva collaborare con il Product Team per valutare l'opportunità commerciale di globalizzare/localizzare i prodotti, nel caso in cui fosse prevista la vendita in Paesi in cui l'inglese non è la lingua principale. Bill ha pianificato di raccogliere e studiare questi dati utilizzando uno dei prodotti appena acquisiti per guidare la globalizzazione e la localizzazione. 
   >
@@ -1648,7 +1648,7 @@ Le seguenti best practice e casi d'uso illustrano: * come si possono utilizzare 
   >
   >Esistono diversi istituti e società che forniscono risultati di ricerca sulla tolleranza e sulla competenza in inglese, ad esempio l'EPI (English proficiency index, ovvero indice di conoscenza dell'inglese), che potrebbe aiutarci a classificare i Paesi in base all'impatto sui clienti. 
   >
-  >Bill ha anche studiato il panorama competitivo del prodotto A (CSR), prima che il suo team lanciasse il prodotto in regioni non anglofone. Bill sperava che le loro offerte di localizzazione potessero portare un vantaggio al prodotto A al momento del lancio in mercati non anglofoni. Ha inserito tutti questi dati in una formula per calcolare l'Effectiveness Score (ES) di ogni località per ottenere una classifica di priorità per le varie località. ![Immagine della formula](/media/Chapter%206_Formula%20ES.png)          
+  >Bill ha anche studiato il panorama competitivo del prodotto A (CSR), prima che il suo team lanciasse il prodotto in regioni non anglofone. Bill sperava che le loro offerte di localizzazione potessero portare un vantaggio al prodotto A al momento del lancio in mercati non anglofoni. Ha inserito tutti questi dati in una formula per calcolare l'Effectiveness Score (ES) di ogni località per ottenere una classifica di priorità per le varie località. ![Immagine della formula](./media/Chapter%206_Formula%20ES.png)          
   >  CC: coefficiente di costo della globalizzazione (indicatore dei costi di internazionalizzazione e localizzazione) 
 
 
