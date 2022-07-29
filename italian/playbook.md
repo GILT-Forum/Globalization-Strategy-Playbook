@@ -439,7 +439,7 @@ Se siete stati assunti da una startup per creare un nuovo Globalization team, co
 
 Molti di noi non hanno questo lusso. I nostri reparti hanno un budget, dipendenti in vari ruoli e risultati da raggiungere e aspettative da soddisfare con quel budget e quei dipendenti. Anche mentre cerchiamo di capire quale dovrebbe essere la strategia del nostro reparto per i prossimi tre-cinque anni, è fondamentale riuscire a ottenere risultati che soddisfino le aspettative. Dobbiamo guadagnarci la fiducia del management e degli stakeholder, convincerli che sappiamo cosa stiamo facendo, in modo che quando diremo loro cos'altro dobbiamo fare, si fideranno di noi. 
 
-> <img src="/media/story_icon.png" alt="immagine del libro" width="30"/> Minato è stato assunto come Localization Director per un'azienda di software che da oltre dieci anni localizza i propri prodotti. La localizzazione dei prodotti ha richiesto la collaborazione tra un gruppo di project manager esperti e i fornitori. Un altro gruppo era invece responsabile dell'internazionalizzazione e della garanzia di qualità della localizzazione e ha interagito bene con il primo gruppo. Il software è stato venduto come prodotti individuali e suite. Tutti i prodotti sono stati quindi localizzati nello stesso set di lingue per assicurare al cliente un'esperienza ottimale.
+> <img src="./media/story_icon.png" alt="immagine del libro" width="30"/> Minato è stato assunto come Localization Director per un'azienda di software che da oltre dieci anni localizza i propri prodotti. La localizzazione dei prodotti ha richiesto la collaborazione tra un gruppo di project manager esperti e i fornitori. Un altro gruppo era invece responsabile dell'internazionalizzazione e della garanzia di qualità della localizzazione e ha interagito bene con il primo gruppo. Il software è stato venduto come prodotti individuali e suite. Tutti i prodotti sono stati quindi localizzati nello stesso set di lingue per assicurare al cliente un'esperienza ottimale.
 >
 > L'azienda sembrava avere processi maturi e una strategia matura, con un'eccezione: nessuno dei prodotti era localizzato in spagnolo. Il primo passo di Minato è stato quello di mettersi in contatto con i reparti di vendita in America Latina e in Spagna. I venditori latinoamericani riconobbero chiaramente che le vendite sarebbero potute aumentare se i prodotti fossero stati localizzati. Minato chiese la percentuale di aumento e, anche se erano riluttanti a fare promesse di cui avrebbero dovuto rispondere se non fossero state raggiunte, concordarono un prudente aumento delle vendite del 20%.
 >
@@ -978,7 +978,7 @@ In genere una strategia tecnologica di globalizzazione è guidata da quattro obi
 
 La creazione e l'implementazione della vostra strategia tecnologica comporta diverse fasi cicliche, come illustrato nel diagramma di seguito, iniziando con "Dimostrare il valore" e procedendo attraverso le sette fasi di un ciclo che costruisce e rafforza la vostra strategia tecnologica. 
 
-<img src="/media/Chapter%205_Create-Implement%20Technology%20Strategy.png" alt="Immagine creare-implementare la strategia tecnologica" width="700"/>
+<img src="./media/Chapter%205_Create-Implement%20Technology%20Strategy.png" alt="Immagine creare-implementare la strategia tecnologica" width="700"/>
 
 #### Dimostrare il valore
 
@@ -1011,7 +1011,7 @@ I fattori da considerare sono:
 
 Dovrete valutare quali strumenti contribuiranno a o guideranno specifici obiettivi di business. La seguente matrice vi aiuterà a determinare quanto indicato.
 
-![Immagine di mappatura degli obiettivi di business](/media/Chapter_5_Business_Objectives_Mapping.png)
+![Immagine di mappatura degli obiettivi di business](./media/Chapter_5_Business_Objectives_Mapping.png)
 
 Vedere l'Appendice A: ["Fattori che influenzano le decisioni tecnologiche e obiettivi strategici"](#appendix-a-technology-decision-drivers-and-strategic-objectives) per una descrizione dettagliata di queste tecnologie.
 
@@ -1570,11 +1570,11 @@ Per preparare al meglio i dati e massimizzare l'impatto della Data Analytics, la
 
   *Esempio di report da Adobe Analytics* 
   
-  ![Esempio di report da Adobe Analytics](/media/Chapter%206_Adobe%20Analytics%20Example.png)    
+  ![Esempio di report da Adobe Analytics](./media/Chapter%206_Adobe%20Analytics%20Example.png)    
                 
   *Esempio di report da Google Search Console*
   
-   ![Esempio di report da Google Search Console](/media/Chapter%206_Google%20Console%20Example.png)
+   ![Esempio di report da Google Search Console](./media/Chapter%206_Google%20Console%20Example.png)
 
 * **Report/analisi del Translation Management System (TMS).** Gran parte dei dati delle transazioni di traduzione quotidiane gestite tramite il TMS, così come i dati commerciali associati, sono in genere archiviati nel database di backend del TMS. Questo include progetti, lingue, prezzi, tempistiche e scadenze, informazioni sui fornitori e molto altro ancora. Questi dati sono importanti per definire le metriche sui dati di produzione, ad esempio:
     * volume tradotto mensilmente
@@ -1682,7 +1682,7 @@ Per elaborare una scheda di valutazione sulla preparazione al mondo, raccomandia
 
 Implementando un programma di preparazione al mondo basato sui punteggi, sarete in grado di valutare i prodotti e misurare i progressi nel tempo. Implementerete anche un meccanismo di gamification. I Product Team competeranno tra loro per ottenere un punteggio elevato di preparazione al mondo. Questo ridurrà la pressione sul vostro team per inseguire i Product Team. Si rivolgeranno a voi per cercare una guida e un sostegno.
 
-> <img src="/media/story_icon.png" alt="immagine del libro" width="30"/> L'azienda di Susan voleva aumentare la propria impronta globale e la base di utenti. Susan, Globalization Lead di un'azienda tecnologica, ha deciso di valutare i vantaggi del lancio dell'app aziendale in un'altra località.  
+> <img src="./media/story_icon.png" alt="immagine del libro" width="30"/> L'azienda di Susan voleva aumentare la propria impronta globale e la base di utenti. Susan, Globalization Lead di un'azienda tecnologica, ha deciso di valutare i vantaggi del lancio dell'app aziendale in un'altra località.  
 > 
 > Per creare un business case, Susan doveva definire i criteri per l'applicazione delle risorse a un determinato mercato (definito da variabili che includono dimensioni, crescita, rischi per il governo, rischi per gli utenti e valore per la nostra azienda). Susan aveva bisogno di dati per informare in modo adeguato e guidare il processo decisionale. 
 > 
@@ -1707,7 +1707,7 @@ A volte i dati possono suggerire una risposta netta: sì o no. Tuttavia, in alcu
 
 I dati non sono in grado di prendere una decisione e non spiegheranno tutto in modo esauriente, ma possono informare su quali sono le probabilità di successo o di insuccesso. Potrebbe esservi utile la regola 40:70 di Colin Powell per il processo decisionale: come regola empirica, ogni volta che ci troviamo di fronte a una decisione difficile dovremmo avere non meno del 40% e non più del 70% delle informazioni necessarie per prendere una decisione. La regola ci permette di essere informati e allo stesso tempo di fidarci del nostro intuito.
 
-> <img src="/media/story_icon.png" alt="immagine del libro" width="30"/> Il team centrale di Business Site e il Globalization Team hanno ricevuto una richiesta dal team di Singapore di supportare l'inglese-india come locale aggiuntivo disponibile su Business Site. Il pubblico di lingua inglese che visita il Sito aziendale accede attualmente a una delle due lingue inglesi disponibili sul sito: inglese USA o inglese UK. 
+> <img src="./media/story_icon.png" alt="immagine del libro" width="30"/> Il team centrale di Business Site e il Globalization Team hanno ricevuto una richiesta dal team di Singapore di supportare l'inglese-india come locale aggiuntivo disponibile su Business Site. Il pubblico di lingua inglese che visita il Sito aziendale accede attualmente a una delle due lingue inglesi disponibili sul sito: inglese USA o inglese UK. 
 > 
 > Tuttavia,
 > 
