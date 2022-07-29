@@ -256,7 +256,7 @@ Immaginate di essere il globalization leader di un'ipotetica Azienda ideale. L'A
 
 Non è un approccio totalmente diretto dall'alto verso il basso: tutti questi gruppi si concentrano sulla raccolta di feedback dai loro clienti e li utilizzano per influenzare la strategia globale. In qualità di globalization leader collaborerete con vari gruppi agli approcci strategici che possano soddisfare le aspettative degli utenti multilingue nei loro mercati geografici.
 
-![Immagine GTM Data Stategy](/media/Chapter%202_GTM%20Strategy.png)
+![Immagine GTM Data Stategy](./media/Chapter%202_GTM%20Strategy.png)
 
 La strategia GTM (Go To Market) globale viene messa in pratica per i nuovi prodotti o servizi tenendo in considerazione sia il mercato geografico che le preferenze linguistiche dei potenziali clienti. I mercati in cui il prodotto sarà introdotto per primo sono scelti in anticipo, insieme alle lingue necessarie per supportare quei mercati. Viene poi stanziato un budget per la localizzazione e, quando il prodotto viene spedito per la prima volta, i materiali di marketing, i materiali di servizio e la localizzazione del prodotto sono pronti.
 
